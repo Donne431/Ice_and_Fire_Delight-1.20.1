@@ -1,0 +1,17 @@
+{
+  "_fv": 57,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Ice aspect",
+    "icon": "ice_aspect.png",
+    "color": {
+      "value": -13474841,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

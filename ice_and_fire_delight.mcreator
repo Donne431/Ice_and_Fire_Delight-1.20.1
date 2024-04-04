@@ -1,0 +1,895 @@
+{
+  "mod_elements": [
+    {
+      "name": "EctoplasmJelly",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ectoplasm_jelly",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/ectoplasm_jelly.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/EctoplasmJellyItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IceAndFireDelightCreativeTab",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_and_fire_delight_creative_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "FriedDragonEgg",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fried_dragon_egg",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/FriedDragonEggItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/fried_dragon_egg.json"
+        ]
+      }
+    },
+    {
+      "name": "MyrmexResinCookieJungle",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "myrmex_resin_cookie_jungle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/myrmex_resin_cookie_jungle.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/MyrmexResinCookieJungleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MyrmexResinCookieDesert",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "myrmex_resin_cookie_desert",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/MyrmexResinCookieDesertItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/myrmex_resin_cookie_desert.json"
+        ]
+      }
+    },
+    {
+      "name": "SeaSerpentMeat",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sea_serpent_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/sea_serpent_meat.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/SeaSerpentMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SeaSerpentLootTable",
+      "type": "loottable",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sea_serpent_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_tables/entities/sea_serpent_loot_table.json"
+        ]
+      }
+    },
+    {
+      "name": "SeaSerpent",
+      "type": "lootmodifier",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sea_serpent_loot_modifier",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_modifiers/sea_serpent_loot_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "FreshSoupFromSeaSerpent",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fresh_soup_from_sea_serpent",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/FreshSoupFromSeaSerpentItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/fresh_soup_from_sea_serpent.json"
+        ]
+      }
+    },
+    {
+      "name": "ChipsFromShinyScales",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chips_from_shiny_scales",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/chips_from_shiny_scales.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/ChipsFromShinyScalesItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Villagerstrades",
+      "type": "villagertrade",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "villagerstrades",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "TrollMeat",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "troll_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/troll_meat.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/TrollMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "TrollForestLootTable",
+      "type": "loottable",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "troll_forest_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_tables/entities/troll_forest_loot_table.json"
+        ]
+      }
+    },
+    {
+      "name": "TrollFrostLootTable",
+      "type": "loottable",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "troll_frost_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_tables/entities/troll_frost_loot_table.json"
+        ]
+      }
+    },
+    {
+      "name": "TrollMountainLootTable",
+      "type": "loottable",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "troll_mountain_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_tables/entities/troll_mountain_loot_table.json"
+        ]
+      }
+    },
+    {
+      "name": "TrollMountainLootModifier",
+      "type": "lootmodifier",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "troll_mountain_loot_modifier",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_modifiers/troll_mountain_loot_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "TrollFrostLootModifier",
+      "type": "lootmodifier",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "troll_frost_loot_modifier",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_modifiers/troll_frost_loot_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "TrollForestLootModifier",
+      "type": "lootmodifier",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "troll_forest_loot_modifier",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_modifiers/troll_forest_loot_modifier.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedSeaSerpentMeat",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_sea_serpent_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/cooked_sea_serpent_meat.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/CookedSeaSerpentMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CookedTrollMeat",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_troll_meat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/CookedTrollMeatItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/cooked_troll_meat.json"
+        ]
+      }
+    },
+    {
+      "name": "HoneyGlazedTrollMeat",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honey_glazed_troll_meat",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/HoneyGlazedTrollMeatItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/honey_glazed_troll_meat.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedSeaSerpentMeatSmoking",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_sea_serpent_meat_smoking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/cooked_sea_serpent_meat_smoking.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedSeaSerpentMeatCampfireCooking",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_sea_serpent_meat_campfire_cooking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/cooked_sea_serpent_meat_campfire_cooking.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedTrollMeatSmoking",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_troll_meat_smoking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/cooked_troll_meat_smoking.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedTrollMeatCampfireCooking",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_troll_meat_campfire_cooking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/cooked_troll_meat_campfire_cooking.json"
+        ]
+      }
+    },
+    {
+      "name": "FireDragonFemaleLootTable",
+      "type": "loottable",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fire_dragon_female_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_tables/entities/fire_dragon_female_loot_table.json"
+        ]
+      }
+    },
+    {
+      "name": "FireDragonMaleLootTable",
+      "type": "loottable",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fire_dragon_male_loot_table",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/loot_tables/entities/fire_dragon_male_loot_table.json"
+        ]
+      }
+    },
+    {
+      "name": "TrollIntestines",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "troll_intestines",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/TrollIntestinesItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/troll_intestines.json"
+        ]
+      }
+    },
+    {
+      "name": "FireMincedMeat",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_minced_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/fire_minced_meat.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/FireMincedMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RawFireSausage",
+      "type": "item",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_fire_sausage",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/raw_fire_sausage.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/RawFireSausageItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RawFireSausageRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "raw_fire_sausage_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/raw_fire_sausage.json"
+        ]
+      }
+    },
+    {
+      "name": "FireAspect",
+      "type": "potioneffect",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_aspect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/potion/FireAspectMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "Effect_Fire_Aspect_When_Active",
+      "type": "procedure",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effect_fire_aspect_when_active",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/Effect_Fire_Aspect_When_ActiveProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FireSausage",
+      "type": "item",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_sausage",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/FireSausageItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/fire_sausage.json"
+        ]
+      }
+    },
+    {
+      "name": "FireSausageWhenEated",
+      "type": "procedure",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_sausage_when_eated",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/FireSausageWhenEatedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IceAspect",
+      "type": "potioneffect",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_aspect",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/potion/IceAspectMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "EffectIceAspectWhenActive",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effect_ice_aspect_when_active",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/EffectIceAspectWhenActiveProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LightningStrike",
+      "type": "potioneffect",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightning_strike",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/potion/LightningStrikeMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "EffectLightningStrikeWhenActive",
+      "type": "procedure",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effect_lightning_strike_when_active",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/EffectLightningStrikeWhenActiveProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FireSausageCampfireCooking",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_sausage_campfire_cooking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/fire_sausage_campfire_cooking.json"
+        ]
+      }
+    },
+    {
+      "name": "FireSausageSmoking",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire_sausage_smoking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/fire_sausage_smoking.json"
+        ]
+      }
+    },
+    {
+      "name": "IceMincedMeat",
+      "type": "item",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_minced_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/ice_minced_meat.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/IceMincedMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RawIceSausage",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_ice_sausage",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/raw_ice_sausage.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/RawIceSausageItem.java"
+        ]
+      }
+    },
+    {
+      "name": "IceSausageWhenEated",
+      "type": "procedure",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_sausage_when_eated",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/IceSausageWhenEatedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "IceSausage",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ice_sausage",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/IceSausageItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/ice_sausage.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonSausage",
+      "type": "tag",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_sausage",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/dragon_sausage.json"
+        ]
+      }
+    },
+    {
+      "name": "RawDragonSausage",
+      "type": "tag",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_dragon_sausage",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/raw_dragon_sausage.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonMincedMeat",
+      "type": "tag",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragon_minced_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/forge/tags/items/dragon_minced_meat.json"
+        ]
+      }
+    },
+    {
+      "name": "Root",
+      "type": "achievement",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "root",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/advancements/root.json"
+        ]
+      }
+    },
+    {
+      "name": "DragonMincedMeatAdv",
+      "type": "achievement",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dragon_minced_meat_adv",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/advancements/dragon_minced_meat_adv.json"
+        ]
+      }
+    },
+    {
+      "name": "PoisonResistance",
+      "type": "potioneffect",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poison_resistance",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/potion/PoisonResistanceMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "EffectPoisonResistanceWhenActive",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "effect_poison_resistance_when_active",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/EffectPoisonResistanceWhenActiveProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Warming",
+      "type": "potioneffect",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "warming",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/potion/WarmingMobEffect.java"
+        ]
+      }
+    },
+    {
+      "name": "TrollIntestinesJei",
+      "type": "jeiinformation",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "troll_intestines_jei",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "SpicesFromWitherbone",
+      "type": "item",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spices_from_witherbone",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/SpicesFromWitherboneItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/spices_from_witherbone.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "ru_ru": {
+      "effect.ice_and_fire_delight.lightning_strike": "Молниеносный удар",
+      "item.ice_and_fire_delight.sea_serpent_meat": "Мясо левиафана",
+      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Уха из левиафана",
+      "item.ice_and_fire_delight.fire_minced_meat": "Огненный фарш",
+      "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
+      "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice and Fire Delight",
+      "item.ice_and_fire_delight.ectoplasm_jelly": "Эктоплазмовое желе",
+      "effect.ice_and_fire_delight.warming": "Тепло",
+      "effect.ice_and_fire_delight.poison_resistance": "Устойчивость к ядам",
+      "item.ice_and_fire_delight.myrmex_resin_cookie_jungle": "Печенье со смолой мирмикса",
+      "item.ice_and_fire_delight.chips_from_shiny_scales": "Чипсы из блестящей чешуи",
+      "item.ice_and_fire_delight.raw_fire_sausage": "Сырая огненная колбаса",
+      "item.ice_and_fire_delight.spices_from_witherbone": "Spices from witherbone",
+      "item.ice_and_fire_delight.troll_meat": "Мясо тролля",
+      "effect.ice_and_fire_delight.fire_aspect": "Заговор огня",
+      "item.ice_and_fire_delight.fried_dragon_egg": "Драконья яичница",
+      "item.ice_and_fire_delight.fire_sausage": "Огненная колбаса",
+      "item.ice_and_fire_delight.cooked_troll_meat": "Приготовленное мясо тролля",
+      "advancements.root.title": "Ice and Fire Delight",
+      "item.ice_and_fire_delight.ice_minced_meat": "Ледянной фарш",
+      "advancements.dragon_minced_meat_adv.descr": "Разделайте плоть дракона",
+      "item.ice_and_fire_delight.honey_glazed_troll_meat": "Мясо тролля в медовой глазури",
+      "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Печенье со смолой мирмикса",
+      "jei.ice_and_fire_delight.troll_intestines_jei": "Редкий предмет, который выпадает из тролля с редким шансом, используется при создании колбасы из дракона.",
+      "item.ice_and_fire_delight.ice_sausage": "Ледянная колбаса",
+      "advancements.dragon_minced_meat_adv.title": "Не такой уж и великий зверь!",
+      "advancements.root.descr": "Войдите в мир, полный мистических блюд",
+      "item.ice_and_fire_delight.raw_ice_sausage": "Сырая ледянная колбаса",
+      "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Приготовленное мясо левиафана",
+      "item.ice_and_fire_delight.troll_intestines": "Кишечник тролля"
+    },
+    "en_us": {
+      "effect.ice_and_fire_delight.lightning_strike": "Lightning strike",
+      "item.ice_and_fire_delight.sea_serpent_meat": "Sea Serpent meat",
+      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Fresh soup from sea serpent",
+      "effect.ice_and_fire_delight.ice_aspect": "Ice aspect",
+      "item.ice_and_fire_delight.fire_minced_meat": "Fire minced meat",
+      "item.ice_and_fire_delight.ectoplasm_jelly": "Ectoplasm jelly",
+      "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice and Fire Delight",
+      "effect.ice_and_fire_delight.warming": "Warming",
+      "effect.ice_and_fire_delight.poison_resistance": "Poison Resistance",
+      "item.ice_and_fire_delight.myrmex_resin_cookie_jungle": "Myrmex resin cookie",
+      "item.ice_and_fire_delight.chips_from_shiny_scales": "Chips from shiny scales",
+      "item.ice_and_fire_delight.raw_fire_sausage": "Raw fire sausage",
+      "item.ice_and_fire_delight.spices_from_witherbone": "Spices from witherbone",
+      "item.ice_and_fire_delight.troll_meat": "Troll meat",
+      "effect.ice_and_fire_delight.fire_aspect": "Fire aspect",
+      "item.ice_and_fire_delight.fried_dragon_egg": "Fried Dragon Egg",
+      "item.ice_and_fire_delight.fire_sausage": "Fire sausage",
+      "item.ice_and_fire_delight.cooked_troll_meat": "Cooked Troll meat",
+      "advancements.root.title": "Ice and Fire Delight",
+      "item.ice_and_fire_delight.ice_minced_meat": "Ice minced meat",
+      "advancements.dragon_minced_meat_adv.descr": "Grind the dragon flesh",
+      "item.ice_and_fire_delight.honey_glazed_troll_meat": "Honey glazed Troll meat",
+      "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Myrmex resin cookie",
+      "jei.ice_and_fire_delight.troll_intestines_jei": "A rare item that falls out of a troll with a rare chance is used to create a sausage from a dragon.",
+      "item.ice_and_fire_delight.ice_sausage": "Ice sausage",
+      "advancements.dragon_minced_meat_adv.title": "Not so great beast",
+      "advancements.root.descr": "Enter a world of magical dishes",
+      "item.ice_and_fire_delight.raw_ice_sausage": "Raw ice sausage",
+      "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Cooked Sea Serpent meat",
+      "item.ice_and_fire_delight.troll_intestines": "Troll intestines"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "ice_and_fire_delight",
+    "modName": "Ice and Fire Delight",
+    "version": "1.0",
+    "description": "Mod adds the integration of Ice and Fire with Farmer\u0027s Delight",
+    "author": "Donne431",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo-v2-1x",
+    "requiredMods": [
+      "farmersdelight",
+      "iceandfire"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "allmods",
+      "jei"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Don\u0027t forget join in my discord server!",
+    "modElementsPackage": "net.donne431.ice_and_fire_delight",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300451615
+}

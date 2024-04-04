@@ -1,0 +1,10 @@
+{
+  "type": "ice_and_fire_delight:ice_and_fire_delight_loot_modifier",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "iceandfire:entities/troll_mountain"
+    }
+  ],
+  "lootTable": "ice_and_fire_delight:entities/troll_mountain_loot_table"
+}

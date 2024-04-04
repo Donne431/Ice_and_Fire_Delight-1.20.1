@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:FireMincedMeat"
+      },
+      {
+        "value": "CUSTOM:IceMincedMeat"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "dragon_minced_meat",
+    "namespace": "forge"
+  }
+}

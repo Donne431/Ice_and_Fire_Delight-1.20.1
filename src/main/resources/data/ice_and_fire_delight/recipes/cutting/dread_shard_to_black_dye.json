@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "iceandfire:dread_shard"
+    }
+  ],
+  "result": [
+    {
+      "count": 3,
+      "item": "minecraft:black_dye"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TrollIntestines"
+      },
+      {
+        "value": "CUSTOM:FireMincedMeat"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FireMincedMeat"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILE_STAIRS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RawFireSausage"
+    },
+    "name": "raw_fire_sausage",
+    "namespace": "mod"
+  }
+}

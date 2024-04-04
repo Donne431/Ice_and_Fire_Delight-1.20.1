@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "ice_and_fire_delight:cooked_troll_meat"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "item": "ice_and_fire_delight:honey_glazed_troll_meat"
+  }
+}

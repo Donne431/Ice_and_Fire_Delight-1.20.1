@@ -1,0 +1,17 @@
+{
+  "_fv": 57,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Warming",
+    "icon": "warming.png",
+    "color": {
+      "value": -26317,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

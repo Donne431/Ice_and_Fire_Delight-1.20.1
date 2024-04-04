@@ -1,0 +1,9 @@
+{
+  "entries": [
+    "ice_and_fire_delight:sea_serpent_loot_modifier",
+    "ice_and_fire_delight:troll_mountain_loot_modifier",
+    "ice_and_fire_delight:troll_frost_loot_modifier",
+    "ice_and_fire_delight:troll_forest_loot_modifier"
+  ],
+  "replace": false
+}

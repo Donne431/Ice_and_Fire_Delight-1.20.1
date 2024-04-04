@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.donne431.ice_and_fire_delight.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.ice_and_fire_delight.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}

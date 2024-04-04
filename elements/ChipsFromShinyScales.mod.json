@@ -1,0 +1,53 @@
+{
+  "_fv": 57,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "chips_from_shiny_scales",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "Chips from shiny scales",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:IceAndFireDelightCreativeTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 4,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "Arrow"
+    },
+    "isFood": true,
+    "nutritionalValue": 3,
+    "saturation": 0.1,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

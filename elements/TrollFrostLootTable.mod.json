@@ -1,0 +1,10 @@
+{
+  "_fv": 57,
+  "_type": "loottable",
+  "definition": {
+    "type": "Entity",
+    "pools": [],
+    "name": "entities/troll_frost_loot_table",
+    "namespace": "mod"
+  }
+}

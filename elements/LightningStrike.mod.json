@@ -1,0 +1,17 @@
+{
+  "_fv": 57,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Lightning strike",
+    "icon": "lightning_strike.png",
+    "color": {
+      "value": -1708222,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 500,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "ice_and_fire_delight:sea_serpent_meat"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "ice_and_fire_delight:fresh_soup_from_sea_serpent"
+  }
+}

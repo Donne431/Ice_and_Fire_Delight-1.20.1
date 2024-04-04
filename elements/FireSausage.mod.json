@@ -1,0 +1,56 @@
+{
+  "_fv": 57,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "fire_sausage",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "Fire sausage",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:IceAndFireDelightCreativeTab"
+    },
+    "stackSize": 16,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "FireSausageWhenEated"
+    },
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "Arrow"
+    },
+    "isFood": true,
+    "nutritionalValue": 13,
+    "saturation": 0.16,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": true,
+    "isAlwaysEdible": true,
+    "animation": "eat"
+  }
+}

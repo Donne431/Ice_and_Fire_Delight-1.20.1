@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="ice_and_fire_delight"
+version="1.0"
+displayName="Ice and Fire Delight"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="Don't forget join in my discord server!"
+authors="Donne431"
+description="Mod adds the integration of Ice and Fire with Farmer's Delight"
+
+[[dependencies.ice_and_fire_delight]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+[[dependencies.ice_and_fire_delight]]
+    modId="farmersdelight"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ice_and_fire_delight]]
+    modId="iceandfire"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.ice_and_fire_delight]]
+    modId="allmods"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ice_and_fire_delight]]
+    modId="jei"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

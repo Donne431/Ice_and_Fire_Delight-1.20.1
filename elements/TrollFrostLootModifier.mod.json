@@ -1,0 +1,8 @@
+{
+  "_fv": 57,
+  "_type": "lootmodifier",
+  "definition": {
+    "modifiedTable": "iceandfire:entities/troll_frost",
+    "modifierTable": "TrollFrostLootTable"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_delight:troll_intestines"
+    },
+    {
+      "item": "ice_and_fire_delight:lightning_minced_meat"
+    },
+    {
+      "item": "ice_and_fire_delight:lightning_minced_meat"
+    },
+    {
+      "item": "iceandfire:lightning_dragon_blood"
+    }
+  ],
+  "result": {
+    "item": "ice_and_fire_delight:raw_lightning_sausage",
+    "count": 1
+  }
+}

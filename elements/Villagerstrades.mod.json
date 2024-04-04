@@ -1,0 +1,133 @@
+{
+  "_fv": 57,
+  "_type": "villagertrade",
+  "definition": {
+    "tradeEntries": [
+      {
+        "villagerProfession": {
+          "value": "WANDERING_TRADER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 6,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:ChipsFromShinyScales"
+            },
+            "countOffer": 5,
+            "level": 1,
+            "maxTrades": 15,
+            "xp": 5,
+            "priceMultiplier": 0.05
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "WANDERING_TRADER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 13,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:FreshSoupFromSeaSerpent"
+            },
+            "countOffer": 1,
+            "level": 1,
+            "maxTrades": 3,
+            "xp": 5,
+            "priceMultiplier": 0.8
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "FISHERMAN"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 4,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:SeaSerpentMeat"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 7,
+            "xp": 5,
+            "priceMultiplier": 0.1
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "BUTCHER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 6,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:SeaSerpentMeat"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 11,
+            "xp": 5,
+            "priceMultiplier": 0.1
+          }
+        ]
+      },
+      {
+        "villagerProfession": {
+          "value": "BUTCHER"
+        },
+        "entries": [
+          {
+            "price1": {
+              "value": "Items.EMERALD"
+            },
+            "countPrice1": 5,
+            "price2": {
+              "value": ""
+            },
+            "countPrice2": 1,
+            "offer": {
+              "value": "CUSTOM:TrollMeat"
+            },
+            "countOffer": 1,
+            "level": 4,
+            "maxTrades": 10,
+            "xp": 5,
+            "priceMultiplier": 0.1
+          }
+        ]
+      }
+    ]
+  }
+}

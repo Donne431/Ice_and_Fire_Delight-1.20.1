@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RawFireSausage"
+      },
+      {
+        "value": "CUSTOM:RawIceSausage"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "raw_dragon_sausage",
+    "namespace": "forge"
+  }
+}

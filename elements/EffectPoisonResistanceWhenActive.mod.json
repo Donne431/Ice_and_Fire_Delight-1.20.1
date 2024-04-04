@@ -1,0 +1,7 @@
+{
+  "_fv": 57,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable type=\"Entity\" id=\"victim\">victim</variable></variables><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">player_ticks</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"entity_haspotioneffect\"><field name=\"potion\">CUSTOM:PoisonResistance</field><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></value><statement name=\"DO0\"><block type=\"entity_remove_specific_potion_effect\"><field name=\"potion\">POISON</field><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></statement></block></next></block></xml>"
+  }
+}
