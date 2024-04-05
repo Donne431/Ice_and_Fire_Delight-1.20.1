@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ice_and_fire_delight:item/spicy_chips_from_shiny_scales"
+  }
+}

@@ -37,6 +37,9 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.RAW_ICE_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.ICE_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.SPICES_FROM_WITHERBONE.get());
+				tabData.accept(IceAndFireDelightModItems.SPICY_CHIPS_FROM_SHINY_SCALES.get());
+				tabData.accept(IceAndFireDelightModItems.CYCLOPS_MEAT.get());
+				tabData.accept(IceAndFireDelightModItems.CYCLOPS_STEAK.get());
 			})
 
 			.build());

@@ -12,6 +12,7 @@ import net.minecraft.world.item.Item;
 
 import net.donne431.ice_and_fire_delight.item.TrollMeatItem;
 import net.donne431.ice_and_fire_delight.item.TrollIntestinesItem;
+import net.donne431.ice_and_fire_delight.item.SpicyChipsFromShinyScalesItem;
 import net.donne431.ice_and_fire_delight.item.SpicesFromWitherboneItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentMeatItem;
 import net.donne431.ice_and_fire_delight.item.RawIceSausageItem;
@@ -26,8 +27,10 @@ import net.donne431.ice_and_fire_delight.item.FreshSoupFromSeaSerpentItem;
 import net.donne431.ice_and_fire_delight.item.FireSausageItem;
 import net.donne431.ice_and_fire_delight.item.FireMincedMeatItem;
 import net.donne431.ice_and_fire_delight.item.EctoplasmJellyItem;
+import net.donne431.ice_and_fire_delight.item.CyclopsMeatItem;
 import net.donne431.ice_and_fire_delight.item.CookedTrollMeatItem;
 import net.donne431.ice_and_fire_delight.item.CookedSeaSerpentMeatItem;
+import net.donne431.ice_and_fire_delight.item.CookedCyclopsMeatItem;
 import net.donne431.ice_and_fire_delight.item.ChipsFromShinyScalesItem;
 import net.donne431.ice_and_fire_delight.IceAndFireDelightMod;
 
@@ -52,4 +55,7 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> RAW_ICE_SAUSAGE = REGISTRY.register("raw_ice_sausage", () -> new RawIceSausageItem());
 	public static final RegistryObject<Item> ICE_SAUSAGE = REGISTRY.register("ice_sausage", () -> new IceSausageItem());
 	public static final RegistryObject<Item> SPICES_FROM_WITHERBONE = REGISTRY.register("spices_from_witherbone", () -> new SpicesFromWitherboneItem());
+	public static final RegistryObject<Item> SPICY_CHIPS_FROM_SHINY_SCALES = REGISTRY.register("spicy_chips_from_shiny_scales", () -> new SpicyChipsFromShinyScalesItem());
+	public static final RegistryObject<Item> CYCLOPS_MEAT = REGISTRY.register("cyclops_meat", () -> new CyclopsMeatItem());
+	public static final RegistryObject<Item> CYCLOPS_STEAK = REGISTRY.register("cyclops_steak", () -> new CookedCyclopsMeatItem());
 }

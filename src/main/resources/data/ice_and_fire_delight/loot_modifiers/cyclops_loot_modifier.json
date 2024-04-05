@@ -1,0 +1,10 @@
+{
+  "type": "ice_and_fire_delight:ice_and_fire_delight_loot_modifier",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "iceandfire:entities/cyclops"
+    }
+  ],
+  "lootTable": "ice_and_fire_delight:entities/cyclops_loot_table"
+}

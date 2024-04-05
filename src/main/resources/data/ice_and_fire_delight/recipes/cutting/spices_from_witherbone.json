@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "iceandfire:witherbone"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "ice_and_fire_delight:spices_from_witherbone"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}
