@@ -17,7 +17,7 @@
     {
       "name": "IceAndFireDelightCreativeTab",
       "type": "tab",
-      "sortid": 13,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_and_fire_delight_creative_tab",
@@ -70,7 +70,7 @@
     {
       "name": "SeaSerpentMeat",
       "type": "item",
-      "sortid": 6,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sea_serpent_meat",
@@ -84,7 +84,7 @@
     {
       "name": "SeaSerpentLootTable",
       "type": "loottable",
-      "sortid": 14,
+      "sortid": 25,
       "compiles": true,
       "locked_code": true,
       "registry_name": "sea_serpent_loot_table",
@@ -97,7 +97,7 @@
     {
       "name": "SeaSerpent",
       "type": "lootmodifier",
-      "sortid": 15,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sea_serpent_loot_modifier",
@@ -110,7 +110,7 @@
     {
       "name": "FreshSoupFromSeaSerpent",
       "type": "item",
-      "sortid": 10,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fresh_soup_from_sea_serpent",
@@ -138,7 +138,7 @@
     {
       "name": "Villagerstrades",
       "type": "villagertrade",
-      "sortid": 16,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "villagerstrades",
@@ -149,7 +149,7 @@
     {
       "name": "TrollMeat",
       "type": "item",
-      "sortid": 8,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_meat",
@@ -163,7 +163,7 @@
     {
       "name": "TrollForestLootTable",
       "type": "loottable",
-      "sortid": 17,
+      "sortid": 28,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_forest_loot_table",
@@ -176,7 +176,7 @@
     {
       "name": "TrollFrostLootTable",
       "type": "loottable",
-      "sortid": 18,
+      "sortid": 29,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_frost_loot_table",
@@ -189,7 +189,7 @@
     {
       "name": "TrollMountainLootTable",
       "type": "loottable",
-      "sortid": 19,
+      "sortid": 30,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_mountain_loot_table",
@@ -202,7 +202,7 @@
     {
       "name": "TrollMountainLootModifier",
       "type": "lootmodifier",
-      "sortid": 20,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_mountain_loot_modifier",
@@ -215,7 +215,7 @@
     {
       "name": "TrollFrostLootModifier",
       "type": "lootmodifier",
-      "sortid": 21,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_frost_loot_modifier",
@@ -228,7 +228,7 @@
     {
       "name": "TrollForestLootModifier",
       "type": "lootmodifier",
-      "sortid": 22,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_forest_loot_modifier",
@@ -241,7 +241,7 @@
     {
       "name": "CookedSeaSerpentMeat",
       "type": "item",
-      "sortid": 7,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_meat",
@@ -255,7 +255,7 @@
     {
       "name": "CookedTrollMeat",
       "type": "item",
-      "sortid": 9,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_troll_meat",
@@ -269,7 +269,7 @@
     {
       "name": "HoneyGlazedTrollMeat",
       "type": "item",
-      "sortid": 11,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "registry_name": "honey_glazed_troll_meat",
@@ -283,7 +283,7 @@
     {
       "name": "CookedSeaSerpentMeatSmoking",
       "type": "recipe",
-      "sortid": 23,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_meat_smoking",
@@ -296,7 +296,7 @@
     {
       "name": "CookedSeaSerpentMeatCampfireCooking",
       "type": "recipe",
-      "sortid": 24,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_meat_campfire_cooking",
@@ -309,7 +309,7 @@
     {
       "name": "CookedTrollMeatSmoking",
       "type": "recipe",
-      "sortid": 25,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_troll_meat_smoking",
@@ -322,7 +322,7 @@
     {
       "name": "CookedTrollMeatCampfireCooking",
       "type": "recipe",
-      "sortid": 26,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_troll_meat_campfire_cooking",
@@ -335,7 +335,7 @@
     {
       "name": "FireDragonFemaleLootTable",
       "type": "loottable",
-      "sortid": 27,
+      "sortid": 38,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_dragon_female_loot_table",
@@ -348,7 +348,7 @@
     {
       "name": "FireDragonMaleLootTable",
       "type": "loottable",
-      "sortid": 28,
+      "sortid": 39,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_dragon_male_loot_table",
@@ -361,7 +361,7 @@
     {
       "name": "TrollIntestines",
       "type": "item",
-      "sortid": 31,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_intestines",
@@ -375,7 +375,7 @@
     {
       "name": "FireMincedMeat",
       "type": "item",
-      "sortid": 32,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_minced_meat",
@@ -389,7 +389,7 @@
     {
       "name": "RawFireSausage",
       "type": "item",
-      "sortid": 33,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_fire_sausage",
@@ -403,7 +403,7 @@
     {
       "name": "RawFireSausageRecipe",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 40,
       "compiles": true,
       "locked_code": true,
       "registry_name": "raw_fire_sausage_recipe",
@@ -416,7 +416,7 @@
     {
       "name": "FireAspect",
       "type": "potioneffect",
-      "sortid": 35,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_aspect",
@@ -429,7 +429,7 @@
     {
       "name": "Effect_Fire_Aspect_When_Active",
       "type": "procedure",
-      "sortid": 36,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_fire_aspect_when_active",
@@ -452,7 +452,7 @@
     {
       "name": "FireSausage",
       "type": "item",
-      "sortid": 37,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage",
@@ -466,7 +466,7 @@
     {
       "name": "FireSausageWhenEated",
       "type": "procedure",
-      "sortid": 38,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_when_eated",
@@ -485,7 +485,7 @@
     {
       "name": "IceAspect",
       "type": "potioneffect",
-      "sortid": 39,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_aspect",
@@ -498,7 +498,7 @@
     {
       "name": "EffectIceAspectWhenActive",
       "type": "procedure",
-      "sortid": 40,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_ice_aspect_when_active",
@@ -521,7 +521,7 @@
     {
       "name": "LightningStrike",
       "type": "potioneffect",
-      "sortid": 41,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_strike",
@@ -534,7 +534,7 @@
     {
       "name": "EffectLightningStrikeWhenActive",
       "type": "procedure",
-      "sortid": 42,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_lightning_strike_when_active",
@@ -573,7 +573,7 @@
     {
       "name": "FireSausageCampfireCooking",
       "type": "recipe",
-      "sortid": 43,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_campfire_cooking",
@@ -586,7 +586,7 @@
     {
       "name": "FireSausageSmoking",
       "type": "recipe",
-      "sortid": 44,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_smoking",
@@ -599,7 +599,7 @@
     {
       "name": "IceMincedMeat",
       "type": "item",
-      "sortid": 45,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_minced_meat",
@@ -613,7 +613,7 @@
     {
       "name": "RawIceSausage",
       "type": "item",
-      "sortid": 46,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_ice_sausage",
@@ -627,7 +627,7 @@
     {
       "name": "IceSausageWhenEated",
       "type": "procedure",
-      "sortid": 47,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_sausage_when_eated",
@@ -646,7 +646,7 @@
     {
       "name": "IceSausage",
       "type": "item",
-      "sortid": 48,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_sausage",
@@ -660,7 +660,7 @@
     {
       "name": "DragonSausage",
       "type": "tag",
-      "sortid": 49,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_sausage",
@@ -673,7 +673,7 @@
     {
       "name": "RawDragonSausage",
       "type": "tag",
-      "sortid": 50,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_dragon_sausage",
@@ -686,7 +686,7 @@
     {
       "name": "DragonMincedMeat",
       "type": "tag",
-      "sortid": 51,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_minced_meat",
@@ -699,7 +699,7 @@
     {
       "name": "Root",
       "type": "achievement",
-      "sortid": 52,
+      "sortid": 54,
       "compiles": true,
       "locked_code": true,
       "registry_name": "root",
@@ -712,7 +712,7 @@
     {
       "name": "DragonMincedMeatAdv",
       "type": "achievement",
-      "sortid": 53,
+      "sortid": 55,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragon_minced_meat_adv",
@@ -725,7 +725,7 @@
     {
       "name": "PoisonResistance",
       "type": "potioneffect",
-      "sortid": 54,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "poison_resistance",
@@ -738,7 +738,7 @@
     {
       "name": "EffectPoisonResistanceWhenActive",
       "type": "procedure",
-      "sortid": 55,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_poison_resistance_when_active",
@@ -757,7 +757,7 @@
     {
       "name": "Warming",
       "type": "potioneffect",
-      "sortid": 56,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warming",
@@ -770,7 +770,7 @@
     {
       "name": "TrollIntestinesJei",
       "type": "jeiinformation",
-      "sortid": 58,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_intestines_jei",
@@ -781,7 +781,7 @@
     {
       "name": "SpicesFromWitherbone",
       "type": "item",
-      "sortid": 59,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spices_from_witherbone",
@@ -795,7 +795,7 @@
     {
       "name": "SpicyChipsFromShinyScales",
       "type": "item",
-      "sortid": 60,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales",
@@ -809,7 +809,7 @@
     {
       "name": "SpicyChipsFromShinyScalesRecipe",
       "type": "recipe",
-      "sortid": 61,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales_recipe",
@@ -822,7 +822,7 @@
     {
       "name": "SpicyChipsFromShinyScalesWhenEated",
       "type": "procedure",
-      "sortid": 62,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales_when_eated",
@@ -841,7 +841,7 @@
     {
       "name": "CyclopsLootTable",
       "type": "loottable",
-      "sortid": 63,
+      "sortid": 62,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cyclops_loot_table",
@@ -854,7 +854,7 @@
     {
       "name": "CyclopsLootModifier",
       "type": "lootmodifier",
-      "sortid": 64,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyclops_loot_modifier",
@@ -867,7 +867,7 @@
     {
       "name": "CyclopsMeat",
       "type": "item",
-      "sortid": 65,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyclops_meat",
@@ -881,7 +881,7 @@
     {
       "name": "CookedCyclopsMeat",
       "type": "item",
-      "sortid": 66,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyclops_steak",
@@ -891,6 +891,85 @@
           "src/main/resources/assets/ice_and_fire_delight/models/item/cyclops_steak.json"
         ]
       }
+    },
+    {
+      "name": "FeelSpicy",
+      "type": "achievement",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "feel_spicy",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/advancements/feel_spicy.json"
+        ]
+      }
+    },
+    {
+      "name": "KillPixie",
+      "type": "achievement",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "kill_pixie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/advancements/kill_pixie.json"
+        ]
+      }
+    },
+    {
+      "name": "Spices",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spices",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/SpicesItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/spices.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedSeaSerpentMeatFurnace",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_sea_serpent_meat_furnace",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/cooked_sea_serpent_meat_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedTrollMeatFurnace",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_troll_meat_furnace",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/cooked_troll_meat_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "CyclopsSteakSmelting",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cyclops_steak_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/cyclops_steak_smelting.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -898,11 +977,12 @@
   "language_map": {
     "ru_ru": {
       "effect.ice_and_fire_delight.lightning_strike": "Молниеносный удар",
-      "item.ice_and_fire_delight.cyclops_steak": "Стейк из циклопа",
       "item.ice_and_fire_delight.sea_serpent_meat": "Мясо левиафана",
-      "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
-      "item.ice_and_fire_delight.fire_minced_meat": "Огненный фарш",
+      "item.ice_and_fire_delight.cyclops_steak": "Стейк из циклопа",
       "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Уха из левиафана",
+      "item.ice_and_fire_delight.fire_minced_meat": "Огненный фарш",
+      "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
+      "item.ice_and_fire_delight.spices": "Специи",
       "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice and Fire Delight",
       "item.ice_and_fire_delight.ectoplasm_jelly": "Эктоплазмовое желе",
       "effect.ice_and_fire_delight.warming": "Тепло",
@@ -912,10 +992,13 @@
       "item.ice_and_fire_delight.cyclops_meat": "Мясо циклопа",
       "item.ice_and_fire_delight.raw_fire_sausage": "Сырая огненная колбаса",
       "item.ice_and_fire_delight.spices_from_witherbone": "Специи из костей иссушителя",
+      "advancements.feel_spicy.descr": "Съешьте острые чипсы из блестящей чешуи",
+      "advancements.kill_pixie.title": "Ты монстр!",
       "item.ice_and_fire_delight.troll_meat": "Мясо тролля",
       "effect.ice_and_fire_delight.fire_aspect": "Заговор огня",
       "item.ice_and_fire_delight.fried_dragon_egg": "Драконья яичница",
       "item.ice_and_fire_delight.fire_sausage": "Огненная колбаса",
+      "advancements.feel_spicy.title": "Почуствуй остроту",
       "item.ice_and_fire_delight.cooked_troll_meat": "Приготовленное мясо тролля",
       "advancements.root.title": "Ice and Fire Delight",
       "item.ice_and_fire_delight.ice_minced_meat": "Ледянной фарш",
@@ -923,6 +1006,7 @@
       "item.ice_and_fire_delight.honey_glazed_troll_meat": "Мясо тролля в медовой глазури",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Печенье со смолой мирмикса",
       "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Острые чипсы из блестящей чешуи",
+      "advancements.kill_pixie.descr": "Убейте пикси",
       "jei.ice_and_fire_delight.troll_intestines_jei": "Редкий предмет, который выпадает из тролля с редким шансом, используется при создании колбасы из дракона.",
       "item.ice_and_fire_delight.ice_sausage": "Ледянная колбаса",
       "advancements.dragon_minced_meat_adv.title": "Не такой уж и великий зверь!",
@@ -935,9 +1019,10 @@
       "effect.ice_and_fire_delight.lightning_strike": "Lightning strike",
       "item.ice_and_fire_delight.sea_serpent_meat": "Sea Serpent meat",
       "item.ice_and_fire_delight.cyclops_steak": "Cyclops steak",
-      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Fresh soup from sea serpent",
-      "effect.ice_and_fire_delight.ice_aspect": "Ice aspect",
       "item.ice_and_fire_delight.fire_minced_meat": "Fire minced meat",
+      "effect.ice_and_fire_delight.ice_aspect": "Ice aspect",
+      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Fresh soup from sea serpent",
+      "item.ice_and_fire_delight.spices": "Spices",
       "item.ice_and_fire_delight.ectoplasm_jelly": "Ectoplasm jelly",
       "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice And Fire Delight",
       "effect.ice_and_fire_delight.warming": "Warming",
@@ -947,10 +1032,13 @@
       "item.ice_and_fire_delight.cyclops_meat": "Cyclops meat",
       "item.ice_and_fire_delight.raw_fire_sausage": "Raw fire sausage",
       "item.ice_and_fire_delight.spices_from_witherbone": "Spices from witherbone",
+      "advancements.feel_spicy.descr": "Eat spicy chips from shiny scales",
+      "advancements.kill_pixie.title": "You are a monster!",
       "item.ice_and_fire_delight.troll_meat": "Troll meat",
       "effect.ice_and_fire_delight.fire_aspect": "Fire aspect",
       "item.ice_and_fire_delight.fried_dragon_egg": "Fried Dragon Egg",
       "item.ice_and_fire_delight.fire_sausage": "Fire sausage",
+      "advancements.feel_spicy.title": "Feel spicy",
       "item.ice_and_fire_delight.cooked_troll_meat": "Cooked Troll meat",
       "advancements.root.title": "Ice and Fire Delight",
       "item.ice_and_fire_delight.ice_minced_meat": "Ice minced meat",
@@ -958,6 +1046,7 @@
       "item.ice_and_fire_delight.honey_glazed_troll_meat": "Honey glazed Troll meat",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Myrmex resin cookie",
       "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Spicy chips from shiny scales",
+      "advancements.kill_pixie.descr": "Kill pixie",
       "jei.ice_and_fire_delight.troll_intestines_jei": "A rare item that falls out of a troll with a rare chance is used to create a sausage from a dragon.",
       "item.ice_and_fire_delight.ice_sausage": "Ice sausage",
       "advancements.dragon_minced_meat_adv.title": "Not so great beast",
@@ -974,7 +1063,7 @@
   "workspaceSettings": {
     "modid": "ice_and_fire_delight",
     "modName": "Ice and Fire Delight",
-    "version": "1.0",
+    "version": "0.1.1",
     "description": "Mod adds the integration of Ice and Fire with Farmer\u0027s Delight",
     "author": "Donne431",
     "websiteURL": "https://mcreator.net",

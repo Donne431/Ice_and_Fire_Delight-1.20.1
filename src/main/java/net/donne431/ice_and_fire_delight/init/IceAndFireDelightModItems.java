@@ -13,6 +13,7 @@ import net.minecraft.world.item.Item;
 import net.donne431.ice_and_fire_delight.item.TrollMeatItem;
 import net.donne431.ice_and_fire_delight.item.TrollIntestinesItem;
 import net.donne431.ice_and_fire_delight.item.SpicyChipsFromShinyScalesItem;
+import net.donne431.ice_and_fire_delight.item.SpicesItem;
 import net.donne431.ice_and_fire_delight.item.SpicesFromWitherboneItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentMeatItem;
 import net.donne431.ice_and_fire_delight.item.RawIceSausageItem;
@@ -41,10 +42,13 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> MYRMEX_RESIN_COOKIE_JUNGLE = REGISTRY.register("myrmex_resin_cookie_jungle", () -> new MyrmexResinCookieJungleItem());
 	public static final RegistryObject<Item> MYRMEX_RESIN_COOKIE_DESERT = REGISTRY.register("myrmex_resin_cookie_desert", () -> new MyrmexResinCookieDesertItem());
 	public static final RegistryObject<Item> CHIPS_FROM_SHINY_SCALES = REGISTRY.register("chips_from_shiny_scales", () -> new ChipsFromShinyScalesItem());
+	public static final RegistryObject<Item> SPICY_CHIPS_FROM_SHINY_SCALES = REGISTRY.register("spicy_chips_from_shiny_scales", () -> new SpicyChipsFromShinyScalesItem());
 	public static final RegistryObject<Item> SEA_SERPENT_MEAT = REGISTRY.register("sea_serpent_meat", () -> new SeaSerpentMeatItem());
 	public static final RegistryObject<Item> COOKED_SEA_SERPENT_MEAT = REGISTRY.register("cooked_sea_serpent_meat", () -> new CookedSeaSerpentMeatItem());
 	public static final RegistryObject<Item> TROLL_MEAT = REGISTRY.register("troll_meat", () -> new TrollMeatItem());
 	public static final RegistryObject<Item> COOKED_TROLL_MEAT = REGISTRY.register("cooked_troll_meat", () -> new CookedTrollMeatItem());
+	public static final RegistryObject<Item> CYCLOPS_MEAT = REGISTRY.register("cyclops_meat", () -> new CyclopsMeatItem());
+	public static final RegistryObject<Item> CYCLOPS_STEAK = REGISTRY.register("cyclops_steak", () -> new CookedCyclopsMeatItem());
 	public static final RegistryObject<Item> FRESH_SOUP_FROM_SEA_SERPENT = REGISTRY.register("fresh_soup_from_sea_serpent", () -> new FreshSoupFromSeaSerpentItem());
 	public static final RegistryObject<Item> HONEY_GLAZED_TROLL_MEAT = REGISTRY.register("honey_glazed_troll_meat", () -> new HoneyGlazedTrollMeatItem());
 	public static final RegistryObject<Item> TROLL_INTESTINES = REGISTRY.register("troll_intestines", () -> new TrollIntestinesItem());
@@ -55,7 +59,5 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> RAW_ICE_SAUSAGE = REGISTRY.register("raw_ice_sausage", () -> new RawIceSausageItem());
 	public static final RegistryObject<Item> ICE_SAUSAGE = REGISTRY.register("ice_sausage", () -> new IceSausageItem());
 	public static final RegistryObject<Item> SPICES_FROM_WITHERBONE = REGISTRY.register("spices_from_witherbone", () -> new SpicesFromWitherboneItem());
-	public static final RegistryObject<Item> SPICY_CHIPS_FROM_SHINY_SCALES = REGISTRY.register("spicy_chips_from_shiny_scales", () -> new SpicyChipsFromShinyScalesItem());
-	public static final RegistryObject<Item> CYCLOPS_MEAT = REGISTRY.register("cyclops_meat", () -> new CyclopsMeatItem());
-	public static final RegistryObject<Item> CYCLOPS_STEAK = REGISTRY.register("cyclops_steak", () -> new CookedCyclopsMeatItem());
+	public static final RegistryObject<Item> SPICES = REGISTRY.register("spices", () -> new SpicesItem());
 }

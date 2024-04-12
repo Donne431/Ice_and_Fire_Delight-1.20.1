@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "iceandfire:pixie_dust"
+    },
+    {
+      "item": "ice_and_fire_delight:spices_from_witherbone"
+    }
+  ],
+  "result": {
+    "item": "ice_and_fire_delight:spices",
+    "count": 1
+  }
+}

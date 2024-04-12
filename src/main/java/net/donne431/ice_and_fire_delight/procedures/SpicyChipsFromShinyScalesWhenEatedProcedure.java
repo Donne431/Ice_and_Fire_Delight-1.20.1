@@ -14,6 +14,5 @@ public class SpicyChipsFromShinyScalesWhenEatedProcedure {
 			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.FIRE_ASPECT.get(), 200, 1));
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
 			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.WARMING.get(), 600, 1));
-		entity.setSecondsOnFire((int) 0.2);
 	}
 }

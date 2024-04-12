@@ -23,10 +23,13 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.MYRMEX_RESIN_COOKIE_JUNGLE.get());
 				tabData.accept(IceAndFireDelightModItems.MYRMEX_RESIN_COOKIE_DESERT.get());
 				tabData.accept(IceAndFireDelightModItems.CHIPS_FROM_SHINY_SCALES.get());
+				tabData.accept(IceAndFireDelightModItems.SPICY_CHIPS_FROM_SHINY_SCALES.get());
 				tabData.accept(IceAndFireDelightModItems.SEA_SERPENT_MEAT.get());
 				tabData.accept(IceAndFireDelightModItems.COOKED_SEA_SERPENT_MEAT.get());
 				tabData.accept(IceAndFireDelightModItems.TROLL_MEAT.get());
 				tabData.accept(IceAndFireDelightModItems.COOKED_TROLL_MEAT.get());
+				tabData.accept(IceAndFireDelightModItems.CYCLOPS_MEAT.get());
+				tabData.accept(IceAndFireDelightModItems.CYCLOPS_STEAK.get());
 				tabData.accept(IceAndFireDelightModItems.FRESH_SOUP_FROM_SEA_SERPENT.get());
 				tabData.accept(IceAndFireDelightModItems.HONEY_GLAZED_TROLL_MEAT.get());
 				tabData.accept(IceAndFireDelightModItems.TROLL_INTESTINES.get());
@@ -37,9 +40,7 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.RAW_ICE_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.ICE_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.SPICES_FROM_WITHERBONE.get());
-				tabData.accept(IceAndFireDelightModItems.SPICY_CHIPS_FROM_SHINY_SCALES.get());
-				tabData.accept(IceAndFireDelightModItems.CYCLOPS_MEAT.get());
-				tabData.accept(IceAndFireDelightModItems.CYCLOPS_STEAK.get());
+				tabData.accept(IceAndFireDelightModItems.SPICES.get());
 			})
 
 			.build());

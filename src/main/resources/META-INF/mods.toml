@@ -4,7 +4,7 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="ice_and_fire_delight"
-version="1.0"
+version="0.1.1"
 displayName="Ice and Fire Delight"
 displayURL="https://mcreator.net"
 logoFile="logo.png"
