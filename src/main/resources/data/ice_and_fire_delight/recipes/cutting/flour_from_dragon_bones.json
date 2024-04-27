@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "iceandfire:dragonbone"
+    }
+  ],
+  "result": [
+    {
+      "count": 1,
+      "item": "ice_and_fire_delight:flour_from_dragon_bones"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

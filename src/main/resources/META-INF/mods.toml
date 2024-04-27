@@ -4,9 +4,9 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="ice_and_fire_delight"
-version="0.1.1"
+version="0.1.2"
 displayName="Ice and Fire Delight"
-displayURL="https://mcreator.net"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-delight"
 logoFile="logo.png"
 credits="Don't forget join in my discord server!"
 authors="Donne431"
@@ -33,6 +33,12 @@ description="Mod adds the integration of Ice and Fire with Farmer's Delight"
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.ice_and_fire_delight]]
+    modId="patchouli"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
 [[dependencies.ice_and_fire_delight]]
     modId="allmods"
     mandatory=false

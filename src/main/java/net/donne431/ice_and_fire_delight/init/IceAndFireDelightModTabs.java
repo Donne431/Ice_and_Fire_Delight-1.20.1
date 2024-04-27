@@ -41,6 +41,12 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.ICE_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.SPICES_FROM_WITHERBONE.get());
 				tabData.accept(IceAndFireDelightModItems.SPICES.get());
+				tabData.accept(IceAndFireDelightModItems.FLOUR_FROM_DRAGON_BONES.get());
+				tabData.accept(IceAndFireDelightModItems.DOUGH_FROM_DRAGON_BONES.get());
+				tabData.accept(IceAndFireDelightModItems.EMPTY_MEASURING_CYLINDER.get());
+				tabData.accept(IceAndFireDelightModItems.FIRE_LILY_EXTRACT.get());
+				tabData.accept(IceAndFireDelightModItems.FROST_LILY_EXTRACT.get());
+				tabData.accept(IceAndFireDelightModItems.LIGHTNING_LILY_EXTRACT.get());
 			})
 
 			.build());
