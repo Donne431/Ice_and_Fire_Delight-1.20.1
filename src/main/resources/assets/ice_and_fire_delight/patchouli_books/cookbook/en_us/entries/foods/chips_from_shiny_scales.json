@@ -1,0 +1,17 @@
+{
+	"name": "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name",
+	"icon": "ice_and_fire_delight:chips_from_shiny_scales",
+	"category": "ice_and_fire_delight:foods",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.desc"
+		},
+		{
+			"type": "patchouli:smelting",
+			"recipe": "ice_and_fire_delight:chips_from_shiny_scales_smelting",
+			"title": "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.title",
+			"text": "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text"
+		}
+	]
+}

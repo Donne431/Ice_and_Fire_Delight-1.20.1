@@ -1,0 +1,9 @@
+{
+  "_fv": 57,
+  "_type": "function",
+  "definition": {
+    "code": "# Любишь лазить по файлам? :) Если хочешь помочь, можешь написать мне в дискорд.\ngive @s patchouli:guide_book{\"patchouli:book\": \"ice_and_fire_delight:cookbook\"}",
+    "name": "grant_book_on_first_join",
+    "namespace": "mod"
+  }
+}

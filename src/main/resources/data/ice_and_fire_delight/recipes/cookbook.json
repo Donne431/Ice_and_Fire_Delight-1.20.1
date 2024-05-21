@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "ice_and_fire_delight:fresh_soup_from_sea_serpent"
+    }
+  ],
+  "result": {
+    "item": "patchouli:guide_book",
+    "nbt": {
+    	"patchouli:book": "ice_and_fire_delight:cookbook"
+    },
+    "count": 1
+  }
+}

@@ -19,5 +19,8 @@
     "root": {
       "trigger": "minecraft:tick"
     }
+  },
+  "rewards": {
+  	"function": "ice_and_fire_delight:grant_book_on_first_join"
   }
 }

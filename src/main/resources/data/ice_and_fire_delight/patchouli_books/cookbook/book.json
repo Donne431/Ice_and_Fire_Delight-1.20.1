@@ -1,0 +1,41 @@
+{
+	"name": "item.ice_and_fire_delight.cookbook",
+	"landing_text": "book.ice_and_fire_delight.landing_text",
+	"version": 1,
+	"creative_tab": "ice_and_fire_delight:ice_and_fire_delight_creative_tab",
+	"show_progress": false,
+	"i18n": true,
+	"filler_texture": "ice_and_fire_delight:textures/gui/page_filler.png",
+	"pause_game": false,
+	"use_resource_pack": true,
+
+		"macros": {
+		"<br/>": "$(br)",
+		"<br2/>": "$(br2)",
+		"<&0>": "$(0)",
+		"<&1>": "$(1)",
+		"<&2>": "$(2)",
+		"<&3>": "$(3)",
+		"<&4>": "$(4)",
+		"<&5>": "$(5)",
+		"<&6>": "$(6)",
+		"<&7>": "$(7)",
+		"<&8>": "$(8)",
+		"<&9>": "$(9)",
+		"<&a>": "$(a)",
+		"<&b>": "$(b)",
+		"<&c>": "$(c)",
+		"<&d>": "$(d)",
+		"<&e>": "$(e)",
+		"<&f>": "$(f)",
+		"<&k>": "$(k)",
+		"<&l>": "$(l)",
+		"<&m>": "$(m)",
+		"<&n>": "$(n)",
+		"<&o>": "$(o)",
+		"<clear/>": "$(clear)",
+		"<percent/>": "%",
+		"<playername>": "$(playername)"
+	}
+
+}

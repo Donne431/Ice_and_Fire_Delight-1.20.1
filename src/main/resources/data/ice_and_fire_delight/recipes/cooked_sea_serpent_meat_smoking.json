@@ -2,7 +2,7 @@
   "type": "minecraft:smoking",
   "category": "food",
   "experience": 1,
-  "cookingtime": 200,
+  "cookingtime": 160,
   "ingredient": {
     "item": "ice_and_fire_delight:sea_serpent_meat"
   },
