@@ -1,0 +1,27 @@
+{
+	"name": "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name",
+	"icon": "ice_and_fire_delight:sea_serpent_meat",
+	"category": "ice_and_fire_delight:foods",
+	"pages": [
+		{
+			"type": "patchouli:text",
+			"text": "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc"
+		},
+		{
+			"type": "patchouli:smelting",
+			"recipe": "ice_and_fire_delight:cooked_sea_serpent_meat_smelting",
+			"title": "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.title",
+			"text": "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text"
+		},
+		{
+			"type": "patchouli:text",
+			"text": "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.desc",
+			"title": "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.name"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title",
+			"text": "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text"
+		}
+	]
+}

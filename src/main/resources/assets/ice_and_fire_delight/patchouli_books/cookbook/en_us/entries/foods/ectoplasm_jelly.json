@@ -6,6 +6,11 @@
 		{
 			"type": "patchouli:text",
 			"text": "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.desc"
+		},
+		{
+			"type": "patchouli:text",
+			"title": "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.page2.title",
+			"text": "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.page2.text"
 		}
 	]
 }
