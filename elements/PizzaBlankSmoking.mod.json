@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "FOOD",
+    "xpReward": 1.0,
+    "cookingTime": 60,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:RawPizzaBlank"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:PizzaBlank"
+    },
+    "name": "pizza_blank_smoking",
+    "namespace": "mod"
+  }
+}

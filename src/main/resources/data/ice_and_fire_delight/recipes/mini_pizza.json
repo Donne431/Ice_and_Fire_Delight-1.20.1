@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_delight:mini_pizza_blank"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "farmersdelight:cooked_chicken_cuts"
+    }
+  ],
+  "result": {
+    "item": "ice_and_fire_delight:mini_pizza",
+    "count": 1
+  }
+}

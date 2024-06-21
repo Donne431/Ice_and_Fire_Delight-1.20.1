@@ -17,7 +17,7 @@
     {
       "name": "IceAndFireDelightCreativeTab",
       "type": "tab",
-      "sortid": 24,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_and_fire_delight_creative_tab",
@@ -84,7 +84,7 @@
     {
       "name": "SeaSerpentLootTable",
       "type": "loottable",
-      "sortid": 25,
+      "sortid": 34,
       "compiles": true,
       "locked_code": true,
       "registry_name": "sea_serpent_loot_table",
@@ -97,7 +97,7 @@
     {
       "name": "SeaSerpent",
       "type": "lootmodifier",
-      "sortid": 26,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sea_serpent_loot_modifier",
@@ -138,7 +138,7 @@
     {
       "name": "Villagerstrades",
       "type": "villagertrade",
-      "sortid": 27,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "villagerstrades",
@@ -163,7 +163,7 @@
     {
       "name": "TrollForestLootTable",
       "type": "loottable",
-      "sortid": 28,
+      "sortid": 37,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_forest_loot_table",
@@ -176,7 +176,7 @@
     {
       "name": "TrollFrostLootTable",
       "type": "loottable",
-      "sortid": 29,
+      "sortid": 38,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_frost_loot_table",
@@ -189,7 +189,7 @@
     {
       "name": "TrollMountainLootTable",
       "type": "loottable",
-      "sortid": 30,
+      "sortid": 39,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_mountain_loot_table",
@@ -202,7 +202,7 @@
     {
       "name": "TrollMountainLootModifier",
       "type": "lootmodifier",
-      "sortid": 31,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_mountain_loot_modifier",
@@ -215,7 +215,7 @@
     {
       "name": "TrollFrostLootModifier",
       "type": "lootmodifier",
-      "sortid": 32,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_frost_loot_modifier",
@@ -228,7 +228,7 @@
     {
       "name": "TrollForestLootModifier",
       "type": "lootmodifier",
-      "sortid": 33,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_forest_loot_modifier",
@@ -283,7 +283,7 @@
     {
       "name": "CookedSeaSerpentMeatSmoking",
       "type": "recipe",
-      "sortid": 34,
+      "sortid": 43,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cooked_sea_serpent_meat_smoking",
@@ -296,7 +296,7 @@
     {
       "name": "CookedSeaSerpentMeatCampfireCooking",
       "type": "recipe",
-      "sortid": 35,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_meat_campfire_cooking",
@@ -309,7 +309,7 @@
     {
       "name": "CookedTrollMeatSmoking",
       "type": "recipe",
-      "sortid": 36,
+      "sortid": 45,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cooked_troll_meat_smoking",
@@ -322,7 +322,7 @@
     {
       "name": "CookedTrollMeatCampfireCooking",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_troll_meat_campfire_cooking",
@@ -335,7 +335,7 @@
     {
       "name": "FireDragonFemaleLootTable",
       "type": "loottable",
-      "sortid": 38,
+      "sortid": 47,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_dragon_female_loot_table",
@@ -348,7 +348,7 @@
     {
       "name": "FireDragonMaleLootTable",
       "type": "loottable",
-      "sortid": 39,
+      "sortid": 48,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_dragon_male_loot_table",
@@ -403,7 +403,7 @@
     {
       "name": "RawFireSausageRecipe",
       "type": "recipe",
-      "sortid": 40,
+      "sortid": 49,
       "compiles": true,
       "locked_code": true,
       "registry_name": "raw_fire_sausage_recipe",
@@ -416,7 +416,7 @@
     {
       "name": "FireAspect",
       "type": "potioneffect",
-      "sortid": 41,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_aspect",
@@ -429,7 +429,7 @@
     {
       "name": "Effect_Fire_Aspect_When_Active",
       "type": "procedure",
-      "sortid": 42,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_fire_aspect_when_active",
@@ -466,7 +466,7 @@
     {
       "name": "FireSausageWhenEated",
       "type": "procedure",
-      "sortid": 43,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_when_eated",
@@ -485,7 +485,7 @@
     {
       "name": "IceAspect",
       "type": "potioneffect",
-      "sortid": 44,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_aspect",
@@ -498,7 +498,7 @@
     {
       "name": "EffectIceAspectWhenActive",
       "type": "procedure",
-      "sortid": 45,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_ice_aspect_when_active",
@@ -521,7 +521,7 @@
     {
       "name": "LightningStrike",
       "type": "potioneffect",
-      "sortid": 46,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_strike",
@@ -534,7 +534,7 @@
     {
       "name": "EffectLightningStrikeWhenActive",
       "type": "procedure",
-      "sortid": 47,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_lightning_strike_when_active",
@@ -573,7 +573,7 @@
     {
       "name": "FireSausageCampfireCooking",
       "type": "recipe",
-      "sortid": 48,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_campfire_cooking",
@@ -586,7 +586,7 @@
     {
       "name": "FireSausageSmoking",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_smoking",
@@ -627,7 +627,7 @@
     {
       "name": "IceSausageWhenEated",
       "type": "procedure",
-      "sortid": 50,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_sausage_when_eated",
@@ -660,7 +660,7 @@
     {
       "name": "DragonSausage",
       "type": "tag",
-      "sortid": 51,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_sausage",
@@ -673,7 +673,7 @@
     {
       "name": "RawDragonSausage",
       "type": "tag",
-      "sortid": 52,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_dragon_sausage",
@@ -686,7 +686,7 @@
     {
       "name": "DragonMincedMeat",
       "type": "tag",
-      "sortid": 53,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_minced_meat",
@@ -699,7 +699,7 @@
     {
       "name": "Root",
       "type": "achievement",
-      "sortid": 54,
+      "sortid": 63,
       "compiles": true,
       "locked_code": true,
       "registry_name": "root",
@@ -712,7 +712,7 @@
     {
       "name": "DragonMincedMeatAdv",
       "type": "achievement",
-      "sortid": 55,
+      "sortid": 64,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragon_minced_meat_adv",
@@ -725,7 +725,7 @@
     {
       "name": "PoisonResistance",
       "type": "potioneffect",
-      "sortid": 56,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "poison_resistance",
@@ -738,7 +738,7 @@
     {
       "name": "EffectPoisonResistanceWhenActive",
       "type": "procedure",
-      "sortid": 57,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_poison_resistance_when_active",
@@ -757,7 +757,7 @@
     {
       "name": "Warming",
       "type": "potioneffect",
-      "sortid": 58,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warming",
@@ -770,7 +770,7 @@
     {
       "name": "TrollIntestinesJei",
       "type": "jeiinformation",
-      "sortid": 59,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_intestines_jei",
@@ -781,7 +781,7 @@
     {
       "name": "SpicesFromWitherbone",
       "type": "item",
-      "sortid": 22,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spices_from_witherbone",
@@ -809,7 +809,7 @@
     {
       "name": "SpicyChipsFromShinyScalesRecipe",
       "type": "recipe",
-      "sortid": 60,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales_recipe",
@@ -822,7 +822,7 @@
     {
       "name": "SpicyChipsFromShinyScalesWhenEated",
       "type": "procedure",
-      "sortid": 61,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales_when_eated",
@@ -841,7 +841,7 @@
     {
       "name": "CyclopsLootTable",
       "type": "loottable",
-      "sortid": 62,
+      "sortid": 71,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cyclops_loot_table",
@@ -854,7 +854,7 @@
     {
       "name": "CyclopsLootModifier",
       "type": "lootmodifier",
-      "sortid": 63,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyclops_loot_modifier",
@@ -895,7 +895,7 @@
     {
       "name": "FeelSpicy",
       "type": "achievement",
-      "sortid": 64,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "registry_name": "feel_spicy",
@@ -908,7 +908,7 @@
     {
       "name": "KillPixie",
       "type": "achievement",
-      "sortid": 65,
+      "sortid": 74,
       "compiles": true,
       "locked_code": true,
       "registry_name": "kill_pixie",
@@ -921,7 +921,7 @@
     {
       "name": "Spices",
       "type": "item",
-      "sortid": 23,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spices",
@@ -935,7 +935,7 @@
     {
       "name": "CookedSeaSerpentMeatFurnace",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_meat_furnace",
@@ -948,7 +948,7 @@
     {
       "name": "CookedTrollMeatFurnace",
       "type": "recipe",
-      "sortid": 67,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_troll_meat_furnace",
@@ -961,7 +961,7 @@
     {
       "name": "CyclopsSteakSmelting",
       "type": "recipe",
-      "sortid": 68,
+      "sortid": 77,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyclops_steak_smelting",
@@ -974,7 +974,7 @@
     {
       "name": "FlourFromDragonBones",
       "type": "item",
-      "sortid": 69,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flour_from_dragon_bones",
@@ -988,7 +988,7 @@
     {
       "name": "DoughFromDragonBones",
       "type": "item",
-      "sortid": 70,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dough_from_dragon_bones",
@@ -1002,7 +1002,7 @@
     {
       "name": "EmptyMeasuringCylinder",
       "type": "item",
-      "sortid": 71,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "empty_measuring_cylinder",
@@ -1016,7 +1016,7 @@
     {
       "name": "FireLilyExtractWhenDrinked",
       "type": "procedure",
-      "sortid": 72,
+      "sortid": 78,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_lily_extract_when_drinked",
@@ -1035,7 +1035,7 @@
     {
       "name": "FireLilyExtract",
       "type": "item",
-      "sortid": 73,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_lily_extract",
@@ -1049,7 +1049,7 @@
     {
       "name": "IceLilyExtract",
       "type": "item",
-      "sortid": 74,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_lily_extract",
@@ -1063,7 +1063,7 @@
     {
       "name": "IceLilyExtractWhenDrinked",
       "type": "procedure",
-      "sortid": 75,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_lily_extract_when_drinked",
@@ -1082,7 +1082,7 @@
     {
       "name": "LightningLilyExtract",
       "type": "item",
-      "sortid": 76,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_lily_extract",
@@ -1096,7 +1096,7 @@
     {
       "name": "LightningLilyExtractWhenDrinked",
       "type": "procedure",
-      "sortid": 77,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_lily_extract_when_drinked",
@@ -1115,7 +1115,7 @@
     {
       "name": "Emptymeasuringcylinderrecipe",
       "type": "recipe",
-      "sortid": 78,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "emptymeasuringcylinderrecipe",
@@ -1128,7 +1128,7 @@
     {
       "name": "GrantBookOnFirstJoin",
       "type": "function",
-      "sortid": 80,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grant_book_on_first_join",
@@ -1141,7 +1141,7 @@
     {
       "name": "CookbookRecipe",
       "type": "recipe",
-      "sortid": 81,
+      "sortid": 83,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cookbook_recipe",
@@ -1154,7 +1154,7 @@
     {
       "name": "LilyExtract",
       "type": "tag",
-      "sortid": 82,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lily_extract",
@@ -1163,198 +1163,365 @@
           "src/main/resources/data/forge/tags/items/lily_extract.json"
         ]
       }
+    },
+    {
+      "name": "LightningSausageWhenEated",
+      "type": "procedure",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightning_sausage_when_eated",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/LightningSausageWhenEatedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LightningSausage",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightning_sausage",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/lightning_sausage.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/LightningSausageItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RawLightningSausage",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_lightning_sausage",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/raw_lightning_sausage.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/RawLightningSausageItem.java"
+        ]
+      }
+    },
+    {
+      "name": "LightningMincedMeat",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lightning_minced_meat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/lightning_minced_meat.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/LightningMincedMeatItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MiniPizza",
+      "type": "item",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mini_pizza",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/mini_pizza.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/MiniPizzaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PizzaBlank",
+      "type": "item",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mini_pizza_blank",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/mini_pizza_blank.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/PizzaBlankItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RawPizzaBlank",
+      "type": "item",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_mini_pizza_blank",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/raw_mini_pizza_blank.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/RawPizzaBlankItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PizzaBlankSmelting",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pizza_blank_smelting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/pizza_blank_smelting.json"
+        ]
+      }
+    },
+    {
+      "name": "PizzaBlankSmoking",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "pizza_blank_smoking",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/pizza_blank_smoking.json"
+        ]
+      }
+    },
+    {
+      "name": "MiniPizzaRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "mini_pizza_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/mini_pizza.json"
+        ]
+      }
+    },
+    {
+      "name": "RawMiniPizzaBlankRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_mini_pizza_blank_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/ice_and_fire_delight/recipes/raw_mini_pizza_blank.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "ru_ru": {
+      "item.ice_and_fire_delight.raw_mini_pizza_blank": "Сырая заготовка для мини пиццы",
       "book.ice_and_fire_delight.landing_text": "В данной книге вы можете узнать подробнее о содержание мода Ice and Fire Delight",
       "effect.ice_and_fire_delight.lightning_strike": "Молниеносный удар",
-      "book.ice_and_fire_delight.category.drinks.desc": "В данной категории рассказывается о напитках из мода",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.name": "Эктоплазмовое желе",
       "item.ice_and_fire_delight.cyclops_steak": "Стейк из циклопа",
       "item.ice_and_fire_delight.sea_serpent_meat": "Мясо левиафана",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc": "Мясо этого великого морского чудовища само по себе является деликатесом и редкой добычью, но оно также является ингредиентом более изысканных блюд.",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.text": "Экстракт ледяной лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 ледяные лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.page2.text": "Данное желе готовится в кухонном котле. Всё что для него нужно, это два куска эктоплазмы призраков. Закидываем в котёл, перемешиваем и получаем желе!",
-      "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
       "item.ice_and_fire_delight.fire_minced_meat": "Огненный фарш",
-      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Уха из левиафана",
+      "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
       "item.ice_and_fire_delight.spices": "Специи",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.desc": "Экстракт огненной лилии - концентрированное вещество, получаемое из огненной лилии. Используется как соус для блюд, но также его можно просто выпить. При употреблении даёт эффект \"Заговор огня\" на 25 секунд.",
-      "item.ice_and_fire_delight.ectoplasm_jelly": "Эктоплазмовое желе",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.name": "Острые блестящие чипсы",
-      "book.ice_and_fire_delight.category.drinks.fire_lily_extract.name": "Огненный экстракт ",
-      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Рецепт",
-      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.desc": "Острые блестящие чипсы являются разновидностью блестящих чипсов с добавлением перемолотых костей иссушителей. При употребление они дают эффект \"Тепло\" на 30 секунд и \"Заговор Огня\" на 10 секунд.",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text": "Мясо левиафана готовится в печи. В зависимости от печи, где готовится мясо время готовки отличается. В среднем время жарки от 8 до 10 секунд.",
+      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.desc": "Острые блестящие чипсы являются разновидностью блестящих чипсов с добавлением перемолотых костей иссушителей. При употребление они дают эффект \"Тепло\" на 30 секунд и \"Заговор Огня\" на 10 секунд.",
+      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Рецепт",
+      "book.ice_and_fire_delight.category.drinks.fire_lily_extract.name": "Огненный экстракт ",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "Экстракт грозовой лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 грозовые лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
-      "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text": "Уха из левиафана готовится в кухонном котле. Кроме мяса этого великого морского чудовища для ухи необходим лук, картошка и морковка. После того, как уха была приготовлена её переливают в миску.",
-      "item.ice_and_fire_delight.cyclops_meat": "Мясо циклопа",
-      "item.ice_and_fire_delight.raw_fire_sausage": "Сырая огненная колбаса",
-      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.text": "Для создания мяса тролля в медовой глазури нужен только лишь верстак. Кроме приготовленного мясо Тролля для блюда необходим приготовленный рис и бутылочка мёда.",
-      "book.ice_and_fire_delight.category.drinks.name": "Напитки",
       "advancements.feel_spicy.descr": "Съешьте острые чипсы из блестящей чешуи",
-      "item.ice_and_fire_delight.frost_lily_extract": "Экстракт ледяной лилии",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "Блестящие чипсы",
       "item.ice_and_fire_delight.fried_dragon_egg": "Драконья яичница",
-      "item.ice_and_fire_delight.fire_sausage": "Огненная колбаса",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.title": "Рецепт",
-      "advancements.feel_spicy.title": "Почуствуй остроту",
-      "advancements.root.title": "Ice and Fire Delight",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Печенье со смолой мирмикса",
-      "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Острые чипсы из блестящей чешуи",
-      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.text": "Готовятся они крайне просто, всё что вам нужно это посыпать обычные блестящие чипсы специей из костей иссушителей.",
-      "advancements.dragon_minced_meat_adv.title": "Не такой уж и великий зверь!",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Мясо левиафана",
-      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.title": "Рецепт",
+      "item.ice_and_fire_delight.mini_pizza_blank": "Заготовка для мини пиццы",
       "item.ice_and_fire_delight.raw_ice_sausage": "Сырая ледяная колбаса",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Мука из костей дракона",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.desc": "Эктоплазмовое желе - это довольно редко встречаемое блюдо, ведь его чуть ли не сложнее сделать, чем уху из левиафана или мяса тролля в медовой глазури. Почему? Да потому что против троллей и левиафанов есть хоть какие-то хитрости и тактики, а против призраков - почти ничего.",
-      "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Приготовленное мясо левиафана",
-      "item.ice_and_fire_delight.empty_measuring_cylinder": "Пустая мензурка",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.name": "Уха из левиафана",
+      "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Приготовленное мясо левиафана",
       "item.ice_and_fire_delight.troll_intestines": "Кишечник тролля",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.desc": "Данное блюдо сделано из великого морского чудовища, немногие смогли попробовать его, ведь немногие смогли одолеть Левиафана.",
       "book.ice_and_fire_delight.category.foods.troll_meat.page2.title": "Рецепт",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text": "Чипсы из блестящей чешуи готовятся в печи. Всего от 8 до 10 секунд надо, что бы вы уже могли попробовать данную закуску!",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.page2.title": "Рецепт",
-      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.name": "Мясо тролля в мёде",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.desc": "Экстракт грозовой лилии - концентрированное вещество, получаемое из грозовой лилии. Используется как соус для блюд, но также его можно просто выпить. При употреблении даёт эффект \"Молниеносный удар\" на 25 секунд.",
-      "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice and Fire Delight",
-      "book.ice_and_fire_delight.category.foods.troll_meat.page2.text": "Мясо тролля готовится в печи. Для трапезы нужно подождать всего от 8 до 10 секунд. ",
-      "effect.ice_and_fire_delight.warming": "Тепло",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.name": "Грозовой экстракт",
-      "effect.ice_and_fire_delight.poison_resistance": "Устойчивость к ядам",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.page2.title": "Рецепт",
       "item.ice_and_fire_delight.myrmex_resin_cookie_jungle": "Печенье со смолой мирмикса",
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Чипсы из блестящей чешуи",
       "book.ice_and_fire_delight.category.foods.name": "Еда",
-      "item.ice_and_fire_delight.cookbook": "Кулинарная книга",
-      "item.ice_and_fire_delight.dough_from_dragon_bones": "Тесто из костей дракона",
       "item.ice_and_fire_delight.fire_lily_extract": "Экстракт огненной лилии",
       "item.ice_and_fire_delight.spices_from_witherbone": "Специи из костей иссушителя",
-      "advancements.kill_pixie.title": "Ты монстр!",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Рецепт",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.title": "Рецепт",
-      "item.ice_and_fire_delight.troll_meat": "Мясо тролля",
-      "effect.ice_and_fire_delight.fire_aspect": "Заговор огня",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Рецепт",
-      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.desc": "Данная закуска создаётся из чешуи морских существ, она крайне быстро готовится в печи, а также крайне быстро и незаметно поедается.",
       "item.ice_and_fire_delight.cooked_troll_meat": "Приготовленное мясо тролля",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.desc": "Экстракт ледяной лилии - концентрированное вещество, получаемое из ледяной лилии. Используется как соус для блюд, но также его можно просто выпить. При употреблении даёт эффект \"Заговор льда\" на 25 секунд.",
-      "item.ice_and_fire_delight.ice_minced_meat": "Ледяной фарш",
-      "advancements.dragon_minced_meat_adv.descr": "Разделайте плоть дракона",
-      "item.ice_and_fire_delight.lightning_lily_extract": "Экстракт грозовой лилии",
       "book.ice_and_fire_delight.category.foods.desc": "В данной категории рассказывается о еде из мода",
+      "advancements.dragon_minced_meat_adv.descr": "Разделайте плоть дракона",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.page2.text": "Экстракт огненной лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 огненные лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.title": "Рецепт",
+      "advancements.root.descr": "Войдите в мир, полный мистических блюд",
+      "item.ice_and_fire_delight.lightning_minced_meat": "Грозовой фарш",
+      "book.ice_and_fire_delight.category.drinks.desc": "В данной категории рассказывается о напитках из мода",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc": "Мясо этого великого морского чудовища само по себе является деликатесом и редкой добычью, но оно также является ингредиентом более изысканных блюд.",
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.text": "Экстракт ледяной лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 ледяные лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
+      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Уха из левиафана",
+      "item.ice_and_fire_delight.ectoplasm_jelly": "Эктоплазмовое желе",
+      "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text": "Уха из левиафана готовится в кухонном котле. Кроме мяса этого великого морского чудовища для ухи необходим лук, картошка и морковка. После того, как уха была приготовлена её переливают в миску.",
+      "item.ice_and_fire_delight.cyclops_meat": "Мясо циклопа",
+      "item.ice_and_fire_delight.raw_lightning_sausage": "Сырая грозовая колбаса",
+      "item.ice_and_fire_delight.raw_fire_sausage": "Сырая огненная колбаса",
+      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.text": "Для создания мяса тролля в медовой глазури нужен только лишь верстак. Кроме приготовленного мясо Тролля для блюда необходим приготовленный рис и бутылочка мёда.",
+      "book.ice_and_fire_delight.category.drinks.name": "Напитки",
+      "item.ice_and_fire_delight.frost_lily_extract": "Экстракт ледяной лилии",
+      "item.ice_and_fire_delight.fire_sausage": "Огненная колбаса",
+      "advancements.feel_spicy.title": "Почуствуй остроту",
+      "advancements.root.title": "Ice and Fire Delight",
+      "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Острые чипсы из блестящей чешуи",
+      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.text": "Готовятся они крайне просто, всё что вам нужно это посыпать обычные блестящие чипсы специей из костей иссушителей.",
+      "advancements.dragon_minced_meat_adv.title": "Не такой уж и великий зверь!",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Мясо левиафана",
+      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.title": "Рецепт",
+      "item.ice_and_fire_delight.empty_measuring_cylinder": "Пустая мензурка",
+      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.name": "Мясо тролля в мёде",
+      "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice and Fire Delight",
+      "book.ice_and_fire_delight.category.foods.troll_meat.page2.text": "Мясо тролля готовится в печи. Для трапезы нужно подождать всего от 8 до 10 секунд. ",
+      "effect.ice_and_fire_delight.warming": "Тепло",
+      "effect.ice_and_fire_delight.poison_resistance": "Устойчивость к ядам",
+      "item.ice_and_fire_delight.mini_pizza": "Мини пицца",
+      "item.ice_and_fire_delight.cookbook": "Кулинарная книга",
+      "item.ice_and_fire_delight.dough_from_dragon_bones": "Тесто из костей дракона",
+      "advancements.kill_pixie.title": "Ты монстр!",
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.title": "Рецепт",
+      "effect.ice_and_fire_delight.fire_aspect": "Заговор огня",
+      "item.ice_and_fire_delight.troll_meat": "Мясо тролля",
+      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.desc": "Данная закуска создаётся из чешуи морских существ, она крайне быстро готовится в печи, а также крайне быстро и незаметно поедается.",
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.desc": "Экстракт ледяной лилии - концентрированное вещество, получаемое из ледяной лилии. Используется как соус для блюд, но также его можно просто выпить. При употреблении даёт эффект \"Заговор льда\" на 25 секунд.",
+      "item.ice_and_fire_delight.lightning_lily_extract": "Экстракт грозовой лилии",
+      "item.ice_and_fire_delight.ice_minced_meat": "Ледяной фарш",
       "item.ice_and_fire_delight.honey_glazed_troll_meat": "Мясо тролля в медовой глазури",
       "advancements.kill_pixie.descr": "Убейте пикси",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.title": "Рецепт",
       "jei.ice_and_fire_delight.troll_intestines_jei": "Редкий предмет, который выпадает из тролля с редким шансом, используется при создании колбасы из дракона.",
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.desc": "Данное блюдо делается из троллей, в мире оно считается деликатесом и блюдом высокой кухни. Кроме своего отличительного вкуса, оно ещё и отличается огромной сытностью.",
       "item.ice_and_fire_delight.ice_sausage": "Ледяная колбаса",
-      "advancements.root.descr": "Войдите в мир, полный мистических блюд",
       "book.ice_and_fire_delight.category.items.desc": "В данной категории рассказывается о предметах из мода",
       "book.ice_and_fire_delight.category.foods.troll_meat.name": "Мясо тролля",
       "book.ice_and_fire_delight.category.foods.troll_meat.desc": "Мясо тролля как ни странно выпадает с троллей, оно является довольно редкой добычей, ведь если тролль выйдет на свет он превращается в каменную статую, так что мясо можно получить лишь ночью.",
       "book.ice_and_fire_delight.category.items.name": "Предметы",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.name": "Ледяной экстракт"
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.name": "Ледяной экстракт",
+      "item.ice_and_fire_delight.lightning_sausage": "Грозовая колбаса"
     },
     "en_us": {
-      "book.ice_and_fire_delight.landing_text": "In this book, you can learn more about the content of the Ice and Fire Delight mod",
       "effect.ice_and_fire_delight.lightning_strike": "Lightning strike",
-      "book.ice_and_fire_delight.category.drinks.desc": "This category tells about drinks from mod",
+      "book.ice_and_fire_delight.landing_text": "In this book, you can learn more about the content of the Ice and Fire Delight mod",
+      "item.ice_and_fire_delight.raw_mini_pizza_blank": "Raw mini pizza blank",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.name": "Ectoplasm jelly",
-      "item.ice_and_fire_delight.cyclops_steak": "Cyclops steak",
       "item.ice_and_fire_delight.sea_serpent_meat": "Sea Serpent meat",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc": "The meat of this great sea monster is a delicacy in itself and a rare catch, but it is also an ingredient in more exquisite dishes.",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.text": "Ice lily extract is prepared in a cooking pot. From the ingredients we need only 2 ice lilies, we put it to boil and stir for 5 seconds, when ready pour the extract into an empty measuring cylinder. ",
+      "item.ice_and_fire_delight.cyclops_steak": "Cyclops steak",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.page2.text": "This jelly is made in a cooking pot. All you need is two pieces of ghost ectoplasm. Throw it in the pot, mix it up, and you\u0027ve got jelly!",
-      "item.ice_and_fire_delight.fire_minced_meat": "Fire minced meat",
       "effect.ice_and_fire_delight.ice_aspect": "Ice aspect",
-      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Fresh soup from sea serpent",
+      "item.ice_and_fire_delight.fire_minced_meat": "Fire minced meat",
       "item.ice_and_fire_delight.spices": "Spices",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.desc": "Fire lily extract is a concentrated substance derived from the fire lily. It is used as a sauce for dishes, but can also be simply drunk. When consumed, it gives the effect “Fire aspect” for 25 seconds.",
-      "item.ice_and_fire_delight.ectoplasm_jelly": "Ectoplasm jelly",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.name": "Spicy shiny chips",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.name": "Fire lily extract",
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Recipe",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.desc": "Spicy shiny chips are a variation of shiny chips with spices from the witherbones. When eaten, they give the effect “Warming” for 30 seconds and “Fire aspect” for 10 seconds.",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text": "Sea serpent meat is cooked in an furnace. Depending on the oven where the meat is cooked, the cooking time differs. The average cooking time is between 8 and 10 seconds.",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "Lightning lily extract is prepared in a cooking pot. From the ingredients we need only 2 lightning lilies, we put it to boil and stir for 5 seconds, when ready pour the extract into an empty measuring cylinder. ",
-      "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text": "Fresh soup from sea serpent is cooked in a cooking pot. In addition to the meat of this great sea monster, the soup requires onions, potatoes and carrots. After the soup has been cooked, it is poured into a bowl.",
-      "item.ice_and_fire_delight.cyclops_meat": "Cyclops meat",
-      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.text": "All you need is a crafting table to create honey glazed Troll meat. In addition to the cooked Troll meat, the dish requires cooked rice and a bottle of honey.",
-      "item.ice_and_fire_delight.raw_fire_sausage": "Raw fire sausage",
-      "book.ice_and_fire_delight.category.drinks.name": "Drinks",
-      "item.ice_and_fire_delight.frost_lily_extract": "Frost lily extract",
       "advancements.feel_spicy.descr": "Eat spicy chips from shiny scales",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "Chips from shiny scales",
       "item.ice_and_fire_delight.fried_dragon_egg": "Fried Dragon Egg",
-      "item.ice_and_fire_delight.fire_sausage": "Fire sausage",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.title": "Recipe",
-      "advancements.feel_spicy.title": "Feel spicy",
-      "advancements.root.title": "Ice and Fire Delight",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Myrmex resin cookie",
-      "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Spicy chips from shiny scales",
-      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.text": "They are extremely simple to make, all you need to do is sprinkle the usual shiny chips with spice from the witherbones.",
-      "advancements.dragon_minced_meat_adv.title": "Not so great beast",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Sea serpent meat",
-      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.title": "Recipe",
+      "item.ice_and_fire_delight.mini_pizza_blank": "Mini pizza blank",
       "item.ice_and_fire_delight.raw_ice_sausage": "Raw ice sausage",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Flour from dragon bones",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.desc": "Ectoplasm jelly is a pretty rare dish, in fact it\u0027s almost harder to make than sea serpent fresh soup or honey-glazed troll meat. Why? Because there are at least some tricks and tactics against trolls and sea serpents, but almost nothing against ghosts.",
       "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Cooked Sea Serpent meat",
-      "item.ice_and_fire_delight.empty_measuring_cylinder": "Empty measuring cylinder",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.name": "Sea serpent fresh soup",
       "item.ice_and_fire_delight.troll_intestines": "Troll intestines",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.desc": "This dish is made from a great sea monster, few were able to taste it, for few were able to defeat Sea Serpent.",
       "book.ice_and_fire_delight.category.foods.troll_meat.page2.title": "Recipe",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text": "Chips from shiny scales are cooked in the furnace. It only takes 8 to 10 seconds for you to taste this snack!",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.page2.title": "Recipe",
-      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.name": "Honey glazed meat",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.desc": "Lightning lily extract is a concentrated substance derived from the lightning lily. It is used as a sauce for dishes, but can also be simply drunk. When consumed, it gives the effect “Lightning Strike” for 25 seconds.",
-      "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice And Fire Delight",
-      "book.ice_and_fire_delight.category.foods.troll_meat.page2.text": "Troll meat is cooked in the furnace. You only have to wait 8 to 10 seconds for the meal. ",
-      "effect.ice_and_fire_delight.warming": "Warming",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.name": "Lightning lily extract",
-      "effect.ice_and_fire_delight.poison_resistance": "Poison Resistance",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.page2.title": "Recipe",
       "item.ice_and_fire_delight.myrmex_resin_cookie_jungle": "Myrmex resin cookie",
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Chips from shiny scales",
       "book.ice_and_fire_delight.category.foods.name": "Foods",
-      "item.ice_and_fire_delight.cookbook": "Cookbook",
-      "item.ice_and_fire_delight.dough_from_dragon_bones": "Dough from dragon bones",
       "item.ice_and_fire_delight.fire_lily_extract": "Fire lily extract",
       "item.ice_and_fire_delight.spices_from_witherbone": "Spices from witherbone",
-      "advancements.kill_pixie.title": "You are a monster!",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Recipe",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.title": "Recipe",
-      "item.ice_and_fire_delight.troll_meat": "Troll meat",
-      "effect.ice_and_fire_delight.fire_aspect": "Fire aspect",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Recipe",
-      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.desc": "This snack is created from the scales of sea creatures, it is extremely quick to cook in the furnace, and it is also extremely quick to eat.",
       "item.ice_and_fire_delight.cooked_troll_meat": "Cooked Troll meat",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.desc": "Ice lily extract is a concentrated substance derived from the ice lily. It is used as a sauce for dishes, but can also be simply drunk. When consumed, it gives the effect “Ice aspect” for 25 seconds.",
-      "item.ice_and_fire_delight.ice_minced_meat": "Ice minced meat",
       "advancements.dragon_minced_meat_adv.descr": "Grind the dragon flesh",
-      "item.ice_and_fire_delight.lightning_lily_extract": "Lightning lily extract",
       "book.ice_and_fire_delight.category.foods.desc": "This category tells about foods from mod",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.page2.text": "Fire lily extract is prepared in a cooking pot. From the ingredients we need only 2 fire lilies, we put it to boil and stir for 5 seconds, when ready pour the extract into an empty measuring cylinder. ",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.title": "Recipe",
+      "advancements.root.descr": "Enter a world of magical dishes",
+      "item.ice_and_fire_delight.lightning_minced_meat": "Lightning minced meat",
+      "book.ice_and_fire_delight.category.drinks.desc": "This category tells about drinks from mod",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc": "The meat of this great sea monster is a delicacy in itself and a rare catch, but it is also an ingredient in more exquisite dishes.",
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.text": "Ice lily extract is prepared in a cooking pot. From the ingredients we need only 2 ice lilies, we put it to boil and stir for 5 seconds, when ready pour the extract into an empty measuring cylinder. ",
+      "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Fresh soup from sea serpent",
+      "item.ice_and_fire_delight.ectoplasm_jelly": "Ectoplasm jelly",
+      "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text": "Fresh soup from sea serpent is cooked in a cooking pot. In addition to the meat of this great sea monster, the soup requires onions, potatoes and carrots. After the soup has been cooked, it is poured into a bowl.",
+      "item.ice_and_fire_delight.cyclops_meat": "Cyclops meat",
+      "item.ice_and_fire_delight.raw_lightning_sausage": "Raw lightning sausage",
+      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.text": "All you need is a crafting table to create honey glazed Troll meat. In addition to the cooked Troll meat, the dish requires cooked rice and a bottle of honey.",
+      "item.ice_and_fire_delight.raw_fire_sausage": "Raw fire sausage",
+      "book.ice_and_fire_delight.category.drinks.name": "Drinks",
+      "item.ice_and_fire_delight.frost_lily_extract": "Frost lily extract",
+      "item.ice_and_fire_delight.fire_sausage": "Fire sausage",
+      "advancements.feel_spicy.title": "Feel spicy",
+      "advancements.root.title": "Ice and Fire Delight",
+      "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Spicy chips from shiny scales",
+      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.text": "They are extremely simple to make, all you need to do is sprinkle the usual shiny chips with spice from the witherbones.",
+      "advancements.dragon_minced_meat_adv.title": "Not so great beast",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Sea serpent meat",
+      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.title": "Recipe",
+      "item.ice_and_fire_delight.empty_measuring_cylinder": "Empty measuring cylinder",
+      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.name": "Honey glazed meat",
+      "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice And Fire Delight",
+      "book.ice_and_fire_delight.category.foods.troll_meat.page2.text": "Troll meat is cooked in the furnace. You only have to wait 8 to 10 seconds for the meal. ",
+      "effect.ice_and_fire_delight.warming": "Warming",
+      "effect.ice_and_fire_delight.poison_resistance": "Poison Resistance",
+      "item.ice_and_fire_delight.mini_pizza": "Mini pizza",
+      "item.ice_and_fire_delight.cookbook": "Cookbook",
+      "item.ice_and_fire_delight.dough_from_dragon_bones": "Dough from dragon bones",
+      "advancements.kill_pixie.title": "You are a monster!",
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.title": "Recipe",
+      "effect.ice_and_fire_delight.fire_aspect": "Fire aspect",
+      "item.ice_and_fire_delight.troll_meat": "Troll meat",
+      "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.desc": "This snack is created from the scales of sea creatures, it is extremely quick to cook in the furnace, and it is also extremely quick to eat.",
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.desc": "Ice lily extract is a concentrated substance derived from the ice lily. It is used as a sauce for dishes, but can also be simply drunk. When consumed, it gives the effect “Ice aspect” for 25 seconds.",
+      "item.ice_and_fire_delight.lightning_lily_extract": "Lightning lily extract",
+      "item.ice_and_fire_delight.ice_minced_meat": "Ice minced meat",
       "item.ice_and_fire_delight.honey_glazed_troll_meat": "Honey glazed Troll meat",
       "advancements.kill_pixie.descr": "Kill pixie",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.title": "Recipe",
       "jei.ice_and_fire_delight.troll_intestines_jei": "A rare item that falls out of a troll with a rare chance is used to create a sausage from a dragon.",
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.desc": "This dish is made from trolls and is considered a delicacy and haute cuisine in the world. In addition to its distinctive flavor, it is also extremely hearty.",
       "item.ice_and_fire_delight.ice_sausage": "Ice sausage",
-      "advancements.root.descr": "Enter a world of magical dishes",
       "book.ice_and_fire_delight.category.items.desc": "This category tells about items from mod",
       "book.ice_and_fire_delight.category.foods.troll_meat.name": "Troll meat",
       "book.ice_and_fire_delight.category.foods.troll_meat.desc": "Troll meat is strangely getting from trolls, it is quite rare, because if a troll goes out into the light he turns into a stone statue, so it can be obtained only at night.",
       "book.ice_and_fire_delight.category.items.name": "Items",
-      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.name": "Frost lily extract"
+      "book.ice_and_fire_delight.category.drinks.frost_lily_extract.name": "Frost lily extract",
+      "item.ice_and_fire_delight.lightning_sausage": "Lightning sausage"
     }
   },
   "foldersRoot": {
@@ -1364,7 +1531,7 @@
   "workspaceSettings": {
     "modid": "ice_and_fire_delight",
     "modName": "Ice and Fire Delight",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "description": "Mod adds the integration of Ice and Fire with Farmer\u0027s Delight",
     "author": "Donne431",
     "websiteURL": "https://modrinth.com/mod/ice-and-fire-delight",

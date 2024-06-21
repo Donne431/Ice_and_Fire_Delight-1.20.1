@@ -16,10 +16,16 @@ import net.donne431.ice_and_fire_delight.item.SpicyChipsFromShinyScalesItem;
 import net.donne431.ice_and_fire_delight.item.SpicesItem;
 import net.donne431.ice_and_fire_delight.item.SpicesFromWitherboneItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentMeatItem;
+import net.donne431.ice_and_fire_delight.item.RawPizzaBlankItem;
+import net.donne431.ice_and_fire_delight.item.RawLightningSausageItem;
 import net.donne431.ice_and_fire_delight.item.RawIceSausageItem;
 import net.donne431.ice_and_fire_delight.item.RawFireSausageItem;
+import net.donne431.ice_and_fire_delight.item.PizzaBlankItem;
 import net.donne431.ice_and_fire_delight.item.MyrmexResinCookieJungleItem;
 import net.donne431.ice_and_fire_delight.item.MyrmexResinCookieDesertItem;
+import net.donne431.ice_and_fire_delight.item.MiniPizzaItem;
+import net.donne431.ice_and_fire_delight.item.LightningSausageItem;
+import net.donne431.ice_and_fire_delight.item.LightningMincedMeatItem;
 import net.donne431.ice_and_fire_delight.item.LightningLilyExtractItem;
 import net.donne431.ice_and_fire_delight.item.IceSausageItem;
 import net.donne431.ice_and_fire_delight.item.IceMincedMeatItem;
@@ -64,6 +70,9 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> ICE_MINCED_MEAT = REGISTRY.register("ice_minced_meat", () -> new IceMincedMeatItem());
 	public static final RegistryObject<Item> RAW_ICE_SAUSAGE = REGISTRY.register("raw_ice_sausage", () -> new RawIceSausageItem());
 	public static final RegistryObject<Item> ICE_SAUSAGE = REGISTRY.register("ice_sausage", () -> new IceSausageItem());
+	public static final RegistryObject<Item> LIGHTNING_MINCED_MEAT = REGISTRY.register("lightning_minced_meat", () -> new LightningMincedMeatItem());
+	public static final RegistryObject<Item> RAW_LIGHTNING_SAUSAGE = REGISTRY.register("raw_lightning_sausage", () -> new RawLightningSausageItem());
+	public static final RegistryObject<Item> LIGHTNING_SAUSAGE = REGISTRY.register("lightning_sausage", () -> new LightningSausageItem());
 	public static final RegistryObject<Item> SPICES_FROM_WITHERBONE = REGISTRY.register("spices_from_witherbone", () -> new SpicesFromWitherboneItem());
 	public static final RegistryObject<Item> SPICES = REGISTRY.register("spices", () -> new SpicesItem());
 	public static final RegistryObject<Item> FLOUR_FROM_DRAGON_BONES = REGISTRY.register("flour_from_dragon_bones", () -> new FlourFromDragonBonesItem());
@@ -72,4 +81,7 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> FIRE_LILY_EXTRACT = REGISTRY.register("fire_lily_extract", () -> new FireLilyExtractItem());
 	public static final RegistryObject<Item> FROST_LILY_EXTRACT = REGISTRY.register("frost_lily_extract", () -> new IceLilyExtractItem());
 	public static final RegistryObject<Item> LIGHTNING_LILY_EXTRACT = REGISTRY.register("lightning_lily_extract", () -> new LightningLilyExtractItem());
+	public static final RegistryObject<Item> MINI_PIZZA = REGISTRY.register("mini_pizza", () -> new MiniPizzaItem());
+	public static final RegistryObject<Item> MINI_PIZZA_BLANK = REGISTRY.register("mini_pizza_blank", () -> new PizzaBlankItem());
+	public static final RegistryObject<Item> RAW_MINI_PIZZA_BLANK = REGISTRY.register("raw_mini_pizza_blank", () -> new RawPizzaBlankItem());
 }

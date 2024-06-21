@@ -39,6 +39,9 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.ICE_MINCED_MEAT.get());
 				tabData.accept(IceAndFireDelightModItems.RAW_ICE_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.ICE_SAUSAGE.get());
+				tabData.accept(IceAndFireDelightModItems.LIGHTNING_MINCED_MEAT.get());
+				tabData.accept(IceAndFireDelightModItems.RAW_LIGHTNING_SAUSAGE.get());
+				tabData.accept(IceAndFireDelightModItems.LIGHTNING_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.SPICES_FROM_WITHERBONE.get());
 				tabData.accept(IceAndFireDelightModItems.SPICES.get());
 				tabData.accept(IceAndFireDelightModItems.FLOUR_FROM_DRAGON_BONES.get());
@@ -47,6 +50,9 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.FIRE_LILY_EXTRACT.get());
 				tabData.accept(IceAndFireDelightModItems.FROST_LILY_EXTRACT.get());
 				tabData.accept(IceAndFireDelightModItems.LIGHTNING_LILY_EXTRACT.get());
+				tabData.accept(IceAndFireDelightModItems.MINI_PIZZA.get());
+				tabData.accept(IceAndFireDelightModItems.MINI_PIZZA_BLANK.get());
+				tabData.accept(IceAndFireDelightModItems.RAW_MINI_PIZZA_BLANK.get());
 			})
 
 			.build());
