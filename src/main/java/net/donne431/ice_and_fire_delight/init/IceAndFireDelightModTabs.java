@@ -53,6 +53,10 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.MINI_PIZZA.get());
 				tabData.accept(IceAndFireDelightModItems.MINI_PIZZA_BLANK.get());
 				tabData.accept(IceAndFireDelightModItems.RAW_MINI_PIZZA_BLANK.get());
+				tabData.accept(IceAndFireDelightModItems.SEA_SERPENT_SLICE.get());
+				tabData.accept(IceAndFireDelightModItems.SEA_SERPENT_ROLL.get());
+				tabData.accept(IceAndFireDelightModItems.COOKED_SEA_SERPENT_SLICE.get());
+				tabData.accept(IceAndFireDelightModItems.HYDRA_VENOM_SOUP.get());
 			})
 
 			.build());

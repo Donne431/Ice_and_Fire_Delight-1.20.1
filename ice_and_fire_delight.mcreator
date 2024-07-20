@@ -1318,40 +1318,129 @@
           "src/main/resources/data/ice_and_fire_delight/recipes/raw_mini_pizza_blank.json"
         ]
       }
+    },
+    {
+      "name": "Configuration",
+      "type": "config",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "configuration",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/configuration/ConfigurationConfiguration.java"
+        ]
+      }
+    },
+    {
+      "name": "SeaSerpentSlice",
+      "type": "item",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sea_serpent_slice",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/SeaSerpentSliceItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/sea_serpent_slice.json"
+        ]
+      }
+    },
+    {
+      "name": "SeaSerpentRoll",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sea_serpent_roll",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/SeaSerpentRollItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/sea_serpent_roll.json"
+        ]
+      }
+    },
+    {
+      "name": "CookedSeaSerpentSlice",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cooked_sea_serpent_slice",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/cooked_sea_serpent_slice.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/CookedSeaSerpentSliceItem.java"
+        ]
+      }
+    },
+    {
+      "name": "HydraVenomSoupWhenDrinked",
+      "type": "procedure",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydra_venom_soup_when_drinked",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/HydraVenomSoupWhenDrinkedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HydraVenomSoup",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydra_venom_soup",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/HydraVenomSoupItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/hydra_venom_soup.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "ru_ru": {
-      "item.ice_and_fire_delight.raw_mini_pizza_blank": "Сырая заготовка для мини пиццы",
-      "book.ice_and_fire_delight.landing_text": "В данной книге вы можете узнать подробнее о содержание мода Ice and Fire Delight",
       "effect.ice_and_fire_delight.lightning_strike": "Молниеносный удар",
+      "book.ice_and_fire_delight.landing_text": "В данной книге вы можете узнать подробнее о содержание мода Ice and Fire Delight",
+      "item.ice_and_fire_delight.raw_mini_pizza_blank": "Сырая заготовка для мини пиццы",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.name": "Эктоплазмовое желе",
-      "item.ice_and_fire_delight.cyclops_steak": "Стейк из циклопа",
       "item.ice_and_fire_delight.sea_serpent_meat": "Мясо левиафана",
+      "item.ice_and_fire_delight.cyclops_steak": "Стейк из циклопа",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.page2.text": "Данное желе готовится в кухонном котле. Всё что для него нужно, это два куска эктоплазмы призраков. Закидываем в котёл, перемешиваем и получаем желе!",
       "item.ice_and_fire_delight.fire_minced_meat": "Огненный фарш",
       "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
       "item.ice_and_fire_delight.spices": "Специи",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.desc": "Экстракт огненной лилии - концентрированное вещество, получаемое из огненной лилии. Используется как соус для блюд, но также его можно просто выпить. При употреблении даёт эффект \"Заговор огня\" на 25 секунд.",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.name": "Острые блестящие чипсы",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text": "Мясо левиафана готовится в печи. В зависимости от печи, где готовится мясо время готовки отличается. В среднем время жарки от 8 до 10 секунд.",
-      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.desc": "Острые блестящие чипсы являются разновидностью блестящих чипсов с добавлением перемолотых костей иссушителей. При употребление они дают эффект \"Тепло\" на 30 секунд и \"Заговор Огня\" на 10 секунд.",
-      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Рецепт",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.name": "Огненный экстракт ",
+      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Рецепт",
+      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.desc": "Острые блестящие чипсы являются разновидностью блестящих чипсов с добавлением перемолотых костей иссушителей. При употребление они дают эффект \"Тепло\" на 30 секунд и \"Заговор Огня\" на 10 секунд.",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text": "Мясо левиафана готовится в печи. В зависимости от печи, где готовится мясо время готовки отличается. В среднем время жарки от 8 до 10 секунд.",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "Экстракт грозовой лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 грозовые лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
       "advancements.feel_spicy.descr": "Съешьте острые чипсы из блестящей чешуи",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "Блестящие чипсы",
       "item.ice_and_fire_delight.fried_dragon_egg": "Драконья яичница",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.title": "Рецепт",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Печенье со смолой мирмикса",
+      "item.ice_and_fire_delight.cooked_sea_serpent_slice": "Ломтик жаренного левиафана",
       "item.ice_and_fire_delight.mini_pizza_blank": "Заготовка для мини пиццы",
       "item.ice_and_fire_delight.raw_ice_sausage": "Сырая ледяная колбаса",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Мука из костей дракона",
       "book.ice_and_fire_delight.category.foods.ectoplasm_jelly.desc": "Эктоплазмовое желе - это довольно редко встречаемое блюдо, ведь его чуть ли не сложнее сделать, чем уху из левиафана или мяса тролля в медовой глазури. Почему? Да потому что против троллей и левиафанов есть хоть какие-то хитрости и тактики, а против призраков - почти ничего.",
-      "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.name": "Уха из левиафана",
       "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Приготовленное мясо левиафана",
+      "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.name": "Уха из левиафана",
       "item.ice_and_fire_delight.troll_intestines": "Кишечник тролля",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.desc": "Данное блюдо сделано из великого морского чудовища, немногие смогли попробовать его, ведь немногие смогли одолеть Левиафана.",
       "book.ice_and_fire_delight.category.foods.troll_meat.page2.title": "Рецепт",
@@ -1364,41 +1453,50 @@
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Чипсы из блестящей чешуи",
       "book.ice_and_fire_delight.category.foods.name": "Еда",
       "item.ice_and_fire_delight.fire_lily_extract": "Экстракт огненной лилии",
+      "item.ice_and_fire_delight.hydra_venom_soup": "Hydra venom soup",
       "item.ice_and_fire_delight.spices_from_witherbone": "Специи из костей иссушителя",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Рецепт",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Рецепт",
       "item.ice_and_fire_delight.cooked_troll_meat": "Приготовленное мясо тролля",
-      "book.ice_and_fire_delight.category.foods.desc": "В данной категории рассказывается о еде из мода",
       "advancements.dragon_minced_meat_adv.descr": "Разделайте плоть дракона",
+      "book.ice_and_fire_delight.category.foods.desc": "В данной категории рассказывается о еде из мода",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.page2.text": "Экстракт огненной лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 огненные лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.title": "Рецепт",
       "advancements.root.descr": "Войдите в мир, полный мистических блюд",
+      "item.ice_and_fire_delight.sea_serpent_roll": "Ролл из левиафана",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.page2.text": "Для приготовление ролла из мяса левиафана вам всего лишь нужен приготовленный рис и ломтик сырого мяса левиафана.",
       "item.ice_and_fire_delight.lightning_minced_meat": "Грозовой фарш",
       "book.ice_and_fire_delight.category.drinks.desc": "В данной категории рассказывается о напитках из мода",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc": "Мясо этого великого морского чудовища само по себе является деликатесом и редкой добычью, но оно также является ингредиентом более изысканных блюд.",
       "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.text": "Экстракт ледяной лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 ледяные лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
       "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Уха из левиафана",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.text": "Ломтик мяса левиафана готовится в печи. В зависимости от печи, где готовится мясо время жарки отличается. В среднем время жарки от 5 до 8 секунд.",
       "item.ice_and_fire_delight.ectoplasm_jelly": "Эктоплазмовое желе",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text": "Уха из левиафана готовится в кухонном котле. Кроме мяса этого великого морского чудовища для ухи необходим лук, картошка и морковка. После того, как уха была приготовлена её переливают в миску.",
       "item.ice_and_fire_delight.cyclops_meat": "Мясо циклопа",
       "item.ice_and_fire_delight.raw_lightning_sausage": "Сырая грозовая колбаса",
+      "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line1": "Данный предмет к релизу может сильно поменяться!",
       "item.ice_and_fire_delight.raw_fire_sausage": "Сырая огненная колбаса",
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.text": "Для создания мяса тролля в медовой глазури нужен только лишь верстак. Кроме приготовленного мясо Тролля для блюда необходим приготовленный рис и бутылочка мёда.",
       "book.ice_and_fire_delight.category.drinks.name": "Напитки",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.title": "Рецепт",
       "item.ice_and_fire_delight.frost_lily_extract": "Экстракт ледяной лилии",
       "item.ice_and_fire_delight.fire_sausage": "Огненная колбаса",
       "advancements.feel_spicy.title": "Почуствуй остроту",
       "advancements.root.title": "Ice and Fire Delight",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc": "Ломтик мяса левиафана это более лёгкий перекус, чем само мясо левиафана. Его употребляют в пищу, когда вы либо не сильно голодны или когда вам срочно надо перекусить.",
       "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Острые чипсы из блестящей чешуи",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.text": "Готовятся они крайне просто, всё что вам нужно это посыпать обычные блестящие чипсы специей из костей иссушителей.",
       "advancements.dragon_minced_meat_adv.title": "Не такой уж и великий зверь!",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Мясо левиафана",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.title": "Рецепт",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.name": "Ломтик левиафана",
       "item.ice_and_fire_delight.empty_measuring_cylinder": "Пустая мензурка",
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.name": "Мясо тролля в мёде",
       "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice and Fire Delight",
       "book.ice_and_fire_delight.category.foods.troll_meat.page2.text": "Мясо тролля готовится в печи. Для трапезы нужно подождать всего от 8 до 10 секунд. ",
       "effect.ice_and_fire_delight.warming": "Тепло",
+      "item.ice_and_fire_delight.sea_serpent_slice": "Ломтик левиафана",
       "effect.ice_and_fire_delight.poison_resistance": "Устойчивость к ядам",
       "item.ice_and_fire_delight.mini_pizza": "Мини пицца",
       "item.ice_and_fire_delight.cookbook": "Кулинарная книга",
@@ -1408,6 +1506,8 @@
       "effect.ice_and_fire_delight.fire_aspect": "Заговор огня",
       "item.ice_and_fire_delight.troll_meat": "Мясо тролля",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.desc": "Данная закуска создаётся из чешуи морских существ, она крайне быстро готовится в печи, а также крайне быстро и незаметно поедается.",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.desc": "Ролл из мяса левиафана - это разновидность ролла, где вместо ломтика обычной рыбы используется ломтик сырого мяса левиафана.",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.name": "Ролл из левиафана",
       "book.ice_and_fire_delight.category.drinks.frost_lily_extract.desc": "Экстракт ледяной лилии - концентрированное вещество, получаемое из ледяной лилии. Используется как соус для блюд, но также его можно просто выпить. При употреблении даёт эффект \"Заговор льда\" на 25 секунд.",
       "item.ice_and_fire_delight.lightning_lily_extract": "Экстракт грозовой лилии",
       "item.ice_and_fire_delight.ice_minced_meat": "Ледяной фарш",
@@ -1421,7 +1521,9 @@
       "book.ice_and_fire_delight.category.foods.troll_meat.desc": "Мясо тролля как ни странно выпадает с троллей, оно является довольно редкой добычей, ведь если тролль выйдет на свет он превращается в каменную статую, так что мясо можно получить лишь ночью.",
       "book.ice_and_fire_delight.category.items.name": "Предметы",
       "book.ice_and_fire_delight.category.drinks.frost_lily_extract.name": "Ледяной экстракт",
-      "item.ice_and_fire_delight.lightning_sausage": "Грозовая колбаса"
+      "config.ice_and_fire_delight.configuration": "ice_and_fire_delight-common",
+      "item.ice_and_fire_delight.lightning_sausage": "Грозовая колбаса",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.page2.title": "Рецепт"
     },
     "en_us": {
       "effect.ice_and_fire_delight.lightning_strike": "Lightning strike",
@@ -1446,6 +1548,7 @@
       "item.ice_and_fire_delight.fried_dragon_egg": "Fried Dragon Egg",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.title": "Recipe",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Myrmex resin cookie",
+      "item.ice_and_fire_delight.cooked_sea_serpent_slice": "Cooked Sea Serpent slice",
       "item.ice_and_fire_delight.mini_pizza_blank": "Mini pizza blank",
       "item.ice_and_fire_delight.raw_ice_sausage": "Raw ice sausage",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Flour from dragon bones",
@@ -1464,6 +1567,7 @@
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Chips from shiny scales",
       "book.ice_and_fire_delight.category.foods.name": "Foods",
       "item.ice_and_fire_delight.fire_lily_extract": "Fire lily extract",
+      "item.ice_and_fire_delight.hydra_venom_soup": "Hydra venom soup",
       "item.ice_and_fire_delight.spices_from_witherbone": "Spices from witherbone",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Recipe",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Recipe",
@@ -1473,32 +1577,40 @@
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.page2.text": "Fire lily extract is prepared in a cooking pot. From the ingredients we need only 2 fire lilies, we put it to boil and stir for 5 seconds, when ready pour the extract into an empty measuring cylinder. ",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.title": "Recipe",
       "advancements.root.descr": "Enter a world of magical dishes",
+      "item.ice_and_fire_delight.sea_serpent_roll": "Sea Serpent roll",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.page2.text": "To make a sea serpent rolll, all you need is cooked rice and a sea serpent slice.",
       "item.ice_and_fire_delight.lightning_minced_meat": "Lightning minced meat",
       "book.ice_and_fire_delight.category.drinks.desc": "This category tells about drinks from mod",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc": "The meat of this great sea monster is a delicacy in itself and a rare catch, but it is also an ingredient in more exquisite dishes.",
       "book.ice_and_fire_delight.category.drinks.frost_lily_extract.page2.text": "Ice lily extract is prepared in a cooking pot. From the ingredients we need only 2 ice lilies, we put it to boil and stir for 5 seconds, when ready pour the extract into an empty measuring cylinder. ",
       "item.ice_and_fire_delight.fresh_soup_from_sea_serpent": "Fresh soup from sea serpent",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.text": "Sea serpent slice is cooked in an furnace. Depending on the furnace where the meat is cooked, the cooking time differs. The average cooking time is between 5 and 8 seconds.",
       "item.ice_and_fire_delight.ectoplasm_jelly": "Ectoplasm jelly",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text": "Fresh soup from sea serpent is cooked in a cooking pot. In addition to the meat of this great sea monster, the soup requires onions, potatoes and carrots. After the soup has been cooked, it is poured into a bowl.",
       "item.ice_and_fire_delight.cyclops_meat": "Cyclops meat",
       "item.ice_and_fire_delight.raw_lightning_sausage": "Raw lightning sausage",
+      "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line1": "This item may change a lot by release!",
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.text": "All you need is a crafting table to create honey glazed Troll meat. In addition to the cooked Troll meat, the dish requires cooked rice and a bottle of honey.",
       "item.ice_and_fire_delight.raw_fire_sausage": "Raw fire sausage",
       "book.ice_and_fire_delight.category.drinks.name": "Drinks",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.title": "Recipe",
       "item.ice_and_fire_delight.frost_lily_extract": "Frost lily extract",
       "item.ice_and_fire_delight.fire_sausage": "Fire sausage",
       "advancements.feel_spicy.title": "Feel spicy",
       "advancements.root.title": "Ice and Fire Delight",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc": "Sea serpent slice is a lighter snack than the sea serpent meat itself. It is eaten when you are either not very hungry or when you need a quick snack.",
       "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Spicy chips from shiny scales",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.text": "They are extremely simple to make, all you need to do is sprinkle the usual shiny chips with spice from the witherbones.",
       "advancements.dragon_minced_meat_adv.title": "Not so great beast",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Sea serpent meat",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.title": "Recipe",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_slice.name": "Sea serpent slice",
       "item.ice_and_fire_delight.empty_measuring_cylinder": "Empty measuring cylinder",
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.name": "Honey glazed meat",
       "item_group.ice_and_fire_delight.ice_and_fire_delight_creative_tab": "Ice And Fire Delight",
       "book.ice_and_fire_delight.category.foods.troll_meat.page2.text": "Troll meat is cooked in the furnace. You only have to wait 8 to 10 seconds for the meal. ",
       "effect.ice_and_fire_delight.warming": "Warming",
+      "item.ice_and_fire_delight.sea_serpent_slice": "Sea Serpent slice",
       "effect.ice_and_fire_delight.poison_resistance": "Poison Resistance",
       "item.ice_and_fire_delight.mini_pizza": "Mini pizza",
       "item.ice_and_fire_delight.cookbook": "Cookbook",
@@ -1508,6 +1620,8 @@
       "effect.ice_and_fire_delight.fire_aspect": "Fire aspect",
       "item.ice_and_fire_delight.troll_meat": "Troll meat",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.desc": "This snack is created from the scales of sea creatures, it is extremely quick to cook in the furnace, and it is also extremely quick to eat.",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.desc": "Sea serpent roll is a type of roll that uses sea serpent slice instead of regular fish slice.",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.name": "Sea serpent roll",
       "book.ice_and_fire_delight.category.drinks.frost_lily_extract.desc": "Ice lily extract is a concentrated substance derived from the ice lily. It is used as a sauce for dishes, but can also be simply drunk. When consumed, it gives the effect “Ice aspect” for 25 seconds.",
       "item.ice_and_fire_delight.lightning_lily_extract": "Lightning lily extract",
       "item.ice_and_fire_delight.ice_minced_meat": "Ice minced meat",
@@ -1521,7 +1635,9 @@
       "book.ice_and_fire_delight.category.foods.troll_meat.desc": "Troll meat is strangely getting from trolls, it is quite rare, because if a troll goes out into the light he turns into a stone statue, so it can be obtained only at night.",
       "book.ice_and_fire_delight.category.items.name": "Items",
       "book.ice_and_fire_delight.category.drinks.frost_lily_extract.name": "Frost lily extract",
-      "item.ice_and_fire_delight.lightning_sausage": "Lightning sausage"
+      "config.ice_and_fire_delight.configuration": "ice_and_fire_delight-common",
+      "item.ice_and_fire_delight.lightning_sausage": "Lightning sausage",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_roll.page2.title": "Recipe"
     }
   },
   "foldersRoot": {
@@ -1531,7 +1647,7 @@
   "workspaceSettings": {
     "modid": "ice_and_fire_delight",
     "modName": "Ice and Fire Delight",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "description": "Mod adds the integration of Ice and Fire with Farmer\u0027s Delight",
     "author": "Donne431",
     "websiteURL": "https://modrinth.com/mod/ice-and-fire-delight",

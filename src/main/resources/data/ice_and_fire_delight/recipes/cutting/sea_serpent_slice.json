@@ -1,0 +1,20 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_delight:sea_serpent_meat"
+    }
+  ],
+  "result": [
+    {
+      "count": 2,
+      "item": "ice_and_fire_delight:sea_serpent_slice"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

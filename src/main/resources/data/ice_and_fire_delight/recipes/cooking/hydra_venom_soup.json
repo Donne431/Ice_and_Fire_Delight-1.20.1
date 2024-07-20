@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "minecraft:bowl"
+  },
+  "cookingtime": 450,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "iceandfire:hydra_fang"
+    },
+    {
+      "item": "iceandfire:hydra_fang"
+    },
+    {
+      "item": "iceandfire:hydra_fang"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "ice_and_fire_delight:hydra_venom_soup"
+  }
+}

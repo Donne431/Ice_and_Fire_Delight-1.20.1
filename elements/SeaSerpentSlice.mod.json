@@ -1,0 +1,53 @@
+{
+  "_fv": 57,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "sea_serpent_slice",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "Sea Serpent slice",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:IceAndFireDelightCreativeTab"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 5,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "Arrow"
+    },
+    "isFood": true,
+    "nutritionalValue": 1,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": true,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

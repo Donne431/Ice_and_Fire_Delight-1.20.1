@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 160,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "ice_and_fire_delight:sea_serpent_slice"
+  },
+  "result": "ice_and_fire_delight:cooked_sea_serpent_slice"
+}

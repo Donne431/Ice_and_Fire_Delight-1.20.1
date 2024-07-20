@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_delight:sea_serpent_slice"
+    },
+    {
+      "item": "ice_and_fire_delight:sea_serpent_slice"
+    },
+    {
+      "item": "farmersdelight:cooked_rice"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "ice_and_fire_delight:sea_serpent_roll"
+  }
+}
