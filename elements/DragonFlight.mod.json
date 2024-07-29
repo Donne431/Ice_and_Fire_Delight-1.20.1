@@ -1,0 +1,23 @@
+{
+  "_fv": 57,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Dragon's Flight",
+    "icon": "dragon_flight.png",
+    "color": {
+      "value": -39322,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": false,
+    "isBenefitical": true,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "DragonFlightStart"
+    },
+    "onExpired": {
+      "name": "DragonFlightEnd"
+    }
+  }
+}

@@ -15,6 +15,7 @@ import net.donne431.ice_and_fire_delight.potion.PoisonResistanceMobEffect;
 import net.donne431.ice_and_fire_delight.potion.LightningStrikeMobEffect;
 import net.donne431.ice_and_fire_delight.potion.IceAspectMobEffect;
 import net.donne431.ice_and_fire_delight.potion.FireAspectMobEffect;
+import net.donne431.ice_and_fire_delight.potion.DragonFlightMobEffect;
 import net.donne431.ice_and_fire_delight.IceAndFireDelightMod;
 
 public class IceAndFireDelightModMobEffects {
@@ -24,4 +25,5 @@ public class IceAndFireDelightModMobEffects {
 	public static final RegistryObject<MobEffect> LIGHTNING_STRIKE = REGISTRY.register("lightning_strike", () -> new LightningStrikeMobEffect());
 	public static final RegistryObject<MobEffect> POISON_RESISTANCE = REGISTRY.register("poison_resistance", () -> new PoisonResistanceMobEffect());
 	public static final RegistryObject<MobEffect> WARMING = REGISTRY.register("warming", () -> new WarmingMobEffect());
+	public static final RegistryObject<MobEffect> DRAGON_FLIGHT = REGISTRY.register("dragon_flight", () -> new DragonFlightMobEffect());
 }

@@ -23,6 +23,24 @@
             "enablecomment": true,
             "onlyComment": false,
             "entityType": "EntityAcaciaFishMount"
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "This variable is responsible for give book on startup or not.",
+            "vardisplay": "give_book_on_startup",
+            "varname": "give_book_on_startup",
+            "enablecomment": true,
+            "onlyComment": false,
+            "entityType": "EntityAcaciaFishMount"
           }
         ]
       }
