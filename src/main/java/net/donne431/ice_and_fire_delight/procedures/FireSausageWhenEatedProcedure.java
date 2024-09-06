@@ -11,6 +11,6 @@ public class FireSausageWhenEatedProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.FIRE_ASPECT.get(), 12000, 1));
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.FIRE_ASPECT.get(), 12000, 0));
 	}
 }

@@ -10,7 +10,7 @@ public class ConfigurationConfiguration {
 	static {
 		BUILDER.push("Other");
 		ENABLE_IAFD_TRADES = BUILDER.comment("[NOT WORKING] This variable is responsible for enabling/disabling trades with villagers added by the mod").define("enable_iafd_trades", true);
-		GIVE_BOOK_ON_STARTUP = BUILDER.comment("This variable is responsible for give book on startup or not.").define("give_book_on_startup", true);
+		GIVE_BOOK_ON_STARTUP = BUILDER.comment("This variable is responsible for give book on startup or not. Default: true").define("give_book_on_startup", true);
 		BUILDER.pop();
 
 		SPEC = BUILDER.build();

@@ -35,7 +35,7 @@
             "logicField": 0,
             "numberField": 0.0,
             "textDefault": "",
-            "comment": "This variable is responsible for give book on startup or not.",
+            "comment": "This variable is responsible for give book on startup or not. Default: true",
             "vardisplay": "give_book_on_startup",
             "varname": "give_book_on_startup",
             "enablecomment": true,

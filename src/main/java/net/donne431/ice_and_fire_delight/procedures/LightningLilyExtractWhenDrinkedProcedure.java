@@ -11,6 +11,6 @@ public class LightningLilyExtractWhenDrinkedProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.LIGHTNING_STRIKE.get(), 500, 1));
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.LIGHTNING_STRIKE.get(), 500, 0));
 	}
 }

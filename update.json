@@ -1,7 +1,13 @@
 {
   "homepage": "https://modrinth.com/mod/ice-and-fire-delight",
+  "1.20.1": {
+  	"0.1.8": "+added tooltips to items, what effects an item has/n +added Chinese (zh_ch) translation/n *fixed a bug where you couldn't fly in creatives after the end of the 'Dragon's Flight' effect.",
+  	"0.1.7": "+added new config variable 'give_book_on_startup' - is responsible for giving out the cookbook at the beginning of the game. Default: true/n +added new effect 'Dragon's Flight' - gives flight effect as in creative (impossible to get in survival)",
+  	"0.1.6": "+added hydra venom soup (with recipe)/n +added sea serpent slice (with recipe)/n +added cooked sea serpent slice (with recipe)/n +added sea serpent roll (with recipe)/n *'Sea serpent meat' entry has been expanded",
+  	"0.1.5": "+added raw mini pizza blank (with recipe)/n +added mini pizza blank (with recipe)/n +added mini pizza (with recipe)/n +added lightning minced meat (with recipe)/n +added raw lightning sausage (with recipe)/n +added lightning sausage (with recipe)"
+  },
   "promos": {
-	"1.20.1-latest": "0.1.7",
-	"1.20.1-recommended": "0.1.7"
+	"1.20.1-latest": "0.1.8",
+	"1.20.1-recommended": "0.1.8"
   }
 }
