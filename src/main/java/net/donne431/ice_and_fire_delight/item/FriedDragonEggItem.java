@@ -13,7 +13,7 @@ import java.util.List;
 
 public class FriedDragonEggItem extends Item {
 	public FriedDragonEggItem() {
-		super(new Item.Properties().stacksTo(8).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(16).saturationMod(0.22f).build()));
+		super(new Item.Properties().stacksTo(8).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(16).saturationMod(0.5f).build()));
 	}
 
 	@Override

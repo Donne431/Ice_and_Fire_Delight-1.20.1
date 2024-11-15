@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LightningMincedMeat"
+      },
+      {
+        "value": "CUSTOM:LightningMincedMeat"
+      },
+      {
+        "value": "Items.GOLD_NUGGET"
+      },
+      {
+        "value": "CUSTOM:LightningMincedMeat"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "Items.GOLD_NUGGET"
+      },
+      {
+        "value": "CUSTOM:LightningLilyExtract"
+      },
+      {
+        "value": "CUSTOM:LightningLilyExtract"
+      },
+      {
+        "value": "CUSTOM:DragonPieCrust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ElectricPie"
+    },
+    "name": "electric_pie",
+    "namespace": "mod"
+  }
+}

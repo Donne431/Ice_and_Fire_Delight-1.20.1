@@ -32,6 +32,7 @@ import net.minecraft.network.FriendlyByteBuf;
 import net.donne431.ice_and_fire_delight.init.IceAndFireDelightModTabs;
 import net.donne431.ice_and_fire_delight.init.IceAndFireDelightModMobEffects;
 import net.donne431.ice_and_fire_delight.init.IceAndFireDelightModItems;
+import net.donne431.ice_and_fire_delight.init.IceAndFireDelightModBlocks;
 
 import java.util.function.Supplier;
 import java.util.function.Function;
@@ -50,6 +51,8 @@ public class IceAndFireDelightMod {
 	public IceAndFireDelightMod() {
 		MinecraftForge.EVENT_BUS.register(this);
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
+
+		IceAndFireDelightModBlocks.REGISTRY.register(bus);
 
 		IceAndFireDelightModItems.REGISTRY.register(bus);
 

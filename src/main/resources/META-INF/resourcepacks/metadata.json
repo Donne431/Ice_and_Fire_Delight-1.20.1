@@ -1,0 +1,10 @@
+{
+  "packs": [
+    {
+      "identifier": "ice_and_fire_delight:alpha",
+      "path": "META-INF/resourcepacks/alpha.zip",
+      "display_name": { "text": "Return IaFD alpha textures in the game!" },
+      "default_status": "DISABLED"
+    }
+  ]
+}

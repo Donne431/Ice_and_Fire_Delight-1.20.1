@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "ice_and_fire_delight:raw_mini_pizza_blank"
+    },
+    "title": {
+      "translate": "advancements.too_much_power.title"
+    },
+    "description": {
+      "translate": "advancements.too_much_power.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "too_much_power": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "ice_and_fire_delight:root"
+}

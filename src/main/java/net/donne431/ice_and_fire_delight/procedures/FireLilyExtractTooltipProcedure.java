@@ -34,7 +34,6 @@ public class FireLilyExtractTooltipProcedure {
 		if (itemstack.getItem() == IceAndFireDelightModItems.FIRE_LILY_EXTRACT.get()) {
 			tooltip.add(1, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.fire_lily_extract.line1").getString())));
 			tooltip.add(2, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.fire_lily_extract.line2").getString())));
-			tooltip.add(3, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.fire_lily_extract.line3").getString())));
 		}
 	}
 }

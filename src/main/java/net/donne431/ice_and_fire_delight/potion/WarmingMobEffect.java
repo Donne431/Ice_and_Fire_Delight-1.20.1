@@ -6,7 +6,7 @@ import net.minecraft.world.effect.MobEffect;
 
 public class WarmingMobEffect extends MobEffect {
 	public WarmingMobEffect() {
-		super(MobEffectCategory.BENEFICIAL, -26317);
+		super(MobEffectCategory.BENEFICIAL, -6710785);
 	}
 
 	@Override

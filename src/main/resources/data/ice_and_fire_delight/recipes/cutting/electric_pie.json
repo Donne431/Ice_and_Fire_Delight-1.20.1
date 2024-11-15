@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_delight:electric_pie"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "item": "ice_and_fire_delight:electric_pie_slice"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

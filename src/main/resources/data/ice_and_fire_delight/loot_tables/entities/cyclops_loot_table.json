@@ -6,134 +6,6 @@
                 {
                     "type": "item",
                     "weight": 1,
-                    "name": "minecraft:leather",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 1,
-                                "max": 10
-                            }
-                        },
-                        {
-                            "function": "looting_enchant",
-                            "count": {
-                                "min": 0,
-                                "max": 2
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "minecraft:mutton",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 0,
-                                "max": 10
-                            }
-                        },
-                        {
-                            "function": "looting_enchant",
-                            "count": {
-                                "min": 0,
-                                "max": 2
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "minecraft:white_wool",
-                    "functions": [
-                        {
-                            "function": "set_count",
-                            "count": {
-                                "min": 0,
-                                "max": 5
-                            }
-                        },
-                        {
-                            "function": "looting_enchant",
-                            "count": {
-                                "min": 0,
-                                "max": 2
-                            }
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "rolls": {
-                "min": -3,
-                "max": 1
-            },
-            "conditions": [
-                {
-                    "condition": "killed_by_player"
-                }
-            ],
-            "entries": [
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "iceandfire:cyclops_eye",
-                    "conditions": [
-                        {
-                            "condition": "random_chance_with_looting",
-                            "chance": 0.2,
-                            "looting_multiplier": 0.02
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "rolls": {
-                "min": 0,
-                "max": 1
-            },
-            "conditions": [
-                {
-                    "condition": "killed_by_player"
-                }
-            ],
-            "entries": [
-                {
-                    "type": "item",
-                    "weight": 1,
-                    "name": "iceandfire:cyclops_skull",
-                    "conditions": [
-                        {
-                            "condition": "random_chance_with_looting",
-                            "chance": 0.025,
-                            "looting_multiplier": 0.01
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "rolls": 1,
-            "entries": [
-                {
-                    "type": "item",
-                    "weight": 1,
                     "name": "ice_and_fire_delight:cyclops_meat",
                     "functions": [
                         {
@@ -153,15 +25,16 @@
                         {
                             "function": "furnace_smelt",
                             "conditions": [
-                                {
-                                    "condition": "entity_properties",
-                                    "entity": "this",
-                                    "looting_multiplier": 0.01,
-                                    "properties": {
-                                        "on_fire": false
-                                    }
-                                }
-                            ]
+                {
+                  "condition": "minecraft:entity_properties",
+                  "entity": "this",
+                  "predicate": {
+                    "flags": {
+                      "is_on_fire": true
+                    }
+                  }
+                }
+              ]
                         }
                     ]
                 }

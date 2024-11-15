@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "dragon_pie_side",
+        "top": "lightning_pie_top",
+        "bottom": "dragon_pie_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

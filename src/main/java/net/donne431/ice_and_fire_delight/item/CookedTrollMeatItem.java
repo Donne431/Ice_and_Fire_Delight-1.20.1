@@ -13,7 +13,7 @@ import java.util.List;
 
 public class CookedTrollMeatItem extends Item {
 	public CookedTrollMeatItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(7).saturationMod(0.27f).meat().build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(7).saturationMod(0.6f).meat().build()));
 	}
 
 	@Override

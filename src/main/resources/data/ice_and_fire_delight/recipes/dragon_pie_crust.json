@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "tag": "forge:milk"
+    },
+    "w": {
+      "item": "ice_and_fire_delight:flour_from_dragon_bones"
+    }
+  },
+  "pattern": [
+    "wMw",
+    " w "
+  ],
+  "result": {
+    "item": "ice_and_fire_delight:dragon_pie_crust"
+  },
+  "show_notification": true
+}

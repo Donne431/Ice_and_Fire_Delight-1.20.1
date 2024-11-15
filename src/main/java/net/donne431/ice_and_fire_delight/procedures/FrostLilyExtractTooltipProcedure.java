@@ -32,7 +32,8 @@ public class FrostLilyExtractTooltipProcedure {
 		if (tooltip == null)
 			return;
 		if (itemstack.getItem() == IceAndFireDelightModItems.FROST_LILY_EXTRACT.get()) {
-			tooltip.add(Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.frost_lily_extract.line1").getString())));
+			tooltip.add(1, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.frost_lily_extract.line1").getString())));
+			tooltip.add(2, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.frost_lily_extract.line2").getString())));
 		}
 	}
 }

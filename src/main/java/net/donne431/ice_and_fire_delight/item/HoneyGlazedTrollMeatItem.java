@@ -16,7 +16,7 @@ import java.util.List;
 
 public class HoneyGlazedTrollMeatItem extends Item {
 	public HoneyGlazedTrollMeatItem() {
-		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(13).saturationMod(0.12f).build()));
+		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(13).saturationMod(0.45f).build()));
 	}
 
 	@Override

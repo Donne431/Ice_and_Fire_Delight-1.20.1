@@ -2,10 +2,10 @@
   "_fv": 57,
   "_type": "potioneffect",
   "definition": {
-    "effectName": "Warming",
+    "effectName": "Cold Resistance",
     "icon": "warming.png",
     "color": {
-      "value": -26317,
+      "value": -6710785,
       "falpha": 0.0
     },
     "isInstant": false,

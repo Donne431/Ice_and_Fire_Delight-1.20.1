@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "black_draconic_cutting_board"
+      },
+      "name": "default"
+    },
+    "whitedraconic": {
+      "map": {
+        "top": "white_draconic_cutting_board"
+      },
+      "name": "whitedraconic"
+    }
+  }
+}

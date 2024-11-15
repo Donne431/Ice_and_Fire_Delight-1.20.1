@@ -12,5 +12,7 @@ public class IceLilyExtractWhenDrinkedProcedure {
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
 			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.ICE_ASPECT.get(), 500, 0));
+		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.WARMING.get(), 500, 0));
 	}
 }

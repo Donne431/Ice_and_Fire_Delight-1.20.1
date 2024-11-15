@@ -1,0 +1,9 @@
+{
+  "parent": "ice_and_fire_delight:custom/cutting_board",
+  "textures": {
+    "all": "ice_and_fire_delight:block/black_draconic_cutting_board",
+    "particle": "ice_and_fire_delight:block/black_draconic_cutting_board",
+    "top": "ice_and_fire_delight:block/black_draconic_cutting_board"
+  },
+  "render_type": "cutout"
+}

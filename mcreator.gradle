@@ -9,6 +9,17 @@ dependencies {
 }
 
 
+repositories {
+  maven {
+      url = 'https://cursemaven.com/'
+  }
+}
+
+dependencies {
+  implementation fg.deobf('curse.maven:ice-and-fire-dragons-264231:5122408')
+}
+
+
 minecraft {
 	runs {
 		client {
@@ -36,6 +47,17 @@ repositories {
 dependencies {
 	compileOnly fg.deobf("curse.maven:patchouli-306770:4966125")
 	runtimeOnly fg.deobf("curse.maven:patchouli-306770:4966125")
+}
+
+
+repositories {
+  maven {
+      url = 'https://cursemaven.com/'
+  }
+}
+
+dependencies {
+  implementation fg.deobf('curse.maven:farmers-delight-398521:5051242')
 }
 
 

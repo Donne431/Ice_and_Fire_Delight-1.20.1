@@ -27,9 +27,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInformation": {
-      "fixedValue": [
-        "Desert"
-      ]
+      "fixedValue": []
     },
     "glowCondition": {
       "fixedValue": false

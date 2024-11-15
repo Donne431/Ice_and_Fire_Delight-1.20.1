@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "blockstates",
+  "definition": {
+    "block": "FrostPie",
+    "blockstateList": [
+      {
+        "texture": "dragon_pie_bottom",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "frost_pie_slice1:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "dragon_pie_bottom",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "frost_pie_slice2:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "dragon_pie_bottom",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "frost_pie_slice3:default",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

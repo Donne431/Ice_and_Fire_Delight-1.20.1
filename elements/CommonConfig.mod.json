@@ -1,0 +1,31 @@
+{
+  "_fv": 57,
+  "_type": "config",
+  "definition": {
+    "pools": [
+      {
+        "category": "General",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "This variable is responsible for give book on startup or not. Default: true  ",
+            "vardisplay": "give_book_on_startup",
+            "varname": "give_book_on_startup",
+            "enablecomment": true
+          }
+        ]
+      }
+    ],
+    "file": "ice_and_fire_delight-common",
+    "configType": 0
+  }
+}

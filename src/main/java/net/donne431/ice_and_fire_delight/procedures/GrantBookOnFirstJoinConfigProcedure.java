@@ -11,7 +11,7 @@ import net.minecraft.resources.ResourceLocation;
 import net.minecraft.advancements.AdvancementProgress;
 import net.minecraft.advancements.Advancement;
 
-import net.donne431.ice_and_fire_delight.configuration.ConfigurationConfiguration;
+import net.donne431.ice_and_fire_delight.configuration.CommonConfigConfiguration;
 
 import javax.annotation.Nullable;
 
@@ -29,7 +29,7 @@ public class GrantBookOnFirstJoinConfigProcedure {
 	private static void execute(@Nullable Event event, Entity entity) {
 		if (entity == null)
 			return;
-		if (ConfigurationConfiguration.GIVE_BOOK_ON_STARTUP.get() == true) {
+		if (!(CommonConfigConfiguration.GIVE_BOOK_ON_STARTUP.get() == false)) {
 			if (entity instanceof ServerPlayer _player) {
 				Advancement _adv = _player.server.getAdvancements().getAdvancement(new ResourceLocation("ice_and_fire_delight:grant_book_on_first_join_adv"));
 				AdvancementProgress _ap = _player.getAdvancements().getOrStartProgress(_adv);

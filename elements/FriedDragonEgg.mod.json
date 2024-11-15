@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Fried Dragon Egg",
+    "name": "Dragon Omlet",
     "rarity": "COMMON",
     "creativeTab": {
       "value": "CUSTOM:IceAndFireDelightCreativeTab"
@@ -42,7 +42,7 @@
     },
     "isFood": true,
     "nutritionalValue": 16,
-    "saturation": 0.22,
+    "saturation": 0.5,
     "eatResultItem": {
       "value": ""
     },

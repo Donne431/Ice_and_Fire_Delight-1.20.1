@@ -4,7 +4,7 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="ice_and_fire_delight"
-version="0.1.8"
+version="0.1.9"
 displayName="Ice and Fire Delight"
 updateJSONURL="https://raw.githubusercontent.com/Donne431/Ice_and_Fire_Delight-1.20.1/master/update.json"
 displayURL="https://modrinth.com/mod/ice-and-fire-delight"
@@ -47,7 +47,19 @@ description="Mod adds the integration of Ice and Fire with Farmer's Delight"
     ordering="NONE"
     side="BOTH"
 [[dependencies.ice_and_fire_delight]]
+    modId="ice_and_fire"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ice_and_fire_delight]]
     modId="patchouli"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.ice_and_fire_delight]]
+    modId="farmers_delight"
     mandatory=false
     versionRange="[0,)"
     ordering="NONE"

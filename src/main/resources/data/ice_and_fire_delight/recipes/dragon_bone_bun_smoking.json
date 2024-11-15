@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 70,
+  "ingredient": {
+    "item": "ice_and_fire_delight:dough_from_dragon_bones"
+  },
+  "result": "ice_and_fire_delight:dragon_bone_bun"
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "ice_and_fire_delight:block/frost_pie"
+    },
+    "blockstate=1": {
+      "model": "ice_and_fire_delight:block/frost_pie_blockstates_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "ice_and_fire_delight:block/frost_pie_blockstates_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "ice_and_fire_delight:block/frost_pie_blockstates_blockstate_2"
+    }
+  }
+}

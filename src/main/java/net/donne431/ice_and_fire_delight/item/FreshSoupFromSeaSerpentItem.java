@@ -16,7 +16,7 @@ import java.util.List;
 
 public class FreshSoupFromSeaSerpentItem extends Item {
 	public FreshSoupFromSeaSerpentItem() {
-		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(15).saturationMod(0.15f).build()));
+		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(15).saturationMod(0.45f).build()));
 	}
 
 	@Override

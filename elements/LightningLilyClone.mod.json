@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LightningLilyExtract"
+      },
+      {
+        "value": "Items.LIGHTNING_DRAGON_BLOOD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "lightning_lily_clone",
+    "namespace": "forge"
+  }
+}

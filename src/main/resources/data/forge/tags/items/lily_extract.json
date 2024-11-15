@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "ice_and_fire_delight:lightning_lily_extract",
+    "ice_and_fire_delight:fire_lily_extract",
     "ice_and_fire_delight:frost_lily_extract",
-    "ice_and_fire_delight:fire_lily_extract"
+    "ice_and_fire_delight:lightning_lily_extract"
   ]
 }

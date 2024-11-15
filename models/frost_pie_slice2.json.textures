@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "dragon_pie_side",
+        "top": "frost_pie_top",
+        "4": "forst_pie_cream",
+        "bottom": "dragon_pie_bottom",
+        "inner": "frost_pie_inner"
+      },
+      "name": "default"
+    }
+  }
+}

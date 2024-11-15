@@ -16,7 +16,7 @@ import java.util.List;
 
 public class FireSausageItem extends Item {
 	public FireSausageItem() {
-		super(new Item.Properties().stacksTo(16).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(13).saturationMod(0.16f).alwaysEat().meat().build()));
+		super(new Item.Properties().stacksTo(16).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(9).saturationMod(0.7f).alwaysEat().meat().build()));
 	}
 
 	@Override

@@ -8,13 +8,16 @@ import net.minecraftforge.registries.RegistryObject;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.DeferredRegister;
 
+import net.minecraft.world.level.block.Block;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.BlockItem;
 
 import net.donne431.ice_and_fire_delight.item.TrollMeatItem;
 import net.donne431.ice_and_fire_delight.item.TrollIntestinesItem;
 import net.donne431.ice_and_fire_delight.item.SpicyChipsFromShinyScalesItem;
 import net.donne431.ice_and_fire_delight.item.SpicesItem;
 import net.donne431.ice_and_fire_delight.item.SpicesFromWitherboneItem;
+import net.donne431.ice_and_fire_delight.item.SilverKnifeItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentSliceItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentRollItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentMeatItem;
@@ -29,26 +32,38 @@ import net.donne431.ice_and_fire_delight.item.MiniPizzaItem;
 import net.donne431.ice_and_fire_delight.item.LightningSausageItem;
 import net.donne431.ice_and_fire_delight.item.LightningMincedMeatItem;
 import net.donne431.ice_and_fire_delight.item.LightningLilyExtractItem;
+import net.donne431.ice_and_fire_delight.item.LightningDragonHotdogItem;
 import net.donne431.ice_and_fire_delight.item.IceSausageItem;
 import net.donne431.ice_and_fire_delight.item.IceMincedMeatItem;
 import net.donne431.ice_and_fire_delight.item.IceLilyExtractItem;
 import net.donne431.ice_and_fire_delight.item.HydraVenomSoupItem;
+import net.donne431.ice_and_fire_delight.item.HydraMeatItem;
+import net.donne431.ice_and_fire_delight.item.HydraFangKnifeItem;
 import net.donne431.ice_and_fire_delight.item.HoneyGlazedTrollMeatItem;
+import net.donne431.ice_and_fire_delight.item.FrostPieSliceItem;
 import net.donne431.ice_and_fire_delight.item.FriedDragonEggItem;
 import net.donne431.ice_and_fire_delight.item.FreshSoupFromSeaSerpentItem;
 import net.donne431.ice_and_fire_delight.item.FlourFromDragonBonesItem;
 import net.donne431.ice_and_fire_delight.item.FireSausageItem;
 import net.donne431.ice_and_fire_delight.item.FireMincedMeatItem;
 import net.donne431.ice_and_fire_delight.item.FireLilyExtractItem;
+import net.donne431.ice_and_fire_delight.item.FireDragonTacoItem;
+import net.donne431.ice_and_fire_delight.item.FireDragonRamenItem;
 import net.donne431.ice_and_fire_delight.item.EmptyMeasuringCylinderItem;
+import net.donne431.ice_and_fire_delight.item.ElectricPieSliceItem;
 import net.donne431.ice_and_fire_delight.item.EctoplasmJellyItem;
+import net.donne431.ice_and_fire_delight.item.DragonPieCrustItem;
+import net.donne431.ice_and_fire_delight.item.DragonBoneBunItem;
 import net.donne431.ice_and_fire_delight.item.DoughFromDragonBonesItem;
 import net.donne431.ice_and_fire_delight.item.CyclopsMeatItem;
+import net.donne431.ice_and_fire_delight.item.CoolSandwichItem;
 import net.donne431.ice_and_fire_delight.item.CookedTrollMeatItem;
 import net.donne431.ice_and_fire_delight.item.CookedSeaSerpentSliceItem;
 import net.donne431.ice_and_fire_delight.item.CookedSeaSerpentMeatItem;
+import net.donne431.ice_and_fire_delight.item.CookedHydraMeatItem;
 import net.donne431.ice_and_fire_delight.item.CookedCyclopsMeatItem;
 import net.donne431.ice_and_fire_delight.item.ChipsFromShinyScalesItem;
+import net.donne431.ice_and_fire_delight.item.BlackDragonicCaseItem;
 import net.donne431.ice_and_fire_delight.IceAndFireDelightMod;
 
 public class IceAndFireDelightModItems {
@@ -92,4 +107,23 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> SEA_SERPENT_ROLL = REGISTRY.register("sea_serpent_roll", () -> new SeaSerpentRollItem());
 	public static final RegistryObject<Item> COOKED_SEA_SERPENT_SLICE = REGISTRY.register("cooked_sea_serpent_slice", () -> new CookedSeaSerpentSliceItem());
 	public static final RegistryObject<Item> HYDRA_VENOM_SOUP = REGISTRY.register("hydra_venom_soup", () -> new HydraVenomSoupItem());
+	public static final RegistryObject<Item> BLACK_DRAGONIC_CASE = REGISTRY.register("black_dragonic_case", () -> new BlackDragonicCaseItem());
+	public static final RegistryObject<Item> SILVER_KNIFE = REGISTRY.register("silver_knife", () -> new SilverKnifeItem());
+	public static final RegistryObject<Item> FIRE_DRAGON_RAMEN = REGISTRY.register("fire_dragon_ramen", () -> new FireDragonRamenItem());
+	public static final RegistryObject<Item> FIRE_DRAGON_TACO = REGISTRY.register("fire_dragon_taco", () -> new FireDragonTacoItem());
+	public static final RegistryObject<Item> LIGHTNING_DRAGON_HOTDOG = REGISTRY.register("lightning_dragon_hotdog", () -> new LightningDragonHotdogItem());
+	public static final RegistryObject<Item> DRAGON_BONE_BUN = REGISTRY.register("dragon_bone_bun", () -> new DragonBoneBunItem());
+	public static final RegistryObject<Item> COOL_SANDWICH = REGISTRY.register("cool_sandwich", () -> new CoolSandwichItem());
+	public static final RegistryObject<Item> HYDRA_FANG_KNIFE = REGISTRY.register("hydra_fang_knife", () -> new HydraFangKnifeItem());
+	public static final RegistryObject<Item> HYDRA_MEAT = REGISTRY.register("hydra_meat", () -> new HydraMeatItem());
+	public static final RegistryObject<Item> COOKED_HYDRA_MEAT = REGISTRY.register("cooked_hydra_meat", () -> new CookedHydraMeatItem());
+	public static final RegistryObject<Item> ELECTRIC_PIE = block(IceAndFireDelightModBlocks.ELECTRIC_PIE);
+	public static final RegistryObject<Item> ELECTRIC_PIE_SLICE = REGISTRY.register("electric_pie_slice", () -> new ElectricPieSliceItem());
+	public static final RegistryObject<Item> FROST_PIE = block(IceAndFireDelightModBlocks.FROST_PIE);
+	public static final RegistryObject<Item> FROST_PIE_SLICE = REGISTRY.register("frost_pie_slice", () -> new FrostPieSliceItem());
+	public static final RegistryObject<Item> DRAGON_PIE_CRUST = REGISTRY.register("dragon_pie_crust", () -> new DragonPieCrustItem());
+
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
 }
