@@ -7,6 +7,22 @@
         "bottom": "dragon_pie_bottom"
       },
       "name": "default"
+    },
+    "special": {
+      "map": {
+        "side": "dragon_pie_side",
+        "top": "dragon_special_pie_top",
+        "bottom": "dragon_pie_bottom"
+      },
+      "name": "special"
+    },
+    "fiery_hot": {
+      "map": {
+        "side": "dragon_pie_side",
+        "top": "fiery_hot_pie_top",
+        "bottom": "dragon_pie_bottom"
+      },
+      "name": "fiery_hot"
     }
   }
 }

@@ -12,7 +12,7 @@ import java.util.List;
 
 public class RawIceSausageItem extends Item {
 	public RawIceSausageItem() {
-		super(new Item.Properties().stacksTo(16).rarity(Rarity.COMMON));
+		super(new Item.Properties().stacksTo(16).rarity(Rarity.RARE));
 	}
 
 	@Override

@@ -6,7 +6,7 @@
       "item": "minecraft:book"
     },
     {
-      "item": "ice_and_fire_delight:fresh_soup_from_sea_serpent"
+      "tag": "forge:cookbook_scales"
     }
   ],
   "result": {

@@ -41,8 +41,8 @@
       "value": "Arrow"
     },
     "isFood": true,
-    "nutritionalValue": 3,
-    "saturation": 0.3,
+    "nutritionalValue": 4,
+    "saturation": 0.9,
     "eatResultItem": {
       "value": ""
     },

@@ -13,7 +13,7 @@ import java.util.List;
 
 public class SeaSerpentSliceItem extends Item {
 	public SeaSerpentSliceItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(1).saturationMod(0.3f).meat().build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(1).saturationMod(0.4f).meat().build()));
 	}
 
 	@Override

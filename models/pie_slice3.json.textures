@@ -8,6 +8,24 @@
         "inner": "lightning_pie_inner"
       },
       "name": "default"
+    },
+    "special": {
+      "map": {
+        "side": "dragon_pie_side",
+        "top": "dragon_special_pie_top",
+        "bottom": "dragon_pie_bottom",
+        "inner": "dragon_special_pie_inner"
+      },
+      "name": "special"
+    },
+    "fiery_hot": {
+      "map": {
+        "side": "dragon_pie_side",
+        "top": "fiery_hot_pie_top",
+        "bottom": "dragon_pie_bottom",
+        "inner": "fiery_hot_pie_inner"
+      },
+      "name": "fiery_hot"
     }
   }
 }

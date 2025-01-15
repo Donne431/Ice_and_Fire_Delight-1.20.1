@@ -33,6 +33,7 @@ public class LightningLilyExtractTooltipProcedure {
 			return;
 		if (itemstack.getItem() == IceAndFireDelightModItems.LIGHTNING_LILY_EXTRACT.get()) {
 			tooltip.add(1, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.lightning_lily_extract.line1").getString())));
+			tooltip.add(2, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.lightning_lily_extract.line2").getString())));
 		}
 	}
 }

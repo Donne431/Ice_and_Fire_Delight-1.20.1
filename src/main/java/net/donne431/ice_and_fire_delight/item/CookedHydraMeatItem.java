@@ -16,7 +16,7 @@ import java.util.List;
 
 public class CookedHydraMeatItem extends Item {
 	public CookedHydraMeatItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(8).saturationMod(0.7f).meat().build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(10).saturationMod(0.9f).meat().build()));
 	}
 
 	@Override

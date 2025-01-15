@@ -1,0 +1,48 @@
+{
+  "_fv": 57,
+  "_type": "blockstates",
+  "definition": {
+    "block": "DragonSpecialPie",
+    "blockstateList": [
+      {
+        "texture": "dragon_pie_bottom",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "pie_slice1:special",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "dragon_pie_bottom",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "pie_slice2:special",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "dragon_pie_bottom",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "pie_slice3:special",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

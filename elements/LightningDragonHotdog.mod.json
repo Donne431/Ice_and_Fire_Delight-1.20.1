@@ -8,7 +8,7 @@
     "customProperties": {},
     "states": [],
     "name": "Lightning Dragon hotdog",
-    "rarity": "COMMON",
+    "rarity": "RARE",
     "creativeTab": {
       "value": "CUSTOM:IceAndFireDelightCreativeTab"
     },
@@ -35,14 +35,17 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "LightningDragonHotdogWhenEated"
+    },
     "enableRanged": false,
     "shootConstantly": false,
     "projectile": {
       "value": "Arrow"
     },
     "isFood": true,
-    "nutritionalValue": 6,
-    "saturation": 0.4,
+    "nutritionalValue": 10,
+    "saturation": 0.75,
     "eatResultItem": {
       "value": ""
     },

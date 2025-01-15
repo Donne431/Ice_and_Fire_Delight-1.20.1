@@ -12,7 +12,7 @@ import java.util.List;
 
 public class RawLightningSausageItem extends Item {
 	public RawLightningSausageItem() {
-		super(new Item.Properties().stacksTo(16).rarity(Rarity.COMMON));
+		super(new Item.Properties().stacksTo(16).rarity(Rarity.RARE));
 	}
 
 	@Override

@@ -8,7 +8,7 @@
     "customProperties": {},
     "states": [],
     "name": "Fire Dragon ramen",
-    "rarity": "COMMON",
+    "rarity": "UNCOMMON",
     "creativeTab": {
       "value": "CUSTOM:IceAndFireDelightCreativeTab"
     },
@@ -35,6 +35,9 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "FireDragonRamenWhenEated"
+    },
     "enableRanged": false,
     "shootConstantly": false,
     "projectile": {

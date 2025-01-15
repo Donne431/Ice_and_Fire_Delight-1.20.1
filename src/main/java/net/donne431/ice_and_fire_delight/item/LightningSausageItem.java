@@ -16,7 +16,7 @@ import java.util.List;
 
 public class LightningSausageItem extends Item {
 	public LightningSausageItem() {
-		super(new Item.Properties().stacksTo(16).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(9).saturationMod(0.7f).alwaysEat().meat().build()));
+		super(new Item.Properties().stacksTo(16).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(9).saturationMod(0.7f).alwaysEat().meat().build()));
 	}
 
 	@Override

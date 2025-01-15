@@ -13,7 +13,7 @@ import java.util.List;
 
 public class TrollIntestinesItem extends Item {
 	public TrollIntestinesItem() {
-		super(new Item.Properties().stacksTo(8).rarity(Rarity.COMMON));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON));
 	}
 
 	@Override

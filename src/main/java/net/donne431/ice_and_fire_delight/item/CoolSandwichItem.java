@@ -16,7 +16,7 @@ import java.util.List;
 
 public class CoolSandwichItem extends Item {
 	public CoolSandwichItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(8).saturationMod(0.4f).build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.UNCOMMON).food((new FoodProperties.Builder()).nutrition(8).saturationMod(0.4f).build()));
 	}
 
 	@Override

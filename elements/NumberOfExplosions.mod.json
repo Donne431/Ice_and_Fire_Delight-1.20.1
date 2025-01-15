@@ -1,0 +1,16 @@
+{
+  "_fv": 57,
+  "_type": "attribute",
+  "definition": {
+    "description": "Number Of Explosions",
+    "minValue": 0.0,
+    "maxValue": 9999.0,
+    "defaultValue": 0.0,
+    "isPersistent": true,
+    "entities": [
+      {
+        "value": "EntityPlayer"
+      }
+    ]
+  }
+}

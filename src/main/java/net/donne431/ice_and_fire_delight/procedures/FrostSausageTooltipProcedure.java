@@ -32,7 +32,7 @@ public class FrostSausageTooltipProcedure {
 		if (tooltip == null)
 			return;
 		if (itemstack.getItem() == IceAndFireDelightModItems.ICE_SAUSAGE.get()) {
-			tooltip.add(Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.frost_sausage.line1").getString())));
+			tooltip.add(1, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.frost_sausage.line1").getString())));
 		}
 	}
 }

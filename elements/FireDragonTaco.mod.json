@@ -8,7 +8,7 @@
     "customProperties": {},
     "states": [],
     "name": "Fire Dragon taco",
-    "rarity": "COMMON",
+    "rarity": "UNCOMMON",
     "creativeTab": {
       "value": "CUSTOM:IceAndFireDelightCreativeTab"
     },
@@ -35,13 +35,16 @@
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,
     "inventoryStackSize": 64,
+    "onFinishUsingItem": {
+      "name": "FireDragonTacoWhenEated"
+    },
     "enableRanged": false,
     "shootConstantly": false,
     "projectile": {
       "value": "Arrow"
     },
     "isFood": true,
-    "nutritionalValue": 6,
+    "nutritionalValue": 8,
     "saturation": 0.4,
     "eatResultItem": {
       "value": ""

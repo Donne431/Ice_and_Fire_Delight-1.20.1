@@ -4,12 +4,12 @@ license="Academic Free License v3.0"
 
 [[mods]]
 modId="ice_and_fire_delight"
-version="0.1.9"
+version="0.2.0"
 displayName="Ice and Fire Delight"
 updateJSONURL="https://raw.githubusercontent.com/Donne431/Ice_and_Fire_Delight-1.20.1/master/update.json"
 displayURL="https://modrinth.com/mod/ice-and-fire-delight"
 logoFile="logo.png"
-credits="Don't forget join in my discord server!"
+credits="Donne431: Main Developer, Programmer\nLittlelazy: Chinese (zn_ch) translation\nChristian Stadler: Brazilian Portuguese (pt_br) translation\nAmalgamadette: Spanish (es_ar) translation, Artist/Spriter"
 authors="Donne431"
 description="Mod adds the integration of Ice and Fire with Farmer's Delight"
 
@@ -23,12 +23,6 @@ description="Mod adds the integration of Ice and Fire with Farmer's Delight"
 
 [[dependencies.ice_and_fire_delight]]
     modId="farmersdelight"
-    mandatory=true
-    versionRange="[0,)"
-    ordering="NONE"
-    side="BOTH"
-[[dependencies.ice_and_fire_delight]]
-    modId="patchouli"
     mandatory=true
     versionRange="[0,)"
     ordering="NONE"

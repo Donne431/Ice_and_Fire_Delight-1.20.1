@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "ice_and_fire_delight:fiery_hot_pie_slice"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "item": "ice_and_fire_delight:fiery_hot_pie"
+  },
+  "show_notification": true
+}

@@ -19,7 +19,7 @@ import java.util.List;
 
 public class HydraVenomSoupItem extends Item {
 	public HydraVenomSoupItem() {
-		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(7).saturationMod(1.1f).alwaysEat().build()));
+		super(new Item.Properties().stacksTo(1).rarity(Rarity.UNCOMMON).food((new FoodProperties.Builder()).nutrition(7).saturationMod(1.1f).alwaysEat().build()));
 	}
 
 	@Override

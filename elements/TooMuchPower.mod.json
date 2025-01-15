@@ -3,9 +3,9 @@
   "_type": "achievement",
   "definition": {
     "achievementName": "Too Much Power",
-    "achievementDescription": "Eat piece of dragon special pie",
+    "achievementDescription": "Be blown up when eating dragon special pie",
     "achievementIcon": {
-      "value": "CUSTOM:RawPizzaBlank"
+      "value": "CUSTOM:DragonSpecialPieSlice"
     },
     "background": "Default",
     "disableDisplay": false,

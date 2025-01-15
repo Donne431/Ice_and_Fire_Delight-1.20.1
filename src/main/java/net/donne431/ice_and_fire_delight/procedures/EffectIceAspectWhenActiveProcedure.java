@@ -5,6 +5,8 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.eventbus.api.Event;
 import net.minecraftforge.event.entity.living.LivingAttackEvent;
 
+import com.github.alexthe666.iceandfire.item.DragonSteelOverrides;
+
 import net.donne431.ice_and_fire_delight.init.IceAndFireDelightModMobEffects;
 
 import com.github.alexthe666.iceandfire.IafConfig;
@@ -40,13 +42,12 @@ import net.minecraft.world.level.Level;
 @Mod.EventBusSubscriber
 public class EffectIceAspectWhenActiveProcedure {
 	public void hurtEnemy(LivingEntity target, LivingEntity attacker) {
-		if (target == null || attacker == null)
-			return;
 			
 		if (attacker.hasEffect(IceAndFireDelightModMobEffects.ICE_ASPECT.get())) {
 			if (!(target.hasEffect(IceAndFireDelightModMobEffects.WARMING.get()))) {
-				EntityDataProvider.getCapability((Entity)target).ifPresent(data -> data.frozenData.setFrozen(target, 300));
-            	target.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SLOWDOWN, 300, 2));
+				EntityDataProvider.getCapability(target).ifPresent(data -> data.frozenData.setFrozen(target, 300));
+            target.addEffect(new MobEffectInstance(MobEffects.MOVEMENT_SLOWDOWN, 300, 2));
+            target.knockback(1F, attacker.getX() - target.getX(), attacker.getZ() - target.getZ());
 			}
 		}
 	}
