@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_delight:dragon_special_pie"
+    }
+  ],
+  "result": [
+    {
+      "count": 4,
+      "item": "ice_and_fire_delight:dragon_special_pie_slice"
+    }
+  ],
+  "tool": {
+    "tag": "forge:tools/knives"
+  }
+}

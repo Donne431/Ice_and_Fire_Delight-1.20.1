@@ -16,7 +16,7 @@ import java.util.List;
 
 public class SpicyChipsFromShinyScalesItem extends Item {
 	public SpicyChipsFromShinyScalesItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.UNCOMMON).food((new FoodProperties.Builder()).nutrition(3).saturationMod(0.1f).build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.UNCOMMON).food((new FoodProperties.Builder()).nutrition(3).saturationMod(0.1f).alwaysEat().build()));
 	}
 
 	@Override
