@@ -35,6 +35,7 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.FRESH_SOUP_FROM_SEA_SERPENT.get());
 				tabData.accept(IceAndFireDelightModItems.HONEY_GLAZED_TROLL_MEAT.get());
 				tabData.accept(IceAndFireDelightModItems.FIRE_DRAGON_RAMEN.get());
+				tabData.accept(IceAndFireDelightModItems.EYE_CHOWDER.get());
 				tabData.accept(IceAndFireDelightModItems.HYDRA_VENOM_SOUP.get());
 				tabData.accept(IceAndFireDelightModItems.FIRE_DRAGON_TACO.get());
 				tabData.accept(IceAndFireDelightModItems.COOL_SANDWICH.get());
@@ -77,6 +78,7 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.COOKED_SEA_SERPENT_SLICE.get());
 				tabData.accept(IceAndFireDelightModItems.SILVER_KNIFE.get());
 				tabData.accept(IceAndFireDelightModItems.HYDRA_FANG_KNIFE.get());
+				tabData.accept(IceAndFireDelightModItems.SEA_SERPENT_FANG_KNIFE.get());
 			})
 
 			.build());

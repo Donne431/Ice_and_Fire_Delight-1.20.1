@@ -47,6 +47,14 @@ public class DragonSpecialPieWhenEatedProcedure {
 					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.DRAGON_FLIGHT.get(), 24000, 0));
 				if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
 					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.DRAGONS_MIGHT.get(), 18000, 0));
+				if (entity instanceof ServerPlayer _player) {
+					Advancement _adv = _player.server.getAdvancements().getAdvancement(new ResourceLocation("ice_and_fire_delight:almost_4_elements"));
+					AdvancementProgress _ap = _player.getAdvancements().getOrStartProgress(_adv);
+					if (!_ap.isDone()) {
+						for (String criteria : _ap.getRemainingCriteria())
+							_player.getAdvancements().award(_adv, criteria);
+					}
+				}
 				if (CommonConfigConfiguration.ENABLE_EXPLOSIONS_WHEN_EAT_SPECIAL_PIE.get() == true) {
 					if (Math.random() < (double) CommonConfigConfiguration.CHANCE_EXPLOSIONS_WHEN_EAT_SPECIAL_PIE.get()) {
 						if (((LivingEntity) entity).getAttribute(IceAndFireDelightModAttributes.NUMBEROFEXPLOSIONS.get()).getValue() <= (double) CommonConfigConfiguration.NUMBER_DEATH_BEFORE_EXPLOSIONS_STOP_WHEN_EATING_SPECIAL_PIE.get() - 1) {

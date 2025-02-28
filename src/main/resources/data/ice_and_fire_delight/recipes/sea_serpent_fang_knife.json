@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "iceandfire:sea_serpent_fang"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "ice_and_fire_delight:sea_serpent_fang_knife",
+    "count": 1
+  },
+  "show_notification": true
+}

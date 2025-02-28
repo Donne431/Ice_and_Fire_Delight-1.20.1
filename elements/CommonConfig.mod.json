@@ -70,9 +70,115 @@
             "logicField": 0,
             "numberField": 1.0,
             "textDefault": "",
-            "comment": "Number of deaths before explosions stop after eating pie. Default: 1; Range: [1 ~ 9999]",
+            "comment": "Number of deaths before explosions stop after eating special pie. Default: 1; Range: [1 ~ 9999]",
             "vardisplay": "number_death_before_explosions_stop_when_eating_special_pie",
             "varname": "number_death_before_explosions_stop_when_eating_special_pie",
+            "enablecomment": true
+          }
+        ]
+      },
+      {
+        "category": "Special pie slice",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Will there be an explosion when eating a special pie slice. Default: true",
+            "vardisplay": "enable_explosions_when_eat_special_pie_slice",
+            "varname": "enable_explosions_when_eat_special_pie_slice",
+            "enablecomment": true
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.2,
+            "textDefault": "",
+            "comment": "This variable is responsible for the chance of an explosion when eating a special pie slice. 0.0 - 0%, 1.0 - 100%. Default: 0.2; Range: [0.0 ~ 1.0]",
+            "vardisplay": "chance_explosions_when_eat_special_pie_slice",
+            "varname": "chance_explosions_when_eat_special_pie_slice",
+            "enablecomment": true
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "Number of deaths before explosions stop after eating special pie slice. Default: 1; Range: [1 ~ 9999]",
+            "vardisplay": "number_death_before_explosions_stop_when_eating_special_pie_slice",
+            "varname": "number_death_before_explosions_stop_when_eating_special_pie_slice",
+            "enablecomment": true
+          }
+        ]
+      },
+      {
+        "category": "Special sausage",
+        "entries": [
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 0,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.0,
+            "textDefault": "",
+            "comment": "Will there be an explosion when eating a special sausage. Default: true",
+            "vardisplay": "enable_explosions_when_eat_special_sausage",
+            "varname": "enable_explosions_when_eat_special_sausage",
+            "enablecomment": true
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 0.2,
+            "textDefault": "",
+            "comment": "This variable is responsible for the chance of an explosion when eating a special sausage. 0.0 - 0%, 1.0 - 100%. Default: 0.2; Range: [0.0 ~ 1.0]",
+            "vardisplay": "chance_explosions_when_eat_special_sausage",
+            "varname": "chance_explosions_when_eat_special_sausage",
+            "enablecomment": true
+          },
+          {
+            "item": {
+              "value": ""
+            },
+            "silkTouchMode": 1,
+            "block": {
+              "value": ""
+            },
+            "logicField": 0,
+            "numberField": 1.0,
+            "textDefault": "",
+            "comment": "Number of deaths before explosions stop after eating special sausage. Default: 1; Range: [1 ~ 9999]",
+            "vardisplay": "number_death_before_explosions_stop_when_eating_special_sausage",
+            "varname": "number_death_before_explosions_stop_when_eating_special_sausage",
             "enablecomment": true
           }
         ]

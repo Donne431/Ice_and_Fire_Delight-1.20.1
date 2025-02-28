@@ -9,7 +9,7 @@
       "item": "farmersdelight:tomato_sauce"
     },
     {
-      "item": "farmersdelight:cooked_chicken_cuts"
+      "tag": "forge:mini_pizza_ingredients"
     }
   ],
   "result": {

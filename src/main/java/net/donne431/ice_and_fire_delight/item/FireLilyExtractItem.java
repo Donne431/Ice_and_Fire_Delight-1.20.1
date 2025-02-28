@@ -28,6 +28,16 @@ public class FireLilyExtractItem extends Item {
 	}
 
 	@Override
+	public boolean hasCraftingRemainingItem() {
+		return true;
+	}
+
+	@Override
+	public ItemStack getCraftingRemainingItem(ItemStack itemstack) {
+		return new ItemStack(IceAndFireDelightModItems.EMPTY_MEASURING_CYLINDER.get());
+	}
+
+	@Override
 	public int getUseDuration(ItemStack itemstack) {
 		return 20;
 	}

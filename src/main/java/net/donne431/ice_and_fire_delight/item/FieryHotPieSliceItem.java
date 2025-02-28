@@ -11,10 +11,9 @@ import net.minecraft.network.chat.Component;
 
 import net.minecraft.world.entity.LivingEntity;
 
-import net.donne431.ice_and_fire_delight.procedures.DragonSpecialPieSliceWhenEatedProcedure;
+import net.donne431.ice_and_fire_delight.procedures.FieryHotPieSliceWhenEatedProcedure;
 
 import java.util.List;
-
 
 public class FieryHotPieSliceItem extends Item {
 	public FieryHotPieSliceItem() {
@@ -32,7 +31,7 @@ public class FieryHotPieSliceItem extends Item {
 		double x = entity.getX();
 		double y = entity.getY();
 		double z = entity.getZ();
-		DragonSpecialPieSliceWhenEatedProcedure.execute(entity);
+		FieryHotPieSliceWhenEatedProcedure.execute(entity);
 		return retval;
 	}
 }

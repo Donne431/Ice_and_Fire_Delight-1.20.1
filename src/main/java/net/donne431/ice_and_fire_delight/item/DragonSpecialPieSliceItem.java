@@ -31,7 +31,8 @@ public class DragonSpecialPieSliceItem extends Item {
 		double x = entity.getX();
 		double y = entity.getY();
 		double z = entity.getZ();
-		DragonSpecialPieSliceWhenEatedProcedure.execute(entity);
+		DragonSpecialPieSliceWhenEatedProcedure.execute(world, x, y, z, entity);
 		return retval;
 	}
 }
+

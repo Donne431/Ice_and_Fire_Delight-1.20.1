@@ -21,6 +21,7 @@ import net.donne431.ice_and_fire_delight.item.SilverKnifeItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentSliceItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentRollItem;
 import net.donne431.ice_and_fire_delight.item.SeaSerpentMeatItem;
+import net.donne431.ice_and_fire_delight.item.SeaSerpentFangKnifeItem;
 import net.donne431.ice_and_fire_delight.item.RawPizzaBlankItem;
 import net.donne431.ice_and_fire_delight.item.RawLightningSausageItem;
 import net.donne431.ice_and_fire_delight.item.RawIceSausageItem;
@@ -51,6 +52,7 @@ import net.donne431.ice_and_fire_delight.item.FireLilyExtractItem;
 import net.donne431.ice_and_fire_delight.item.FireDragonTacoItem;
 import net.donne431.ice_and_fire_delight.item.FireDragonRamenItem;
 import net.donne431.ice_and_fire_delight.item.FieryHotPieSliceItem;
+import net.donne431.ice_and_fire_delight.item.EyeChowderItem;
 import net.donne431.ice_and_fire_delight.item.EmptyMeasuringCylinderItem;
 import net.donne431.ice_and_fire_delight.item.ElectricPieSliceItem;
 import net.donne431.ice_and_fire_delight.item.EctoplasmJellyItem;
@@ -88,6 +90,7 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> FRESH_SOUP_FROM_SEA_SERPENT = REGISTRY.register("fresh_soup_from_sea_serpent", () -> new FreshSoupFromSeaSerpentItem());
 	public static final RegistryObject<Item> HONEY_GLAZED_TROLL_MEAT = REGISTRY.register("honey_glazed_troll_meat", () -> new HoneyGlazedTrollMeatItem());
 	public static final RegistryObject<Item> FIRE_DRAGON_RAMEN = REGISTRY.register("fire_dragon_ramen", () -> new FireDragonRamenItem());
+	public static final RegistryObject<Item> EYE_CHOWDER = REGISTRY.register("eye_chowder", () -> new EyeChowderItem());
 	public static final RegistryObject<Item> HYDRA_VENOM_SOUP = REGISTRY.register("hydra_venom_soup", () -> new HydraVenomSoupItem());
 	public static final RegistryObject<Item> FIRE_DRAGON_TACO = REGISTRY.register("fire_dragon_taco", () -> new FireDragonTacoItem());
 	public static final RegistryObject<Item> COOL_SANDWICH = REGISTRY.register("cool_sandwich", () -> new CoolSandwichItem());
@@ -130,6 +133,7 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> COOKED_SEA_SERPENT_SLICE = REGISTRY.register("cooked_sea_serpent_slice", () -> new CookedSeaSerpentSliceItem());
 	public static final RegistryObject<Item> SILVER_KNIFE = REGISTRY.register("silver_knife", () -> new SilverKnifeItem());
 	public static final RegistryObject<Item> HYDRA_FANG_KNIFE = REGISTRY.register("hydra_fang_knife", () -> new HydraFangKnifeItem());
+	public static final RegistryObject<Item> SEA_SERPENT_FANG_KNIFE = REGISTRY.register("sea_serpent_fang_knife", () -> new SeaSerpentFangKnifeItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

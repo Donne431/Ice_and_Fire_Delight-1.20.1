@@ -20,10 +20,7 @@
       "conditions": {
         "items": [
           {
-            "items": [
-              "ice_and_fire_delight:fire_minced_meat",
-              "ice_and_fire_delight:ice_minced_meat"
-            ],
+            "tag": "forge:dragon_minced_meat",
             "count": {
               "min": 1,
               "max": 1

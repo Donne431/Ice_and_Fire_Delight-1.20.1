@@ -1,0 +1,22 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.COOKED_BACON"
+      },
+      {
+        "value": "Items.COOKED_CHICKEN_CUTS"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "mini_pizza_ingredients",
+    "namespace": "forge"
+  }
+}
