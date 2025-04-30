@@ -22,5 +22,9 @@ public class IceAndFireDelightModJeiInformation implements IModPlugin {
 	@Override
 	public void registerRecipes(IRecipeRegistration registration) {
 		registration.addIngredientInfo(List.of(new ItemStack(IceAndFireDelightModItems.TROLL_INTESTINES.get())), VanillaTypes.ITEM_STACK, Component.translatable("jei.ice_and_fire_delight.troll_intestines_jei"));
+		registration.addIngredientInfo(
+				List.of(new ItemStack(IceAndFireDelightModItems.SILVER_KNIFE.get()), new ItemStack(IceAndFireDelightModItems.SEA_SERPENT_FANG_KNIFE.get()), new ItemStack(IceAndFireDelightModItems.DRAGONSTEEL_FIRE_KNIFE.get()),
+						new ItemStack(IceAndFireDelightModItems.DRAGONSTEEL_ICE_KNIFE.get()), new ItemStack(IceAndFireDelightModItems.DRAGONSTEEL_LIGHTNING_KNIFE.get())),
+				VanillaTypes.ITEM_STACK, Component.translatable("jei.ice_and_fire_delight.knife"));
 	}
 }

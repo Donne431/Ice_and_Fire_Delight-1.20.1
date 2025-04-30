@@ -16,7 +16,7 @@ import java.util.List;
 
 public class LightningDragonHotdogItem extends Item {
 	public LightningDragonHotdogItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(10).saturationMod(0.75f).build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(10).saturationMod(0.75f).alwaysEat().build()));
 	}
 
 	@Override

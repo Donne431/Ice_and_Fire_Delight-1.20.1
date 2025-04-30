@@ -4,7 +4,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:lightning_lily_clone"
+      "item": "iceandfire:lightning_dragon_blood"
     },
     {
       "item": "iceandfire:lightning_lily"

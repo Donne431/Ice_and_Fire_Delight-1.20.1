@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "ice_and_fire_delight:empty_glass",
+    "count": 1
+  }
+}

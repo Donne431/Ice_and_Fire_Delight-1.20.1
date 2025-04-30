@@ -1,0 +1,26 @@
+{
+  "_fv": 57,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:SilverKnife"
+      },
+      {
+        "value": "CUSTOM:SeaSerpentFangKnife"
+      },
+      {
+        "value": "CUSTOM:DragonsteelFireKnife"
+      },
+      {
+        "value": "CUSTOM:DragonsteelIceKnife"
+      },
+      {
+        "value": "CUSTOM:DragonsteelLightningKnife"
+      }
+    ],
+    "information": [
+      "A lightweight melee weapon, with fast swings and gentle damage.\\n\\nThey can harvest Straw from grasses, and guarantee secondary drops from animals."
+    ]
+  }
+}

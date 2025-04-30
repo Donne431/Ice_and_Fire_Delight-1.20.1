@@ -1,0 +1,28 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:DragonSpecialPie"
+      },
+      {
+        "value": "CUSTOM:ElectricPie"
+      },
+      {
+        "value": "CUSTOM:FrostPie"
+      },
+      {
+        "value": "CUSTOM:FieryHotPie"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "dragon_pie",
+    "namespace": "forge"
+  }
+}

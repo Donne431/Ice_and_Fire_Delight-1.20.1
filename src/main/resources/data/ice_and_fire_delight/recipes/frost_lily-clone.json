@@ -4,7 +4,7 @@
   "category": "misc",
   "ingredients": [
     {
-      "tag": "forge:frost_lily_clone"
+      "item": "iceandfire:ice_dragon_blood"
     },
     {
       "item": "iceandfire:frost_lily"

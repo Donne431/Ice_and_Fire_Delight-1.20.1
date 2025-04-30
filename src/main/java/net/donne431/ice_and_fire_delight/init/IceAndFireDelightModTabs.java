@@ -22,6 +22,8 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.FRIED_DRAGON_EGG.get());
 				tabData.accept(IceAndFireDelightModItems.MYRMEX_RESIN_COOKIE_JUNGLE.get());
 				tabData.accept(IceAndFireDelightModItems.MYRMEX_RESIN_COOKIE_DESERT.get());
+				tabData.accept(IceAndFireDelightModItems.MYRMEX_JUNGLE_RESIN_JELLY.get());
+				tabData.accept(IceAndFireDelightModItems.MYRMEX_DESERT_RESIN_JELLY.get());
 				tabData.accept(IceAndFireDelightModItems.CHIPS_FROM_SHINY_SCALES.get());
 				tabData.accept(IceAndFireDelightModItems.SPICY_CHIPS_FROM_SHINY_SCALES.get());
 				tabData.accept(IceAndFireDelightModItems.SEA_SERPENT_MEAT.get());
@@ -52,10 +54,18 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.LIGHTNING_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.RAW_DRAGON_SPECIAL_SAUSAGE.get());
 				tabData.accept(IceAndFireDelightModItems.DRAGON_SPECIAL_SAUSAGE.get());
+				tabData.accept(IceAndFireDelightModItems.FIRE_HEART_WITH_POTATOES_IN_MUSHROOM_SAUCE.get());
+				tabData.accept(IceAndFireDelightModItems.ICE_HEART_WITH_POTATOES_IN_MUSHROOM_SAUCE.get());
+				tabData.accept(IceAndFireDelightModItems.LIGHTNING_HEART_WITH_POTATOES_IN_MUSHROOM_SAUCE.get());
 				tabData.accept(IceAndFireDelightModItems.EMPTY_MEASURING_CYLINDER.get());
 				tabData.accept(IceAndFireDelightModItems.FIRE_LILY_EXTRACT.get());
 				tabData.accept(IceAndFireDelightModItems.FROST_LILY_EXTRACT.get());
 				tabData.accept(IceAndFireDelightModItems.LIGHTNING_LILY_EXTRACT.get());
+				tabData.accept(IceAndFireDelightModItems.EMPTY_GLASS.get());
+				tabData.accept(IceAndFireDelightModItems.FIERY_HOT_COCKTAIL.get());
+				tabData.accept(IceAndFireDelightModItems.FROST_COCKTAIL.get());
+				tabData.accept(IceAndFireDelightModItems.ELECTRIC_COCKTAIL.get());
+				tabData.accept(IceAndFireDelightModItems.SPECIAL_COCKTAIL.get());
 				tabData.accept(IceAndFireDelightModItems.DRAGON_PIE_CRUST.get());
 				tabData.accept(IceAndFireDelightModBlocks.FIERY_HOT_PIE.get().asItem());
 				tabData.accept(IceAndFireDelightModItems.FIERY_HOT_PIE_SLICE.get());
@@ -79,6 +89,9 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.SILVER_KNIFE.get());
 				tabData.accept(IceAndFireDelightModItems.HYDRA_FANG_KNIFE.get());
 				tabData.accept(IceAndFireDelightModItems.SEA_SERPENT_FANG_KNIFE.get());
+				tabData.accept(IceAndFireDelightModItems.DRAGONSTEEL_FIRE_KNIFE.get());
+				tabData.accept(IceAndFireDelightModItems.DRAGONSTEEL_ICE_KNIFE.get());
+				tabData.accept(IceAndFireDelightModItems.DRAGONSTEEL_LIGHTNING_KNIFE.get());
 			})
 
 			.build());

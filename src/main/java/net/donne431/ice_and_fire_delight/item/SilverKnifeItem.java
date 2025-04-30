@@ -28,7 +28,7 @@ public class SilverKnifeItem extends KnifeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 2.5f;
+				return -0.5f;
 			}
 
 			public int getLevel() {

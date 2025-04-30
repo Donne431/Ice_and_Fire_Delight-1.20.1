@@ -18,7 +18,7 @@ import java.util.List;
 
 public class FireDragonRamenItem extends Item {
 	public FireDragonRamenItem() {
-		super(new Item.Properties().stacksTo(1).rarity(Rarity.UNCOMMON).food((new FoodProperties.Builder()).nutrition(11).saturationMod(0.4f).build()));
+		super(new Item.Properties().stacksTo(1).rarity(Rarity.UNCOMMON).food((new FoodProperties.Builder()).nutrition(11).saturationMod(0.4f).alwaysEat().build()));
 	}
 
 	@Override

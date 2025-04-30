@@ -17,7 +17,7 @@ import java.util.List;
 
 public class DragonSpecialPieSliceItem extends Item {
 	public DragonSpecialPieSliceItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.EPIC).food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.4f).fast().build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.EPIC).food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.4f).alwaysEat().fast().build()));
 	}
 
 	@Override

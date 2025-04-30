@@ -16,7 +16,7 @@ import java.util.List;
 
 public class FriedDragonEggItem extends Item {
 	public FriedDragonEggItem() {
-		super(new Item.Properties().stacksTo(8).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(16).saturationMod(0.5f).build()));
+		super(new Item.Properties().stacksTo(8).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(16).saturationMod(0.5f).alwaysEat().build()));
 	}
 
 	@Override

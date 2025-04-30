@@ -1,0 +1,25 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:FireHeartWithPotatoesInCreamSauce"
+      },
+      {
+        "value": "CUSTOM:IceHeartWithPotatoesInCreamSauce"
+      },
+      {
+        "value": "CUSTOM:LightningHeartWithPotatoesInCreamSauce"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "hearts_with_potatoes_in_cream_sauce",
+    "namespace": "forge"
+  }
+}

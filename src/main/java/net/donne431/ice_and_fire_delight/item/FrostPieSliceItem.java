@@ -17,7 +17,7 @@ import java.util.List;
 
 public class FrostPieSliceItem extends Item {
 	public FrostPieSliceItem() {
-		super(new Item.Properties().stacksTo(64).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.4f).fast().build()));
+		super(new Item.Properties().stacksTo(64).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(4).saturationMod(0.4f).alwaysEat().fast().build()));
 	}
 
 	@Override

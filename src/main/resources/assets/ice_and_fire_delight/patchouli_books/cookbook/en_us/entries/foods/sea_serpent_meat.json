@@ -14,7 +14,10 @@
 			"text": "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text"
 		},
 		{
-			"type": "patchouli:text",
+			"type": "patchouli:spotlight",
+			"item": {
+				"item": "ice_and_fire_delight:fresh_soup_from_sea_serpent"
+			},
 			"text": "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.desc",
 			"title": "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.name"
 		},
@@ -24,7 +27,10 @@
 			"text": "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.text"
 		},
 		{
-			"type": "patchouli:text",
+			"type": "patchouli:spotlight",
+			"item": {
+				"item": "ice_and_fire_delight:sea_serpent_slice"
+			},
 			"text": "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc",
 			"title": "book.ice_and_fire_delight.category.foods.sea_serpent_slice.name"
 		},
@@ -35,7 +41,10 @@
 			"text": "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.text"
 		},
 		{
-			"type": "patchouli:text",
+			"type": "patchouli:spotlight",
+			"item": {
+				"item": "ice_and_fire_delight:sea_serpent_roll"
+			},
 			"text": "book.ice_and_fire_delight.category.foods.sea_serpent_roll.desc",
 			"title": "book.ice_and_fire_delight.category.foods.sea_serpent_roll.name"
 		},

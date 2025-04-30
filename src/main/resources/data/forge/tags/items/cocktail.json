@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "ice_and_fire_delight:fiery_hot_cocktail",
+    "ice_and_fire_delight:frost_cocktail",
+    "ice_and_fire_delight:special_cocktail",
+    "ice_and_fire_delight:electric_cocktail"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "ice_and_fire_delight:empty_glass"
+  },
+  "cookingtime": 100,
+  "experience": 3.0,
+  "ingredients": [
+    {
+      "item": "iceandfire:lightning_dragon_blood"
+    },
+    {
+      "item": "ice_and_fire_delight:lightning_lily_extract"
+    },
+    {
+      "item": "iceandfire:ice_dragon_blood"
+    },
+    {
+      "item": "ice_and_fire_delight:frost_lily_extract"
+    },
+    {
+      "item": "iceandfire:fire_dragon_blood"
+    },
+    {
+      "item": "ice_and_fire_delight:fire_lily_extract"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "ice_and_fire_delight:special_cocktail",
+    "count": 2
+  }
+}

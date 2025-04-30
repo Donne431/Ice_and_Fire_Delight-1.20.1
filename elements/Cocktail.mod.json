@@ -1,0 +1,28 @@
+{
+  "_fv": 57,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:FieryHotCocktail"
+      },
+      {
+        "value": "CUSTOM:FrostCocktail"
+      },
+      {
+        "value": "CUSTOM:SpecialCocktail"
+      },
+      {
+        "value": "CUSTOM:ElectricCocktail"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "damageTypes": [],
+    "name": "cocktail",
+    "namespace": "forge"
+  }
+}

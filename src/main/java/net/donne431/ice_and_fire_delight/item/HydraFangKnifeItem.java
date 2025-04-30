@@ -27,7 +27,7 @@ public class HydraFangKnifeItem extends KnifeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 4f;
+				return 1f;
 			}
 
 			public int getLevel() {

@@ -27,7 +27,7 @@ public class SeaSerpentFangKnifeItem extends KnifeItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 3f;
+				return 0f;
 			}
 
 			public int getLevel() {
