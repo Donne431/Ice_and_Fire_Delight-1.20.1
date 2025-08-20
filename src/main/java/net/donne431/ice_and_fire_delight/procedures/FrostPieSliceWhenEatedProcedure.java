@@ -11,8 +11,8 @@ public class FrostPieSliceWhenEatedProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.ICE_ASPECT.get(), 12000, 0));
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.ICE_ASPECT.get(), 4800, 0));
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.WARMING.get(), 6000, 0));
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.WARMING.get(), 2400, 0));
 	}
 }

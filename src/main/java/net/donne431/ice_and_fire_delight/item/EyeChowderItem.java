@@ -12,11 +12,13 @@ import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.network.chat.Component;
 
+import net.donne431.ice_and_fire_delight.procedures.EyeChowderWhenEatedProcedure;
+
 import java.util.List;
 
 public class EyeChowderItem extends Item {
 	public EyeChowderItem() {
-		super(new Item.Properties().stacksTo(1).rarity(Rarity.COMMON).food((new FoodProperties.Builder()).nutrition(16).saturationMod(0.5f).alwaysEat().build()));
+		super(new Item.Properties().stacksTo(1).rarity(Rarity.RARE).food((new FoodProperties.Builder()).nutrition(16).saturationMod(0.5f).alwaysEat().build()));
 	}
 
 	@Override
@@ -28,6 +30,10 @@ public class EyeChowderItem extends Item {
 	public ItemStack finishUsingItem(ItemStack itemstack, Level world, LivingEntity entity) {
 		ItemStack retval = new ItemStack(Items.BOWL);
 		super.finishUsingItem(itemstack, world, entity);
+		double x = entity.getX();
+		double y = entity.getY();
+		double z = entity.getZ();
+		EyeChowderWhenEatedProcedure.execute(entity);
 		if (itemstack.isEmpty()) {
 			return retval;
 		} else {

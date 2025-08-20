@@ -29,6 +29,7 @@ import net.donne431.ice_and_fire_delight.item.RawIceSausageItem;
 import net.donne431.ice_and_fire_delight.item.RawFireSausageItem;
 import net.donne431.ice_and_fire_delight.item.RawDragonSpecialSausageItem;
 import net.donne431.ice_and_fire_delight.item.PizzaBlankItem;
+import net.donne431.ice_and_fire_delight.item.PhantomKnifeItem;
 import net.donne431.ice_and_fire_delight.item.MyrmexResinCookieJungleItem;
 import net.donne431.ice_and_fire_delight.item.MyrmexResinCookieDesertItem;
 import net.donne431.ice_and_fire_delight.item.MyrmexJungleResinJellyItem;
@@ -47,6 +48,7 @@ import net.donne431.ice_and_fire_delight.item.HydraVenomSoupItem;
 import net.donne431.ice_and_fire_delight.item.HydraMeatItem;
 import net.donne431.ice_and_fire_delight.item.HydraFangKnifeItem;
 import net.donne431.ice_and_fire_delight.item.HoneyGlazedTrollMeatItem;
+import net.donne431.ice_and_fire_delight.item.HoneyGlazedCyclopsEyeItem;
 import net.donne431.ice_and_fire_delight.item.FrostPieSliceItem;
 import net.donne431.ice_and_fire_delight.item.FrostCocktailItem;
 import net.donne431.ice_and_fire_delight.item.FriedDragonEggItem;
@@ -69,6 +71,7 @@ import net.donne431.ice_and_fire_delight.item.EctoplasmJellyItem;
 import net.donne431.ice_and_fire_delight.item.DragonsteelLightningKnifeItem;
 import net.donne431.ice_and_fire_delight.item.DragonsteelIceKnifeItem;
 import net.donne431.ice_and_fire_delight.item.DragonsteelFireKnifeItem;
+import net.donne431.ice_and_fire_delight.item.DragonboneKnifeItem;
 import net.donne431.ice_and_fire_delight.item.DragonSpecialSausageItem;
 import net.donne431.ice_and_fire_delight.item.DragonSpecialPieSliceItem;
 import net.donne431.ice_and_fire_delight.item.DragonPieCrustItem;
@@ -107,6 +110,7 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> FIRE_DRAGON_RAMEN = REGISTRY.register("fire_dragon_ramen", () -> new FireDragonRamenItem());
 	public static final RegistryObject<Item> EYE_CHOWDER = REGISTRY.register("eye_chowder", () -> new EyeChowderItem());
 	public static final RegistryObject<Item> HYDRA_VENOM_SOUP = REGISTRY.register("hydra_venom_soup", () -> new HydraVenomSoupItem());
+	public static final RegistryObject<Item> HONEY_GLAZED_CYCLOPS_EYE = REGISTRY.register("honey_glazed_cyclops_eye", () -> new HoneyGlazedCyclopsEyeItem());
 	public static final RegistryObject<Item> FIRE_DRAGON_TACO = REGISTRY.register("fire_dragon_taco", () -> new FireDragonTacoItem());
 	public static final RegistryObject<Item> COOL_SANDWICH = REGISTRY.register("cool_sandwich", () -> new CoolSandwichItem());
 	public static final RegistryObject<Item> LIGHTNING_DRAGON_HOTDOG = REGISTRY.register("lightning_dragon_hotdog", () -> new LightningDragonHotdogItem());
@@ -160,6 +164,9 @@ public class IceAndFireDelightModItems {
 	public static final RegistryObject<Item> DRAGONSTEEL_FIRE_KNIFE = REGISTRY.register("dragonsteel_fire_knife", () -> new DragonsteelFireKnifeItem());
 	public static final RegistryObject<Item> DRAGONSTEEL_ICE_KNIFE = REGISTRY.register("dragonsteel_ice_knife", () -> new DragonsteelIceKnifeItem());
 	public static final RegistryObject<Item> DRAGONSTEEL_LIGHTNING_KNIFE = REGISTRY.register("dragonsteel_lightning_knife", () -> new DragonsteelLightningKnifeItem());
+	public static final RegistryObject<Item> DRAGONBONE_KNIFE = REGISTRY.register("dragonbone_knife", () -> new DragonboneKnifeItem());
+	public static final RegistryObject<Item> PHANTOM_KNIFE = REGISTRY.register("phantom_knife", () -> new PhantomKnifeItem());
+	public static final RegistryObject<Item> BLACK_DRAGON_CUTTING_BOARD = block(IceAndFireDelightModBlocks.BLACK_DRAGON_CUTTING_BOARD);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));

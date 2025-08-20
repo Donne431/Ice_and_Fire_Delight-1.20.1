@@ -11,12 +11,6 @@ import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.AABB;
 import org.jetbrains.annotations.NotNull;
 
-import net.minecraft.world.entity.ai.attributes.AttributeMap;
-import net.minecraft.world.entity.player.Player;
-import net.minecraft.nbt.CompoundTag;
-
-import net.donne431.ice_and_fire_delight.procedures.GetCenterOfWeaknessAdvProcedure;
-
 public class CenterOfWeaknessMobEffect extends MobEffect {
     public CenterOfWeaknessMobEffect() {
         super(MobEffectCategory.BENEFICIAL, -3355444); // Полезный эффект, цвет тёмно-серый
@@ -26,22 +20,18 @@ public class CenterOfWeaknessMobEffect extends MobEffect {
     public String getDescriptionId() {
         return "effect.ice_and_fire_delight.center_of_weakness"; // ID описания для локализации
     }
-    
-    @Override
-	public void addAttributeModifiers(LivingEntity entity, AttributeMap attributeMap, int amplifier) {
-		GetCenterOfWeaknessAdvProcedure.execute(entity);
-	}
 
     // Вызывается каждый тик, пока эффект активен на сущности
     @Override
     public void applyEffectTick(@NotNull LivingEntity entity, int amplifier) {
         Level world = entity.level(); // Получаем мир, в котором находится сущность
-        double range = 10.0D; // Радиус действия — 10 блоков
+        double maxRange = 10.0D; // Максимальный радиус действия — 10 блоков
+        double innerRange = 4.0D; // Внутренний радиус для слабости 2 уровня — 4 блока
 
-        // Создаём область поиска (AABB) вокруг сущности
+        // Создаём область поиска (AABB) для максимального радиуса
         AABB aabb = new AABB(
-            entity.getX() - range, entity.getY() - range, entity.getZ() - range,
-            entity.getX() + range, entity.getY() + range, entity.getZ() + range
+            entity.getX() - maxRange, entity.getY() - maxRange, entity.getZ() - maxRange,
+            entity.getX() + maxRange, entity.getY() + maxRange, entity.getZ() + maxRange
         );
 
         // Перебираем всех мобов в радиусе 10 блоков
@@ -49,8 +39,17 @@ public class CenterOfWeaknessMobEffect extends MobEffect {
             // Проверяем, является ли моб врагом
             if (!mob.is(entity) && !mob.isAlliedTo(entity) &&
                 (mob.getTarget() == entity || mob.getLastHurtByMob() == entity || mob instanceof Enemy)) {
-                // Накладываем слабость 2 уровня на 10 тиков
-                mob.addEffect(new MobEffectInstance(MobEffects.WEAKNESS, 10, 1, false, false));
+                // Вычисляем расстояние до моба
+                double distance = entity.distanceTo(mob);
+                
+                // Накладываем эффект в зависимости от расстояния
+                if (distance <= innerRange) {
+                    // В радиусе 4 блоков — слабость 2 уровня
+                    mob.addEffect(new MobEffectInstance(MobEffects.WEAKNESS, 10, 1, false, false));
+                } else if (distance <= maxRange) {
+                    // В радиусе от 4 до 10 блоков — слабость 1 уровня
+                    mob.addEffect(new MobEffectInstance(MobEffects.WEAKNESS, 10, 0, false, false));
+                }
             }
         }
     }

@@ -39,6 +39,7 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.FIRE_DRAGON_RAMEN.get());
 				tabData.accept(IceAndFireDelightModItems.EYE_CHOWDER.get());
 				tabData.accept(IceAndFireDelightModItems.HYDRA_VENOM_SOUP.get());
+				tabData.accept(IceAndFireDelightModItems.HONEY_GLAZED_CYCLOPS_EYE.get());
 				tabData.accept(IceAndFireDelightModItems.FIRE_DRAGON_TACO.get());
 				tabData.accept(IceAndFireDelightModItems.COOL_SANDWICH.get());
 				tabData.accept(IceAndFireDelightModItems.LIGHTNING_DRAGON_HOTDOG.get());
@@ -92,6 +93,9 @@ public class IceAndFireDelightModTabs {
 				tabData.accept(IceAndFireDelightModItems.DRAGONSTEEL_FIRE_KNIFE.get());
 				tabData.accept(IceAndFireDelightModItems.DRAGONSTEEL_ICE_KNIFE.get());
 				tabData.accept(IceAndFireDelightModItems.DRAGONSTEEL_LIGHTNING_KNIFE.get());
+				tabData.accept(IceAndFireDelightModItems.DRAGONBONE_KNIFE.get());
+				tabData.accept(IceAndFireDelightModItems.PHANTOM_KNIFE.get());
+				tabData.accept(IceAndFireDelightModBlocks.BLACK_DRAGON_CUTTING_BOARD.get().asItem());
 			})
 
 			.build());

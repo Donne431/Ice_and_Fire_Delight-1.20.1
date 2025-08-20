@@ -39,9 +39,9 @@ public class ElectricPieWhenEatedProcedure {
 		if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == IceAndFireDelightModBlocks.ELECTRIC_PIE.get()) {
 			if (!(entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).is(ItemTags.create(new ResourceLocation("farmersdelight:tools/knives")))) {
 				if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.LIGHTNING_STRIKE.get(), 12000, 0));
+					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.LIGHTNING_STRIKE.get(), 4800, 0));
 				if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-					_entity.addEffect(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 6000, 0));
+					_entity.addEffect(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 2400, 0));
 			}
 		}
 	}

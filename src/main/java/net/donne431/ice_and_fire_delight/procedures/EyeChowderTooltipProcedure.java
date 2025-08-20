@@ -32,7 +32,7 @@ public class EyeChowderTooltipProcedure {
 		if (tooltip == null)
 			return;
 		if (itemstack.getItem() == IceAndFireDelightModItems.EYE_CHOWDER.get()) {
-			tooltip.add(Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.warning").getString())));
+			tooltip.add(1, Component.literal((Component.translatable("item.ice_and_fire_delight.tooltip.eye_chowder.line1").getString())));
 		}
 	}
 }

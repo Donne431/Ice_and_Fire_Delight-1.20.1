@@ -19,9 +19,9 @@ public class DragonSpecialPieSliceWhenEatedProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.DRAGON_FLIGHT.get(), 24000, 0));
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.DRAGON_FLIGHT.get(), 9600, 0));
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.DRAGONS_MIGHT.get(), 18000, 0));
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.DRAGONS_MIGHT.get(), 7200, 0));
 		if (entity instanceof ServerPlayer _player) {
 			Advancement _adv = _player.server.getAdvancements().getAdvancement(new ResourceLocation("ice_and_fire_delight:almost_4_elements"));
 			AdvancementProgress _ap = _player.getAdvancements().getOrStartProgress(_adv);

@@ -34,7 +34,7 @@ public class DragonsteelFireKnifeItem extends KnifeItem {
 			}
 
 			public int getLevel() {
-				return 1;
+				return 4;
 			}
 
 			public int getEnchantmentValue() {

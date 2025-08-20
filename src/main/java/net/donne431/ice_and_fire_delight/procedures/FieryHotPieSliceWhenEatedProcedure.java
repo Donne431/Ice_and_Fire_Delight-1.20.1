@@ -12,8 +12,8 @@ public class FieryHotPieSliceWhenEatedProcedure {
 		if (entity == null)
 			return;
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.FIRE_ASPECT.get(), 12000, 0));
+			_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.FIRE_ASPECT.get(), 4800, 0));
 		if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-			_entity.addEffect(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 6000, 0));
+			_entity.addEffect(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 2400, 0));
 	}
 }

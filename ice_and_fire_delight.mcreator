@@ -17,7 +17,7 @@
     {
       "name": "IceAndFireDelightCreativeTab",
       "type": "tab",
-      "sortid": 75,
+      "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_and_fire_delight_creative_tab",
@@ -84,7 +84,7 @@
     {
       "name": "SeaSerpentLootTable",
       "type": "loottable",
-      "sortid": 76,
+      "sortid": 80,
       "compiles": true,
       "locked_code": true,
       "registry_name": "sea_serpent_loot_table",
@@ -97,7 +97,7 @@
     {
       "name": "SeaSerpent",
       "type": "lootmodifier",
-      "sortid": 77,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sea_serpent_loot_modifier",
@@ -138,7 +138,7 @@
     {
       "name": "Villagerstrades",
       "type": "villagertrade",
-      "sortid": 78,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "registry_name": "villagerstrades",
@@ -163,7 +163,7 @@
     {
       "name": "TrollForestLootTable",
       "type": "loottable",
-      "sortid": 79,
+      "sortid": 83,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_forest_loot_table",
@@ -176,7 +176,7 @@
     {
       "name": "TrollFrostLootTable",
       "type": "loottable",
-      "sortid": 80,
+      "sortid": 84,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_frost_loot_table",
@@ -189,7 +189,7 @@
     {
       "name": "TrollMountainLootTable",
       "type": "loottable",
-      "sortid": 81,
+      "sortid": 85,
       "compiles": true,
       "locked_code": true,
       "registry_name": "troll_mountain_loot_table",
@@ -202,7 +202,7 @@
     {
       "name": "TrollMountainLootModifier",
       "type": "lootmodifier",
-      "sortid": 82,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_mountain_loot_modifier",
@@ -215,7 +215,7 @@
     {
       "name": "TrollFrostLootModifier",
       "type": "lootmodifier",
-      "sortid": 83,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_frost_loot_modifier",
@@ -228,7 +228,7 @@
     {
       "name": "TrollForestLootModifier",
       "type": "lootmodifier",
-      "sortid": 84,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_forest_loot_modifier",
@@ -283,7 +283,7 @@
     {
       "name": "CookedSeaSerpentMeatSmoking",
       "type": "recipe",
-      "sortid": 85,
+      "sortid": 89,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cooked_sea_serpent_meat_smoking",
@@ -296,7 +296,7 @@
     {
       "name": "CookedSeaSerpentMeatCampfireCooking",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_meat_campfire_cooking",
@@ -309,7 +309,7 @@
     {
       "name": "CookedTrollMeatSmoking",
       "type": "recipe",
-      "sortid": 87,
+      "sortid": 91,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cooked_troll_meat_smoking",
@@ -322,7 +322,7 @@
     {
       "name": "CookedTrollMeatCampfireCooking",
       "type": "recipe",
-      "sortid": 88,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_troll_meat_campfire_cooking",
@@ -335,7 +335,7 @@
     {
       "name": "FireDragonFemaleLootTable",
       "type": "loottable",
-      "sortid": 89,
+      "sortid": 93,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_dragon_female_loot_table",
@@ -348,7 +348,7 @@
     {
       "name": "FireDragonMaleLootTable",
       "type": "loottable",
-      "sortid": 90,
+      "sortid": 94,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_dragon_male_loot_table",
@@ -361,7 +361,7 @@
     {
       "name": "TrollIntestines",
       "type": "item",
-      "sortid": 25,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_intestines",
@@ -375,7 +375,7 @@
     {
       "name": "FireMincedMeat",
       "type": "item",
-      "sortid": 26,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_minced_meat",
@@ -389,7 +389,7 @@
     {
       "name": "RawFireSausage",
       "type": "item",
-      "sortid": 27,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_fire_sausage",
@@ -403,7 +403,7 @@
     {
       "name": "RawFireSausageRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 95,
       "compiles": true,
       "locked_code": true,
       "registry_name": "raw_fire_sausage_recipe",
@@ -416,7 +416,7 @@
     {
       "name": "FireAspect",
       "type": "potioneffect",
-      "sortid": 92,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_aspect",
@@ -429,7 +429,7 @@
     {
       "name": "Effect_Fire_Aspect_When_Active",
       "type": "procedure",
-      "sortid": 93,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_fire_aspect_when_active",
@@ -452,7 +452,7 @@
     {
       "name": "FireSausage",
       "type": "item",
-      "sortid": 28,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage",
@@ -466,7 +466,7 @@
     {
       "name": "FireSausageWhenEated",
       "type": "procedure",
-      "sortid": 94,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_when_eated",
@@ -485,7 +485,7 @@
     {
       "name": "IceAspect",
       "type": "potioneffect",
-      "sortid": 95,
+      "sortid": 99,
       "compiles": true,
       "locked_code": true,
       "registry_name": "ice_aspect",
@@ -498,7 +498,7 @@
     {
       "name": "LightningStrike",
       "type": "potioneffect",
-      "sortid": 96,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_strike",
@@ -511,7 +511,7 @@
     {
       "name": "EffectLightningStrikeWhenActive",
       "type": "procedure",
-      "sortid": 97,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_lightning_strike_when_active",
@@ -550,7 +550,7 @@
     {
       "name": "FireSausageCampfireCooking",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_campfire_cooking",
@@ -563,7 +563,7 @@
     {
       "name": "FireSausageSmoking",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_smoking",
@@ -576,7 +576,7 @@
     {
       "name": "IceMincedMeat",
       "type": "item",
-      "sortid": 29,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_minced_meat",
@@ -590,7 +590,7 @@
     {
       "name": "RawIceSausage",
       "type": "item",
-      "sortid": 30,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_ice_sausage",
@@ -604,7 +604,7 @@
     {
       "name": "IceSausageWhenEated",
       "type": "procedure",
-      "sortid": 100,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_sausage_when_eated",
@@ -623,7 +623,7 @@
     {
       "name": "IceSausage",
       "type": "item",
-      "sortid": 31,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_sausage",
@@ -637,7 +637,7 @@
     {
       "name": "DragonSausage",
       "type": "tag",
-      "sortid": 101,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_sausage",
@@ -650,7 +650,7 @@
     {
       "name": "RawDragonSausage",
       "type": "tag",
-      "sortid": 102,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_dragon_sausage",
@@ -663,7 +663,7 @@
     {
       "name": "DragonMincedMeat",
       "type": "tag",
-      "sortid": 103,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_minced_meat",
@@ -676,7 +676,7 @@
     {
       "name": "Root",
       "type": "achievement",
-      "sortid": 104,
+      "sortid": 108,
       "compiles": true,
       "locked_code": true,
       "registry_name": "root",
@@ -689,7 +689,7 @@
     {
       "name": "DragonMincedMeatAdv",
       "type": "achievement",
-      "sortid": 105,
+      "sortid": 109,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragon_minced_meat_adv",
@@ -702,7 +702,7 @@
     {
       "name": "PoisonResistance",
       "type": "potioneffect",
-      "sortid": 106,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "registry_name": "poison_resistance",
@@ -715,7 +715,7 @@
     {
       "name": "EffectPoisonResistanceWhenActive",
       "type": "procedure",
-      "sortid": 107,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_poison_resistance_when_active",
@@ -734,7 +734,7 @@
     {
       "name": "Warming",
       "type": "potioneffect",
-      "sortid": 108,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warming",
@@ -747,7 +747,7 @@
     {
       "name": "TrollIntestinesJei",
       "type": "jeiinformation",
-      "sortid": 109,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "registry_name": "troll_intestines_jei",
@@ -758,7 +758,7 @@
     {
       "name": "SpicesFromWitherbone",
       "type": "item",
-      "sortid": 58,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spices_from_witherbone",
@@ -786,7 +786,7 @@
     {
       "name": "SpicyChipsFromShinyScalesRecipe",
       "type": "recipe",
-      "sortid": 110,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales_recipe",
@@ -799,7 +799,7 @@
     {
       "name": "SpicyChipsFromShinyScalesWhenEated",
       "type": "procedure",
-      "sortid": 111,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales_when_eated",
@@ -818,7 +818,7 @@
     {
       "name": "CyclopsLootTable",
       "type": "loottable",
-      "sortid": 112,
+      "sortid": 116,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cyclops_loot_table",
@@ -831,7 +831,7 @@
     {
       "name": "CyclopsLootModifier",
       "type": "lootmodifier",
-      "sortid": 113,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyclops_loot_modifier",
@@ -872,7 +872,7 @@
     {
       "name": "FeelSpicy",
       "type": "achievement",
-      "sortid": 114,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "registry_name": "feel_spicy",
@@ -885,7 +885,7 @@
     {
       "name": "KillPixie",
       "type": "achievement",
-      "sortid": 115,
+      "sortid": 119,
       "compiles": true,
       "locked_code": true,
       "registry_name": "kill_pixie",
@@ -898,7 +898,7 @@
     {
       "name": "Spices",
       "type": "item",
-      "sortid": 59,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spices",
@@ -912,7 +912,7 @@
     {
       "name": "CookedSeaSerpentMeatFurnace",
       "type": "recipe",
-      "sortid": 116,
+      "sortid": 120,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_meat_furnace",
@@ -925,7 +925,7 @@
     {
       "name": "CookedTrollMeatFurnace",
       "type": "recipe",
-      "sortid": 117,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_troll_meat_furnace",
@@ -938,7 +938,7 @@
     {
       "name": "CyclopsSteakSmelting",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cyclops_steak_smelting",
@@ -951,7 +951,7 @@
     {
       "name": "FlourFromDragonBones",
       "type": "item",
-      "sortid": 60,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "registry_name": "flour_from_dragon_bones",
@@ -965,7 +965,7 @@
     {
       "name": "DoughFromDragonBones",
       "type": "item",
-      "sortid": 61,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dough_from_dragon_bones",
@@ -979,7 +979,7 @@
     {
       "name": "EmptyMeasuringCylinder",
       "type": "item",
-      "sortid": 40,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "empty_measuring_cylinder",
@@ -993,7 +993,7 @@
     {
       "name": "FireLilyExtractWhenDrinked",
       "type": "procedure",
-      "sortid": 119,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_lily_extract_when_drinked",
@@ -1012,7 +1012,7 @@
     {
       "name": "FireLilyExtract",
       "type": "item",
-      "sortid": 41,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_lily_extract",
@@ -1026,7 +1026,7 @@
     {
       "name": "IceLilyExtract",
       "type": "item",
-      "sortid": 42,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_lily_extract",
@@ -1040,7 +1040,7 @@
     {
       "name": "IceLilyExtractWhenDrinked",
       "type": "procedure",
-      "sortid": 120,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_lily_extract_when_drinked",
@@ -1059,7 +1059,7 @@
     {
       "name": "LightningLilyExtract",
       "type": "item",
-      "sortid": 43,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_lily_extract",
@@ -1073,7 +1073,7 @@
     {
       "name": "LightningLilyExtractWhenDrinked",
       "type": "procedure",
-      "sortid": 121,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_lily_extract_when_drinked",
@@ -1092,7 +1092,7 @@
     {
       "name": "Emptymeasuringcylinderrecipe",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "registry_name": "emptymeasuringcylinderrecipe",
@@ -1105,7 +1105,7 @@
     {
       "name": "GrantBookOnFirstJoin",
       "type": "function",
-      "sortid": 123,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grant_book_on_first_join",
@@ -1118,7 +1118,7 @@
     {
       "name": "CookbookRecipe",
       "type": "recipe",
-      "sortid": 124,
+      "sortid": 128,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cookbook_recipe",
@@ -1131,7 +1131,7 @@
     {
       "name": "LilyExtract",
       "type": "tag",
-      "sortid": 125,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lily_extract",
@@ -1144,7 +1144,7 @@
     {
       "name": "LightningSausageWhenEated",
       "type": "procedure",
-      "sortid": 126,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_sausage_when_eated",
@@ -1163,7 +1163,7 @@
     {
       "name": "LightningSausage",
       "type": "item",
-      "sortid": 34,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_sausage",
@@ -1177,7 +1177,7 @@
     {
       "name": "RawLightningSausage",
       "type": "item",
-      "sortid": 33,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_lightning_sausage",
@@ -1191,7 +1191,7 @@
     {
       "name": "LightningMincedMeat",
       "type": "item",
-      "sortid": 32,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_minced_meat",
@@ -1205,7 +1205,7 @@
     {
       "name": "MiniPizza",
       "type": "item",
-      "sortid": 63,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mini_pizza",
@@ -1219,7 +1219,7 @@
     {
       "name": "PizzaBlank",
       "type": "item",
-      "sortid": 64,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "registry_name": "mini_pizza_blank",
@@ -1233,7 +1233,7 @@
     {
       "name": "RawPizzaBlank",
       "type": "item",
-      "sortid": 65,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_mini_pizza_blank",
@@ -1247,7 +1247,7 @@
     {
       "name": "PizzaBlankSmelting",
       "type": "recipe",
-      "sortid": 127,
+      "sortid": 131,
       "compiles": true,
       "locked_code": true,
       "registry_name": "pizza_blank_smelting",
@@ -1260,7 +1260,7 @@
     {
       "name": "PizzaBlankSmoking",
       "type": "recipe",
-      "sortid": 128,
+      "sortid": 132,
       "compiles": true,
       "locked_code": true,
       "registry_name": "pizza_blank_smoking",
@@ -1273,7 +1273,7 @@
     {
       "name": "MiniPizzaRecipe",
       "type": "recipe",
-      "sortid": 129,
+      "sortid": 133,
       "compiles": true,
       "locked_code": true,
       "registry_name": "mini_pizza_recipe",
@@ -1286,7 +1286,7 @@
     {
       "name": "RawMiniPizzaBlankRecipe",
       "type": "recipe",
-      "sortid": 130,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_mini_pizza_blank_recipe",
@@ -1299,7 +1299,7 @@
     {
       "name": "SeaSerpentSlice",
       "type": "item",
-      "sortid": 66,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sea_serpent_slice",
@@ -1313,7 +1313,7 @@
     {
       "name": "SeaSerpentRoll",
       "type": "item",
-      "sortid": 67,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "registry_name": "sea_serpent_roll",
@@ -1327,7 +1327,7 @@
     {
       "name": "CookedSeaSerpentSlice",
       "type": "item",
-      "sortid": 68,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_sea_serpent_slice",
@@ -1341,7 +1341,7 @@
     {
       "name": "HydraVenomSoupWhenDrinked",
       "type": "procedure",
-      "sortid": 131,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hydra_venom_soup_when_drinked",
@@ -1374,7 +1374,7 @@
     {
       "name": "GrantBookOnFirstJoinConfig",
       "type": "procedure",
-      "sortid": 132,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grant_book_on_first_join_config",
@@ -1393,7 +1393,7 @@
     {
       "name": "GrantBookOnFirstJoinAdv",
       "type": "achievement",
-      "sortid": 133,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "registry_name": "grant_book_on_first_join_adv",
@@ -1406,7 +1406,7 @@
     {
       "name": "DragonFlight",
       "type": "potioneffect",
-      "sortid": 134,
+      "sortid": 138,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragon_flight",
@@ -1419,7 +1419,7 @@
     {
       "name": "HydraVenomSoupTooltip",
       "type": "procedure",
-      "sortid": 135,
+      "sortid": 139,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hydra_venom_soup_tooltip",
@@ -1442,7 +1442,7 @@
     {
       "name": "FireSausageTooltip",
       "type": "procedure",
-      "sortid": 136,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_sausage_tooltip",
@@ -1465,7 +1465,7 @@
     {
       "name": "FrostSausageTooltip",
       "type": "procedure",
-      "sortid": 137,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_sausage_tooltip",
@@ -1488,7 +1488,7 @@
     {
       "name": "LightningSausageTooltip",
       "type": "procedure",
-      "sortid": 138,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_sausage_tooltip",
@@ -1511,7 +1511,7 @@
     {
       "name": "SpicyChipsFromShinyScalesTooltip",
       "type": "procedure",
-      "sortid": 139,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spicy_chips_from_shiny_scales_tooltip",
@@ -1534,7 +1534,7 @@
     {
       "name": "LightningLilyExtractTooltip",
       "type": "procedure",
-      "sortid": 140,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_lily_extract_tooltip",
@@ -1557,7 +1557,7 @@
     {
       "name": "FrostLilyExtractTooltip",
       "type": "procedure",
-      "sortid": 141,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_lily_extract_tooltip",
@@ -1580,7 +1580,7 @@
     {
       "name": "FireLilyExtractTooltip",
       "type": "procedure",
-      "sortid": 142,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_lily_extract_tooltip",
@@ -1603,7 +1603,7 @@
     {
       "name": "SilverKnifeWhenAttack",
       "type": "procedure",
-      "sortid": 143,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "registry_name": "silver_knife_when_attack",
@@ -1630,7 +1630,7 @@
     {
       "name": "SilverKnifeTooltip",
       "type": "procedure",
-      "sortid": 144,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "registry_name": "silver_knife_tooltip",
@@ -1653,7 +1653,7 @@
     {
       "name": "SilverKnifeRecipe",
       "type": "recipe",
-      "sortid": 145,
+      "sortid": 149,
       "compiles": true,
       "locked_code": true,
       "registry_name": "silver_knife_recipe",
@@ -1666,7 +1666,7 @@
     {
       "name": "FireLilyRecipe",
       "type": "recipe",
-      "sortid": 146,
+      "sortid": 150,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_lily_recipe",
@@ -1679,7 +1679,7 @@
     {
       "name": "FrostLilyRecipe",
       "type": "recipe",
-      "sortid": 147,
+      "sortid": 151,
       "compiles": true,
       "locked_code": true,
       "registry_name": "frost_lily_recipe",
@@ -1692,7 +1692,7 @@
     {
       "name": "LightningLilyRecipe",
       "type": "recipe",
-      "sortid": 148,
+      "sortid": 152,
       "compiles": true,
       "locked_code": true,
       "registry_name": "lightning_lily_recipe",
@@ -1705,7 +1705,7 @@
     {
       "name": "TooMuchPower",
       "type": "achievement",
-      "sortid": 149,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "registry_name": "too_much_power",
@@ -1718,7 +1718,7 @@
     {
       "name": "FireLilyClone",
       "type": "tag",
-      "sortid": 150,
+      "sortid": 154,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fire_lily_clone",
@@ -1731,7 +1731,7 @@
     {
       "name": "FrostLilyClone",
       "type": "tag",
-      "sortid": 151,
+      "sortid": 155,
       "compiles": true,
       "locked_code": true,
       "registry_name": "frost_lily_clone",
@@ -1744,7 +1744,7 @@
     {
       "name": "LightningLilyClone",
       "type": "tag",
-      "sortid": 152,
+      "sortid": 156,
       "compiles": true,
       "locked_code": true,
       "registry_name": "lightning_lily_clone",
@@ -1757,7 +1757,7 @@
     {
       "name": "SilverKnife",
       "type": "tool",
-      "sortid": 69,
+      "sortid": 70,
       "compiles": true,
       "locked_code": true,
       "registry_name": "silver_knife",
@@ -1785,7 +1785,7 @@
     {
       "name": "FireDragonTaco",
       "type": "item",
-      "sortid": 22,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_dragon_taco",
@@ -1799,7 +1799,7 @@
     {
       "name": "LightningDragonHotdog",
       "type": "item",
-      "sortid": 24,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_dragon_hotdog",
@@ -1813,7 +1813,7 @@
     {
       "name": "DragonBoneBun",
       "type": "item",
-      "sortid": 62,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_bone_bun",
@@ -1827,7 +1827,7 @@
     {
       "name": "DragonBoneBunSmelting",
       "type": "recipe",
-      "sortid": 153,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_bone_bun_smelting",
@@ -1840,7 +1840,7 @@
     {
       "name": "DragonBoneBunSmoking",
       "type": "recipe",
-      "sortid": 154,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_bone_bun_smoking",
@@ -1853,7 +1853,7 @@
     {
       "name": "CoolSandwich",
       "type": "item",
-      "sortid": 23,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cool_sandwich",
@@ -1867,7 +1867,7 @@
     {
       "name": "HydraFangKnife",
       "type": "tool",
-      "sortid": 70,
+      "sortid": 71,
       "compiles": true,
       "locked_code": true,
       "registry_name": "hydra_fang_knife",
@@ -1881,7 +1881,7 @@
     {
       "name": "HydraFangKnifeWhenAttack",
       "type": "procedure",
-      "sortid": 155,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hydra_fang_knife_when_attack",
@@ -1904,7 +1904,7 @@
     {
       "name": "HydraFangKnifeTooltip",
       "type": "procedure",
-      "sortid": 156,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hydra_fang_knife_tooltip",
@@ -1927,7 +1927,7 @@
     {
       "name": "HydraLootTable",
       "type": "loottable",
-      "sortid": 157,
+      "sortid": 161,
       "compiles": true,
       "locked_code": true,
       "registry_name": "hydra_loot_table",
@@ -1968,7 +1968,7 @@
     {
       "name": "HydraLootModifier",
       "type": "lootmodifier",
-      "sortid": 158,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hydra_loot_modifier",
@@ -1981,7 +1981,7 @@
     {
       "name": "HydraMeatWhenEated",
       "type": "procedure",
-      "sortid": 159,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "registry_name": "hydra_meat_when_eated",
@@ -2000,7 +2000,7 @@
     {
       "name": "CookedHydraMeatWhenEated",
       "type": "procedure",
-      "sortid": 160,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cooked_hydra_meat_when_eated",
@@ -2019,7 +2019,7 @@
     {
       "name": "CoolSandwichWhenEated",
       "type": "procedure",
-      "sortid": 161,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cool_sandwich_when_eated",
@@ -2038,7 +2038,7 @@
     {
       "name": "ElectricPie",
       "type": "block",
-      "sortid": 54,
+      "sortid": 55,
       "compiles": true,
       "locked_code": true,
       "registry_name": "electric_pie",
@@ -2054,7 +2054,7 @@
     {
       "name": "ElectricPieBlockstates",
       "type": "blockstates",
-      "sortid": 162,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electric_pie_blockstates",
@@ -2069,7 +2069,7 @@
     {
       "name": "ElectricPieSlice",
       "type": "item",
-      "sortid": 55,
+      "sortid": 56,
       "compiles": true,
       "locked_code": true,
       "registry_name": "electric_pie_slice",
@@ -2083,7 +2083,7 @@
     {
       "name": "FrostPie",
       "type": "block",
-      "sortid": 52,
+      "sortid": 53,
       "compiles": true,
       "locked_code": true,
       "registry_name": "frost_pie",
@@ -2099,7 +2099,7 @@
     {
       "name": "FrostPieBlockstates",
       "type": "blockstates",
-      "sortid": 163,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_pie_blockstates",
@@ -2114,7 +2114,7 @@
     {
       "name": "FrostPieSlice",
       "type": "item",
-      "sortid": 53,
+      "sortid": 54,
       "compiles": true,
       "locked_code": true,
       "registry_name": "frost_pie_slice",
@@ -2128,7 +2128,7 @@
     {
       "name": "DragonPieCrust",
       "type": "item",
-      "sortid": 49,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_pie_crust",
@@ -2142,7 +2142,7 @@
     {
       "name": "ElectricPieRecipe",
       "type": "recipe",
-      "sortid": 164,
+      "sortid": 168,
       "compiles": true,
       "locked_code": true,
       "registry_name": "electric_pie_recipe",
@@ -2155,7 +2155,7 @@
     {
       "name": "FrostPieWhenEated",
       "type": "procedure",
-      "sortid": 165,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_pie_when_eated",
@@ -2190,7 +2190,7 @@
     {
       "name": "FrostPieSliceWhenEated",
       "type": "procedure",
-      "sortid": 166,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_pie_slice_when_eated",
@@ -2209,7 +2209,7 @@
     {
       "name": "ElectricPieWhenEated",
       "type": "procedure",
-      "sortid": 167,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electric_pie_when_eated",
@@ -2244,7 +2244,7 @@
     {
       "name": "ElectricPieSliceWhenEated",
       "type": "procedure",
-      "sortid": 168,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electric_pie_slice_when_eated",
@@ -2263,7 +2263,7 @@
     {
       "name": "FrostPieSliceTooltip",
       "type": "procedure",
-      "sortid": 169,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_pie_slice_tooltip",
@@ -2286,7 +2286,7 @@
     {
       "name": "ElectricPieSliceTooltip",
       "type": "procedure",
-      "sortid": 170,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electric_pie_slice_tooltip",
@@ -2309,7 +2309,7 @@
     {
       "name": "LightningDragonHotdogWhenEated",
       "type": "procedure",
-      "sortid": 171,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_dragon_hotdog_when_eated",
@@ -2328,7 +2328,7 @@
     {
       "name": "LightningDragonHotdogTooltip",
       "type": "procedure",
-      "sortid": 172,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_dragon_hotdog_tooltip",
@@ -2351,7 +2351,7 @@
     {
       "name": "CoolSandwichTooltip",
       "type": "procedure",
-      "sortid": 173,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cool_sandwich_tooltip",
@@ -2374,7 +2374,7 @@
     {
       "name": "FireDragonRamenWhenEated",
       "type": "procedure",
-      "sortid": 174,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_dragon_ramen_when_eated",
@@ -2393,7 +2393,7 @@
     {
       "name": "FireDragonTacoWhenEated",
       "type": "procedure",
-      "sortid": 175,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_dragon_taco_when_eated",
@@ -2412,7 +2412,7 @@
     {
       "name": "FireDragonRamenTooltip",
       "type": "procedure",
-      "sortid": 176,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_dragon_ramen_tooltip",
@@ -2435,7 +2435,7 @@
     {
       "name": "FireDragonTacoTooltip",
       "type": "procedure",
-      "sortid": 177,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_dragon_taco_tooltip",
@@ -2458,7 +2458,7 @@
     {
       "name": "DragonSpecialSausageWhenEated",
       "type": "procedure",
-      "sortid": 178,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_special_sausage_when_eated",
@@ -2493,7 +2493,7 @@
     {
       "name": "DragonSpecialSausage",
       "type": "item",
-      "sortid": 36,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_special_sausage",
@@ -2507,7 +2507,7 @@
     {
       "name": "DragonSpecialSausageTooltip",
       "type": "procedure",
-      "sortid": 179,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_special_sausage_tooltip",
@@ -2530,7 +2530,7 @@
     {
       "name": "DragonSpecialPie",
       "type": "block",
-      "sortid": 56,
+      "sortid": 57,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragon_special_pie",
@@ -2546,7 +2546,7 @@
     {
       "name": "DragonSpecialPieBlockstates",
       "type": "blockstates",
-      "sortid": 180,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_special_pie_blockstates",
@@ -2561,7 +2561,7 @@
     {
       "name": "DragonSpecialPieSlice",
       "type": "item",
-      "sortid": 57,
+      "sortid": 58,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragon_special_pie_slice",
@@ -2575,7 +2575,7 @@
     {
       "name": "DragonSpecialPieWhenEated",
       "type": "procedure",
-      "sortid": 181,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_special_pie_when_eated",
@@ -2610,7 +2610,7 @@
     {
       "name": "DragonSpecialPieSliceWhenEated",
       "type": "procedure",
-      "sortid": 182,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_special_pie_slice_when_eated",
@@ -2645,7 +2645,7 @@
     {
       "name": "FieryHotPie",
       "type": "block",
-      "sortid": 50,
+      "sortid": 51,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fiery_hot_pie",
@@ -2661,7 +2661,7 @@
     {
       "name": "FieryHotBlockstates",
       "type": "blockstates",
-      "sortid": 183,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiery_hot_blockstates",
@@ -2676,7 +2676,7 @@
     {
       "name": "FieryHotPieSlice",
       "type": "item",
-      "sortid": 51,
+      "sortid": 52,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fiery_hot_pie_slice",
@@ -2690,7 +2690,7 @@
     {
       "name": "FieryHotPieSliceWhenEated",
       "type": "procedure",
-      "sortid": 184,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiery_hot_pie_slice_when_eated",
@@ -2709,7 +2709,7 @@
     {
       "name": "FieryHotPieWhenEated",
       "type": "procedure",
-      "sortid": 185,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiery_hot_pie_when_eated",
@@ -2744,7 +2744,7 @@
     {
       "name": "NumberOfExplosions",
       "type": "attribute",
-      "sortid": 186,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "registry_name": "number_of_explosions",
@@ -2755,7 +2755,7 @@
     {
       "name": "FriedDragonEggWhenEated",
       "type": "procedure",
-      "sortid": 187,
+      "sortid": 191,
       "compiles": true,
       "locked_code": true,
       "registry_name": "fried_dragon_egg_when_eated",
@@ -2774,7 +2774,7 @@
     {
       "name": "FriedDragonEggTooltip",
       "type": "procedure",
-      "sortid": 188,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fried_dragon_egg_tooltip",
@@ -2797,7 +2797,7 @@
     {
       "name": "RawDragonSpecialSausage",
       "type": "item",
-      "sortid": 35,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "registry_name": "raw_dragon_special_sausage",
@@ -2811,7 +2811,7 @@
     {
       "name": "DragonsMight",
       "type": "potioneffect",
-      "sortid": 189,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragons_might",
@@ -2824,7 +2824,7 @@
     {
       "name": "EffectDragonsMightWhenActive",
       "type": "procedure",
-      "sortid": 190,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "registry_name": "effect_dragons_might_when_active",
@@ -2863,7 +2863,7 @@
     {
       "name": "DragonSpecialPieSliceTooltip",
       "type": "procedure",
-      "sortid": 191,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_special_pie_slice_tooltip",
@@ -2886,7 +2886,7 @@
     {
       "name": "FieryHotPieSliceTooltip",
       "type": "procedure",
-      "sortid": 192,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiery_hot_pie_slice_tooltip",
@@ -2909,7 +2909,7 @@
     {
       "name": "CommonConfig",
       "type": "config",
-      "sortid": 193,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "registry_name": "common_config",
@@ -2922,7 +2922,7 @@
     {
       "name": "Almost4Elements",
       "type": "achievement",
-      "sortid": 194,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "registry_name": "almost_4_elements",
@@ -2935,7 +2935,7 @@
     {
       "name": "MiniPizzaIngredients",
       "type": "tag",
-      "sortid": 195,
+      "sortid": 199,
       "compiles": true,
       "locked_code": true,
       "registry_name": "mini_pizza_ingredients",
@@ -2948,7 +2948,7 @@
     {
       "name": "SeaSerpentFangKnife",
       "type": "tool",
-      "sortid": 71,
+      "sortid": 72,
       "compiles": true,
       "locked_code": true,
       "registry_name": "sea_serpent_fang_knife",
@@ -2976,7 +2976,7 @@
     {
       "name": "FeelLikeADragonAdv",
       "type": "achievement",
-      "sortid": 196,
+      "sortid": 200,
       "compiles": true,
       "locked_code": true,
       "registry_name": "feel_like_a_dragon_adv",
@@ -2989,7 +2989,7 @@
     {
       "name": "RIPDragonAdv",
       "type": "achievement",
-      "sortid": 197,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "registry_name": "rip_dragon_adv",
@@ -3002,7 +3002,7 @@
     {
       "name": "EyeChowderTooltip",
       "type": "procedure",
-      "sortid": 198,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "registry_name": "eye_chowder_tooltip",
@@ -3053,7 +3053,7 @@
     {
       "name": "MyrmexJungleResinJellyTooltip",
       "type": "procedure",
-      "sortid": 199,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "registry_name": "myrmex_jungle_resin_jelly_tooltip",
@@ -3076,7 +3076,7 @@
     {
       "name": "MyrmexDesertResinJellyTooltip",
       "type": "procedure",
-      "sortid": 200,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "registry_name": "myrmex_desert_resin_jelly_tooltip",
@@ -3099,7 +3099,7 @@
     {
       "name": "MyrmexJungleResinCookieTooltip",
       "type": "procedure",
-      "sortid": 201,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "registry_name": "myrmex_jungle_resin_cookie_tooltip",
@@ -3122,7 +3122,7 @@
     {
       "name": "MyrmexDesertResinCookieTooltip",
       "type": "procedure",
-      "sortid": 202,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "registry_name": "myrmex_desert_resin_cookie_tooltip",
@@ -3145,7 +3145,7 @@
     {
       "name": "CyclopsEyeRequiredAdv",
       "type": "tag",
-      "sortid": 203,
+      "sortid": 207,
       "compiles": true,
       "locked_code": true,
       "registry_name": "cyclops_eye_required_adv",
@@ -3158,7 +3158,7 @@
     {
       "name": "YouHaveBeenSpotted",
       "type": "achievement",
-      "sortid": 204,
+      "sortid": 208,
       "compiles": true,
       "locked_code": true,
       "registry_name": "you_have_been_spotted",
@@ -3171,7 +3171,7 @@
     {
       "name": "DragonPie",
       "type": "tag",
-      "sortid": 205,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_pie",
@@ -3184,7 +3184,7 @@
     {
       "name": "DragonPieSlice",
       "type": "tag",
-      "sortid": 206,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_pie_slice",
@@ -3197,7 +3197,7 @@
     {
       "name": "FieryHotCocktail",
       "type": "item",
-      "sortid": 45,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiery_hot_cocktail",
@@ -3211,7 +3211,7 @@
     {
       "name": "FrostCocktail",
       "type": "item",
-      "sortid": 46,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_cocktail",
@@ -3225,7 +3225,7 @@
     {
       "name": "SpecialCocktail",
       "type": "item",
-      "sortid": 48,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "special_cocktail",
@@ -3239,7 +3239,7 @@
     {
       "name": "ElectricCocktail",
       "type": "item",
-      "sortid": 47,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electric_cocktail",
@@ -3253,7 +3253,7 @@
     {
       "name": "Cocktail",
       "type": "tag",
-      "sortid": 207,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cocktail",
@@ -3266,7 +3266,7 @@
     {
       "name": "PowerOfThreeDragonsAdv",
       "type": "achievement",
-      "sortid": 208,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "registry_name": "power_of_three_dragons_adv",
@@ -3279,7 +3279,7 @@
     {
       "name": "FeelThePowerAdv",
       "type": "achievement",
-      "sortid": 209,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "registry_name": "feel_the_power_adv",
@@ -3292,7 +3292,7 @@
     {
       "name": "SpecialCocktailWhenDrinked",
       "type": "procedure",
-      "sortid": 210,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "registry_name": "special_cocktail_when_drinked",
@@ -3311,7 +3311,7 @@
     {
       "name": "SpecialCocktailTooltip",
       "type": "procedure",
-      "sortid": 211,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "registry_name": "special_cocktail_tooltip",
@@ -3334,7 +3334,7 @@
     {
       "name": "CafeteriaPizzaAdv",
       "type": "achievement",
-      "sortid": 212,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "registry_name": "cafeteria_pizza_adv",
@@ -3347,7 +3347,7 @@
     {
       "name": "Knife",
       "type": "jeiinformation",
-      "sortid": 213,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "registry_name": "knife",
@@ -3358,7 +3358,7 @@
     {
       "name": "GetFeelLikeADragonAdv",
       "type": "procedure",
-      "sortid": 214,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "registry_name": "get_feel_like_a_dragon_adv",
@@ -3377,7 +3377,7 @@
     {
       "name": "GetPowerOfThreeDragonsAdv",
       "type": "procedure",
-      "sortid": 215,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "registry_name": "get_power_of_three_dragons_adv",
@@ -3396,7 +3396,7 @@
     {
       "name": "FieryHotCocktailWhenDrinked",
       "type": "procedure",
-      "sortid": 216,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiery_hot_cocktail_when_drinked",
@@ -3415,7 +3415,7 @@
     {
       "name": "FrostCocktailWhenDrinked",
       "type": "procedure",
-      "sortid": 217,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_cocktail_when_drinked",
@@ -3434,7 +3434,7 @@
     {
       "name": "ElectricCocktailWhenDrinked",
       "type": "procedure",
-      "sortid": 218,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electric_cocktail_when_drinked",
@@ -3453,7 +3453,7 @@
     {
       "name": "FieryHotCocktailTooltip",
       "type": "procedure",
-      "sortid": 219,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fiery_hot_cocktail_tooltip",
@@ -3476,7 +3476,7 @@
     {
       "name": "FrostCocktailTooltip",
       "type": "procedure",
-      "sortid": 220,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "registry_name": "frost_cocktail_tooltip",
@@ -3499,7 +3499,7 @@
     {
       "name": "ElectricCocktailTooltip",
       "type": "procedure",
-      "sortid": 221,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "registry_name": "electric_cocktail_tooltip",
@@ -3522,7 +3522,7 @@
     {
       "name": "DragonsteelFireKnife",
       "type": "tool",
-      "sortid": 72,
+      "sortid": 73,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragonsteel_fire_knife",
@@ -3536,7 +3536,7 @@
     {
       "name": "DragonsteelFireKnifeAttack",
       "type": "procedure",
-      "sortid": 222,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragonsteel_fire_knife_attack",
@@ -3555,7 +3555,7 @@
     {
       "name": "DragonsteelFireKnifeTooltip",
       "type": "procedure",
-      "sortid": 223,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragonsteel_fire_knife_tooltip",
@@ -3578,7 +3578,7 @@
     {
       "name": "DelicacyAdv",
       "type": "achievement",
-      "sortid": 224,
+      "sortid": 228,
       "compiles": true,
       "locked_code": true,
       "registry_name": "delicacy_adv",
@@ -3591,7 +3591,7 @@
     {
       "name": "DragonsteelIceKnife",
       "type": "tool",
-      "sortid": 73,
+      "sortid": 74,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragonsteel_ice_knife",
@@ -3605,7 +3605,7 @@
     {
       "name": "ModEventHandler",
       "type": "code",
-      "sortid": 225,
+      "sortid": 229,
       "compiles": true,
       "locked_code": true,
       "registry_name": "mod_event_handler",
@@ -3618,7 +3618,7 @@
     {
       "name": "EffectRegistry",
       "type": "code",
-      "sortid": 226,
+      "sortid": 230,
       "compiles": true,
       "locked_code": true,
       "registry_name": "effect_registry",
@@ -3631,7 +3631,7 @@
     {
       "name": "EffectInitializer",
       "type": "code",
-      "sortid": 227,
+      "sortid": 231,
       "compiles": true,
       "locked_code": true,
       "registry_name": "effect_initializer",
@@ -3644,7 +3644,7 @@
     {
       "name": "CenterOfWeakness",
       "type": "potioneffect",
-      "sortid": 228,
+      "sortid": 232,
       "compiles": true,
       "locked_code": true,
       "registry_name": "center_of_weakness",
@@ -3657,7 +3657,7 @@
     {
       "name": "DragonPieBlock",
       "type": "tag",
-      "sortid": 229,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragon_pie_block",
@@ -3670,7 +3670,7 @@
     {
       "name": "DragonsteelLightningKnifeWhenAttack",
       "type": "procedure",
-      "sortid": 230,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragonsteel_lightning_knife_when_attack",
@@ -3705,7 +3705,7 @@
     {
       "name": "DragonsteelLightningKnife",
       "type": "tool",
-      "sortid": 74,
+      "sortid": 75,
       "compiles": true,
       "locked_code": true,
       "registry_name": "dragonsteel_lightning_knife",
@@ -3719,7 +3719,7 @@
     {
       "name": "DragonsteelIceKnifeTooltip",
       "type": "procedure",
-      "sortid": 231,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragonsteel_ice_knife_tooltip",
@@ -3742,7 +3742,7 @@
     {
       "name": "DragonsteelLightningKnifeTooltip",
       "type": "procedure",
-      "sortid": 232,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dragonsteel_lightning_knife_tooltip",
@@ -3765,7 +3765,7 @@
     {
       "name": "EmptyGlass",
       "type": "item",
-      "sortid": 44,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "empty_glass",
@@ -3779,7 +3779,7 @@
     {
       "name": "CenterOfWeaknessAdv",
       "type": "achievement",
-      "sortid": 233,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "registry_name": "center_of_weakness_adv",
@@ -3792,7 +3792,7 @@
     {
       "name": "GetCenterOfWeaknessAdv",
       "type": "procedure",
-      "sortid": 234,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "registry_name": "get_center_of_weakness_adv",
@@ -3811,7 +3811,7 @@
     {
       "name": "Emptyglassrecipe",
       "type": "recipe",
-      "sortid": 235,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "registry_name": "emptyglassrecipe",
@@ -3824,7 +3824,7 @@
     {
       "name": "FireHeartWithPotatoesInMushroomSauceWhenEated",
       "type": "procedure",
-      "sortid": 236,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_heart_with_potatoes_in_mushroom_sauce_when_eated",
@@ -3843,7 +3843,7 @@
     {
       "name": "FireHeartWithPotatoesInMushroomSauce",
       "type": "item",
-      "sortid": 37,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_heart_with_potatoes_in_mushroom_sauce",
@@ -3857,7 +3857,7 @@
     {
       "name": "FireHeartWithPotatoesInMushroomSauceTooltip",
       "type": "procedure",
-      "sortid": 237,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "registry_name": "fire_heart_with_potatoes_in_mushroom_sauce_tooltip",
@@ -3880,7 +3880,7 @@
     {
       "name": "IceHeartWithPotatoesInMushroomSauceWhenEated",
       "type": "procedure",
-      "sortid": 238,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_heart_with_potatoes_in_mushroom_sauce_when_eated",
@@ -3899,7 +3899,7 @@
     {
       "name": "LightningHeartWithPotatoesInMushroomSauceWhenEated",
       "type": "procedure",
-      "sortid": 239,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_heart_with_potatoes_in_mushroom_sauce_when_eated",
@@ -3918,7 +3918,7 @@
     {
       "name": "IceHeartWithPotatoesInMushroomSauce",
       "type": "item",
-      "sortid": 38,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_heart_with_potatoes_in_mushroom_sauce",
@@ -3932,7 +3932,7 @@
     {
       "name": "LightningHeartWithPotatoesInMushroomSauce",
       "type": "item",
-      "sortid": 39,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_heart_with_potatoes_in_mushroom_sauce",
@@ -3946,7 +3946,7 @@
     {
       "name": "IceHeartWithPotatoesInMushroomSauceTooltip",
       "type": "procedure",
-      "sortid": 240,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "registry_name": "ice_heart_with_potatoes_in_mushroom_sauce_tooltip",
@@ -3969,7 +3969,7 @@
     {
       "name": "LightningHeartWithPotatoesInMushroomSauceTooltip",
       "type": "procedure",
-      "sortid": 241,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "registry_name": "lightning_heart_with_potatoes_in_mushroom_sauce_tooltip",
@@ -3988,22 +3988,226 @@
           }
         ]
       }
+    },
+    {
+      "name": "BlackDragonCuttingBoard",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "black_dragon_cutting_board",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/black_dragon_cutting_board.json",
+          "src/main/resources/assets/ice_and_fire_delight/blockstates/black_dragon_cutting_board.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/block/BlackDragonCuttingBoardBlock.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/block/black_dragon_cutting_board.json"
+        ]
+      }
+    },
+    {
+      "name": "ClientSetup",
+      "type": "code",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "client_setup",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/ClientSetup.java"
+        ]
+      }
+    },
+    {
+      "name": "CustomCuttingBoardRenderer",
+      "type": "code",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "custom_cutting_board_renderer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/CustomCuttingBoardRenderer.java"
+        ]
+      }
+    },
+    {
+      "name": "PhantomKnife",
+      "type": "tool",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "phantom_knife",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/item/PhantomKnifeItem.java",
+          "src/main/resources/assets/ice_and_fire_delight/models/item/phantom_knife.json"
+        ]
+      }
+    },
+    {
+      "name": "PhantomKnifeEventHandler",
+      "type": "code",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "phantom_knife_event_handler",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/PhantomKnifeEventHandler.java"
+        ]
+      }
+    },
+    {
+      "name": "HoneyGlazedCyclopsEye",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honey_glazed_cyclops_eye",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/honey_glazed_cyclops_eye.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/HoneyGlazedCyclopsEyeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "HoneyGlazedCyclopsEyeWhenEated",
+      "type": "procedure",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honey_glazed_cyclops_eye_when_eated",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/HoneyGlazedCyclopsEyeWhenEatedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EyeChowderWhenEated",
+      "type": "procedure",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eye_chowder_when_eated",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/EyeChowderWhenEatedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HoneyGlazedCyclopsEyeTooltip",
+      "type": "procedure",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "honey_glazed_cyclops_eye_tooltip",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/HoneyGlazedCyclopsEyeTooltipProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "tooltip",
+            "type": "tooltip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlackDragonCuttingBoardTooltip",
+      "type": "procedure",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "black_dragon_cutting_board_tooltip",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/BlackDragonCuttingBoardTooltipProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "tooltip",
+            "type": "tooltip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PhantomKnifeTooltip",
+      "type": "procedure",
+      "sortid": 253,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phantom_knife_tooltip",
+      "metadata": {
+        "files": [
+          "src/main/java/net/donne431/ice_and_fire_delight/procedures/PhantomKnifeTooltipProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "tooltip",
+            "type": "tooltip"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DragonboneKnife",
+      "type": "tool",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "dragonbone_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/ice_and_fire_delight/models/item/dragonbone_knife.json",
+          "src/main/java/net/donne431/ice_and_fire_delight/item/DragonboneKnifeItem.java"
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "ru_ru": {
-      "book.ice_and_fire_delight.landing_text": "В данной книге вы можете узнать подробнее о содержание мода Ice and Fire Delight",
       "item.ice_and_fire_delight.raw_mini_pizza_blank": "Сырая заготовка для мини пиццы",
+      "book.ice_and_fire_delight.landing_text": "В данной книге вы можете узнать подробнее о содержание мода Ice and Fire Delight",
       "item.ice_and_fire_delight.dragon_special_sausage": "Драконья особенная сосиска",
-      "item.ice_and_fire_delight.cyclops_steak": "Стейк из циклопа",
-      "item.ice_and_fire_delight.sea_serpent_meat": "Мясо левиафана",
       "attribute.ice_and_fire_delight.number_of_explosions": "Кол-во взрывов",
+      "item.ice_and_fire_delight.sea_serpent_meat": "Мясо левиафана",
+      "item.ice_and_fire_delight.cyclops_steak": "Стейк из циклопа",
       "book.ice_and_fire_delight.category.items.silver_knife.name": "Серебрянный нож",
-      "book.ice_and_fire_delight.category.foods.cyclops_meat.name": "Мясо циклопа",
-      "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
       "item.ice_and_fire_delight.fire_minced_meat": "Огненный фарш",
+      "effect.ice_and_fire_delight.ice_aspect": "Заговор льда",
+      "book.ice_and_fire_delight.category.foods.cyclops_meat.name": "Мясо циклопа",
       "book.ice_and_fire_delight.category.items.silver_knife.desc": "Серебрянный нож - это особенный нож созданный из серебра, он прекрасно подходит для убийства нежити, так как наносит им дополнительный урон.",
       "item.ice_and_fire_delight.spices": "Специи",
       "item.ice_and_fire_delight.hydra_meat": "Мясо гидры",
@@ -4016,16 +4220,18 @@
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Рецепт",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.name": "Огненный экстракт ",
       "book.ice_and_fire_delight.category.items.dragonsteel_fire_knife.page2.title": "Рецепт",
-      "item.ice_and_fire_delight.tooltip.special_cocktail.line2": "§9Огнестойкость (07:30)",
       "item.ice_and_fire_delight.eye_chowder": "Глазная похлёбка",
+      "item.ice_and_fire_delight.tooltip.special_cocktail.line2": "§9Огнестойкость (07:30)",
       "item.ice_and_fire_delight.tooltip.special_cocktail.line3": "§9Устойчивость к холоду (07:30)",
       "advancements.you_have_been_spotted.descr": "Приготовьте блюдо из глаза циклопа",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "Блестящие чипсы",
+      "effect.ice_and_fire_delight.center_of_weakness.description": "В радиусе 4 блоков даёт врагам-сущностям эффект \"Слабость\" 2 уровня, в радиусе 10 блоков - 1 уровня.",
+      "block.ice_and_fire_delight.black_dragon_cutting_board": "Чёрная драконья доска для нарезки",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line1": "§9Полёт дракона (05:00)",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line2": "§9Огнестойкость (15:00)",
-      "advancements.power_of_three_dragons_adv.title": "Сила трёх драконов",
-      "book.ice_and_fire_delight.category.foods.mini_pizza.page2.text": "Для начала необходимо сделать сырую заготовку для мини пиццы, чтобы её сделать вам необходимо использовать два теста из костей драконов.",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Печенье со смолой мирмикса",
+      "book.ice_and_fire_delight.category.foods.mini_pizza.page2.text": "Для начала необходимо сделать сырую заготовку для мини пиццы, чтобы её сделать вам необходимо использовать два теста из костей драконов.",
+      "advancements.power_of_three_dragons_adv.title": "Сила трёх драконов",
       "item.ice_and_fire_delight.dragon_special_pie_slice": "Кусочек драконьего особенного пирога",
       "book.ice_and_fire_delight.category.foods.cyclops_meat.desc": "Мясо этого великого одноглазого чудовища является хорошей добычей с охоты, ведь несмотря на сложность добычи данного мяса оно пользуется высокой популярностью для созданий блюд.",
       "effect.ice_and_fire_delight.dragons_might": "Могущество драконов",
@@ -4033,10 +4239,10 @@
       "item.ice_and_fire_delight.raw_ice_sausage": "Сырая ледяная сосиска",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Мука из костей дракона",
       "block.ice_and_fire_delight.electric_pie": "§bЭлектрический пирог",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Заговор льда (04:00)",
       "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Приготовленное мясо левиафана",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Заговор льда (10:00)",
       "item.ice_and_fire_delight.troll_intestines": "Кишечник тролля",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9Устойчивость к холоду (05:00)",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9Устойчивость к холоду (02:00)",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line3": "§9Заговор огня (05:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.name": "Драконий омлет",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text": "Чипсы из блестящей чешуи готовятся в печи. Всего от 8 до 10 секунд надо, что бы вы уже могли попробовать данную закуску!",
@@ -4050,9 +4256,9 @@
       "item.ice_and_fire_delight.myrmex_resin_cookie_jungle": "Печенье со смолой мирмикса",
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line2": "§9Огнестойкость (00:25)",
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line1": "§9Молниеносный удар (00:25)",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Заговор огня (10:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Заговор огня (04:00)",
       "item.ice_and_fire_delight.fire_lily_extract": "Экстракт огненной лилии",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Огнестойкость (05:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Огнестойкость (02:00)",
       "item.ice_and_fire_delight.spices_from_witherbone": "Специи из костей иссушителя",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Рецепт",
       "advancements.grant_book_on_first_join_adv.descr": "Техническое достижение/Костыль",
@@ -4061,6 +4267,7 @@
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Рецепт",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.desc": "Данный нож создаётся, как можно было уже понять, из клыка великого ядовитого зверя - Гидры. При ударе на жертву будет накладываться эффект \"Отравление\" на 10 секунд.",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.desc": "Желе из смолы пустынных мирмиксов, как можно было уже догадаться, не является основным блюдом, оно максимум может подойти для десерта или для ситуаций, где другой еды вообще нет.",
+      "item.ice_and_fire_delight.phantom_knife": "Фантомный нож",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.name": "Нож из клыка Гидры",
       "item.ice_and_fire_delight.cooked_troll_meat": "Приготовленное мясо тролля",
       "item.ice_and_fire_delight.myrmex_desert_resin_jelly": "Желе из смолы мирмиксов",
@@ -4077,6 +4284,7 @@
       "advancements.power_of_three_dragons_adv.descr": "Получи эффект \"Могущество драконов\"",
       "advancements.rip_dragon_adv.descr": "Приготовьте драконий омлет",
       "advancements.too_much_power.descr": "Будьте взорванны при поедании особенной еды",
+      "item.ice_and_fire_delight.tooltip.eye_chowder.line1": "§9Центр слабости (17:30)",
       "effect.ice_and_fire_delight.lightning_strike.description": "При атаке в жертву попадает молния ",
       "item.ice_and_fire_delight.lightning_minced_meat": "Грозовой фарш",
       "item.ice_and_fire_delight.fiery_hot_cocktail": "Обжигающий коктейль",
@@ -4097,6 +4305,7 @@
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.page2.text": "",
       "item.ice_and_fire_delight.frost_lily_extract": "Экстракт ледяной лилии",
       "advancements.you_have_been_spotted.title": "Вас заметили",
+      "item.ice_and_fire_delight.dragonbone_knife": "Нож из кости дракона",
       "item.ice_and_fire_delight.sea_serpent_fang_knife": "Нож из клыка Левиафана",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page4.title": "Рецепт",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc": "Ломтик мяса левиафана это более лёгкий перекус, чем само мясо левиафана. Его употребляют в пищу, когда вы либо не сильно голодны или когда вам срочно надо перекусить.",
@@ -4105,8 +4314,8 @@
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line2": "§9Огнестойкость (00:30)",
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line1": "§9Заговор огня (00:10)",
       "advancements.delicacy_adv.title": "Деликатес!",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Огнестойкость (05:00)",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Молниеносный удар (10:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Огнестойкость (02:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Молниеносный удар (04:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Мясо левиафана",
       "advancements.dragon_minced_meat_adv.title": "Не такой уж и великий зверь!",
       "item.ice_and_fire_delight.lightning_heart_with_potatoes_in_mushroom_sauce": "Грозовое сердечко с картошечкой в грибном соусе",
@@ -4161,6 +4370,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "Экстракт грозовой лилии готовится в кухонном котле. Из ингредиентов нам понадобится только 2 грозовые лилии, ставим варится и перемешиваем в течение 5 секунд, после готовности переливаем экстракт в пустую мензурку. ",
       "item.ice_and_fire_delight.tooltip.myrmex_jungle_resin_jelly.line1": "§2Джунглевое",
       "item.ice_and_fire_delight.frost_pie_slice": "Кусочек морозного пирога",
+      "item.ice_and_fire_delight.tooltip.phantom_knife_line1": "Нож можно метнуть, даже сквозь блоки",
       "item.ice_and_fire_delight.tooltip.developer_comment": "Нажмите Shift, чтобы увидеть комментарий разработчика",
       "advancements.feel_spicy.descr": "Съешьте острые чипсы из блестящей чешуи",
       "item.ice_and_fire_delight.fried_dragon_egg": "Драконий омлет",
@@ -4173,6 +4383,7 @@
       "item.ice_and_fire_delight.cooked_sea_serpent_slice": "Ломтик жаренного левиафана",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.page2.title": "Рецепт",
       "advancements.grant_book_on_first_join_adv.title": "Техническое достижение",
+      "item.ice_and_fire_delight.tooltip.honey_glazed_cyclops_eye.line1": "§9Центр слабости (15:00)",
       "effect.ice_and_fire_delight.warming.description": "Устойчивость к эффекту \"Заговор льда\"",
       "item.ice_and_fire_delight.mini_pizza_blank": "Заготовка для мини пиццы",
       "item.ice_and_fire_delight.silver_knife": "Серебрянный нож",
@@ -4192,6 +4403,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.name": "Грозовой экстракт",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page3.text": "Позже необходимо приготовить нашу заготовку в печи, в зависимости от печи время готовки может отличаться.",
       "item.ice_and_fire_delight.dragonsteel_fire_knife": "Нож из огненной драконостали",
+      "item.ice_and_fire_delight.honey_glazed_cyclops_eye": "Глазное яблоко циклопа в медовой глазури",
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Чипсы из блестящей чешуи",
       "book.ice_and_fire_delight.category.foods.name": "Еда",
       "item.ice_and_fire_delight.tooltip.ice_heart_with_potatoes_in_mushroom_sauce.line1": "§9Полёт дракона (05:00)",
@@ -4228,10 +4440,10 @@
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line2": "§9Отравление (01:30) [10%]",
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line1": "§9Устойчивость к ядам (15:00) [90%]",
       "item.ice_and_fire_delight.tooltip.technical_item": "§l§cДанный предмет является техническим, то есть предметом, который необходим для корректной работы мода или который ещё находится в тестировании",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Полёт дракона (20:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Полёт дракона (08:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.title": "Рецепт",
       "book.ice_and_fire_delight.category.drinks.name": "Напитки",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Могущество драконов (15:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Могущество драконов (06:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.page2.title": "Рецепт",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line1": "§9Заговор льда (08:20)",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line2": "§9Устойчивость к холоду (06:40)",
@@ -4289,9 +4501,9 @@
       "item.ice_and_fire_delight.raw_mini_pizza_blank": "Raw mini pizza blank",
       "book.ice_and_fire_delight.landing_text": "In this book, you can learn more about the content of the Ice and Fire Delight mod",
       "item.ice_and_fire_delight.dragon_special_sausage": "Dragon special sausage",
-      "attribute.ice_and_fire_delight.number_of_explosions": "Number Of Explosions",
-      "item.ice_and_fire_delight.cyclops_steak": "Cyclops steak",
       "item.ice_and_fire_delight.sea_serpent_meat": "Sea Serpent meat",
+      "item.ice_and_fire_delight.cyclops_steak": "Cyclops steak",
+      "attribute.ice_and_fire_delight.number_of_explosions": "Number Of Explosions",
       "book.ice_and_fire_delight.category.items.silver_knife.name": "Silver knife",
       "effect.ice_and_fire_delight.ice_aspect": "Ice aspect",
       "item.ice_and_fire_delight.fire_minced_meat": "Fire minced meat",
@@ -4313,7 +4525,9 @@
       "item.ice_and_fire_delight.tooltip.special_cocktail.line3": "§9Cold resistance (07:30)",
       "advancements.you_have_been_spotted.descr": "Cook a dish of cyclops eye",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "Chips from shiny scales",
+      "effect.ice_and_fire_delight.center_of_weakness.description": "Within a 4 block radius, gives enemies-entities a level 2 Weakness effect, within a 10 block radius, a level 1 effect.",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line1": "§9Dragon\u0027s Flight (05:00)",
+      "block.ice_and_fire_delight.black_dragon_cutting_board": "Black dragon cutting board",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line2": "§9Fire resistance (15:00)",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Myrmex resin cookie",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page2.text": "First you need to make a raw mini pizza blank, to make it you need to use two dragon bone doughs.",
@@ -4325,10 +4539,10 @@
       "item.ice_and_fire_delight.raw_ice_sausage": "Raw ice sausage",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Flour from dragon bones",
       "block.ice_and_fire_delight.electric_pie": "§bElectric Pie",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Ice aspect (04:00)",
       "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Cooked Sea Serpent meat",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Ice aspect (10:00)",
       "item.ice_and_fire_delight.troll_intestines": "Troll intestines",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9Cold resistance (05:00)",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9Cold resistance (02:00)",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line3": "§9Fire aspect (05:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.name": "Dragon Omlet",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text": "Chips from shiny scales are cooked in the furnace. It only takes 8 to 10 seconds for you to taste this snack!",
@@ -4343,8 +4557,8 @@
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line2": "§9Fire resistance (00:25)",
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line1": "§9Lightning strike (00:25)",
       "item.ice_and_fire_delight.fire_lily_extract": "Fire lily extract",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Fire aspect (10:00)",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Fire resistance (05:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Fire aspect (04:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Fire resistance (02:00)",
       "item.ice_and_fire_delight.spices_from_witherbone": "Spices from witherbone",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Recipe",
       "effect.ice_and_fire_delight.dragons_might.description": "When attacking, it sets fires, slows down the victim and lightning gets into it",
@@ -4353,6 +4567,7 @@
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Recipe",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.desc": "This knife is created, as you might have already understood, from the fang of the great poisonous beast - the Hydra. When hit, the victim gets the \"Poison\" effect for 10 seconds",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.desc": "Myrmex desert resin jelly, as you might have already guessed, is not a main course, it is at most suitable for dessert or for situations where there is no other food at all.",
+      "item.ice_and_fire_delight.phantom_knife": "Phantom knife",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.name": "Hydra Fang knife",
       "item.ice_and_fire_delight.cooked_troll_meat": "Cooked Troll meat",
       "item.ice_and_fire_delight.myrmex_desert_resin_jelly": "Myrmex resin jelly",
@@ -4369,6 +4584,7 @@
       "advancements.power_of_three_dragons_adv.descr": "Get the \"Dragons\u0027s Might\" effect",
       "advancements.rip_dragon_adv.descr": "Cook up some dragon omlet",
       "advancements.too_much_power.descr": "Be blown up when eating special food",
+      "item.ice_and_fire_delight.tooltip.eye_chowder.line1": "§9Center of Weakness (17:30)",
       "effect.ice_and_fire_delight.lightning_strike.description": "The attack strikes the victim with a bolt of lightning ",
       "item.ice_and_fire_delight.lightning_minced_meat": "Lightning minced meat",
       "item.ice_and_fire_delight.fiery_hot_cocktail": "Fiery Hot cocktail",
@@ -4389,6 +4605,7 @@
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.page2.text": "",
       "item.ice_and_fire_delight.frost_lily_extract": "Frost lily extract",
       "advancements.you_have_been_spotted.title": "You\u0027ve been spotted",
+      "item.ice_and_fire_delight.dragonbone_knife": "Dragonbone knife",
       "item.ice_and_fire_delight.sea_serpent_fang_knife": "Sea Serpent fang knife",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page4.title": "Recipe",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc": "Sea Serpent slice is a lighter snack than the sea serpent meat itself. It is eaten when you are either not very hungry or when you need a quick snack.",
@@ -4397,8 +4614,8 @@
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line2": "§9Fire resistance (00:30)",
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line1": "§9Fire aspect (00:10)",
       "advancements.delicacy_adv.title": "Delicacy!",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Fire resistance (05:00)",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Lightning strike (10:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Fire resistance (02:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Lightning strike (04:00)",
       "advancements.dragon_minced_meat_adv.title": "Not so great beast",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Sea Serpent meat",
       "item.ice_and_fire_delight.lightning_heart_with_potatoes_in_mushroom_sauce": "Lightning heart with potatoes in mushroom sauce",
@@ -4453,6 +4670,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "Lightning lily extract is prepared in a cooking pot. From the ingredients we need only 2 lightning lilies, we put it to boil and stir for 5 seconds, when ready pour the extract into an empty measuring cylinder. ",
       "item.ice_and_fire_delight.tooltip.myrmex_jungle_resin_jelly.line1": "§2Jungle",
       "item.ice_and_fire_delight.frost_pie_slice": "Frost pie slice",
+      "item.ice_and_fire_delight.tooltip.phantom_knife_line1": "Fires a spinning knife that travels through blocks",
       "item.ice_and_fire_delight.tooltip.developer_comment": "Press Shift to see the developer\u0027s commentary",
       "advancements.feel_spicy.descr": "Eat spicy chips from shiny scales",
       "item.ice_and_fire_delight.fried_dragon_egg": "Dragon Omlet",
@@ -4465,6 +4683,7 @@
       "item.ice_and_fire_delight.fire_dragon_ramen": "Fire Dragon ramen",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.page2.title": "Recipe",
       "advancements.grant_book_on_first_join_adv.title": "Technical adv",
+      "item.ice_and_fire_delight.tooltip.honey_glazed_cyclops_eye.line1": "§9Center of Weakness (15:00)",
       "effect.ice_and_fire_delight.warming.description": "Resistance to the effect of “Ice aspect”",
       "item.ice_and_fire_delight.mini_pizza_blank": "Mini pizza blank",
       "item.ice_and_fire_delight.silver_knife": "Silver Knife",
@@ -4484,6 +4703,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.name": "Lightning lily extract",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page3.text": "Later we need to cook our blank in the furnace, depending on the furnace the cooking time may be different.",
       "item.ice_and_fire_delight.dragonsteel_fire_knife": "Fire dragonsteel knife",
+      "item.ice_and_fire_delight.honey_glazed_cyclops_eye": "Honey glazed Cyclops eye",
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Chips from shiny scales",
       "book.ice_and_fire_delight.category.foods.name": "Foods",
       "item.ice_and_fire_delight.tooltip.ice_heart_with_potatoes_in_mushroom_sauce.line1": "§9Dragon\u0027s Flight (05:00)",
@@ -4520,10 +4740,10 @@
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line2": "§9Poison (01:30) [10%]",
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line1": "§9Poison resistance (15:00) [90%]",
       "item.ice_and_fire_delight.tooltip.technical_item": "§l§cThis item is technical, that is, an item that is necessary for the correct operation of the mod or which is still in testing",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Dragon\u0027s Flight (20:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Dragon\u0027s Flight (08:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.title": "Recipe",
       "book.ice_and_fire_delight.category.drinks.name": "Drinks",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Dragons\u0027s Might (15:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Dragons\u0027s Might (06:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.page2.title": "Recipe",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line1": "§9Ice aspect (08:20)",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line2": "§9Cold resistance (06:40)",
@@ -4605,7 +4825,9 @@
       "item.ice_and_fire_delight.tooltip.special_cocktail.line3": "§9Cold resistance (07:30)",
       "advancements.you_have_been_spotted.descr": "Cocina un plato con un ojo de ciclope",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "Papitas resplandecientes",
+      "effect.ice_and_fire_delight.center_of_weakness.description": "Within a 4 block radius, gives enemies-entities a level 2 Weakness effect, within a 10 block radius, a level 1 effect.",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line1": "§9Dragon\u0027s Flight (05:00)",
+      "block.ice_and_fire_delight.black_dragon_cutting_board": "Black dragon cutting board",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line2": "§9Fire resistance (15:00)",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Galletita de resina Myrmex",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page2.text": "Primero necesitas hacer una pre pizza cruda con dos masas de hueso de dragon",
@@ -4617,10 +4839,9 @@
       "item.ice_and_fire_delight.raw_ice_sausage": "Salchicha de hielo cruda",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Harina de huesos de dragon",
       "block.ice_and_fire_delight.electric_pie": "§bTarta electrica",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Aspecto de hielo (10:00)",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Aspecto de hielo (04:00",
       "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Carne de serpiente marina cocinada",
       "item.ice_and_fire_delight.troll_intestines": "Tripa de Troll",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9Resistencia al frio (05:00)",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line3": "§9Fire aspect (05:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.name": "Dragon Omelette",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text": "Las papitas resplandecientes son cocinadas en un horno. ¡Y solo toma 8 segundos y listo!",
@@ -4635,8 +4856,8 @@
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line2": "§9Resistencia al fuego (00:25)",
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line1": "§9Golpe relampago (00:25)",
       "item.ice_and_fire_delight.fire_lily_extract": "Extracto de lirio de fuego",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Aspecto de fuego (10:00)",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Resistencia al fuego (05:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Aspecto de fuego (04:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Resistencia al fuego (02:00)",
       "item.ice_and_fire_delight.spices_from_witherbone": "Especias de huesos de wither",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Receta",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.name": "Gelatina Myrmex del desierto",
@@ -4645,6 +4866,7 @@
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Receta",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.desc": "Este cuchillo es hecho, como podras ver con un colmillo de una gran bestia venenosa, la hidra, envenando a la victima por golpe dandondes el efecto \"veneno\" por 10 segundos",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.desc": "La gelatina Myrmex del desierto, como podrias imaginar no es un platillo principal, es comunmente usado en el desierto cuando no otra cosa que comer cerca.",
+      "item.ice_and_fire_delight.phantom_knife": "Phantom knife",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.name": "Cuchillo de colmillo de hidra",
       "item.ice_and_fire_delight.cooked_troll_meat": "Carne de troll cocinada",
       "item.ice_and_fire_delight.myrmex_desert_resin_jelly": "Gelatina Myrmex del desierto",
@@ -4657,10 +4879,12 @@
       "book.ice_and_fire_delight.category.foods.mini_pizza.name": "Mini pizza",
       "item.ice_and_fire_delight.cooked_hydra_meat": "Carne de hidra cocinada",
       "advancements.root.descr": "Entra a un mundo de delicias magicas",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2  ": "§9Resistencia al frio (02:00)  ",
       "book.ice_and_fire_delight.category.foods.sea_serpent_roll.page2.text": "Para hacer un arrolado de serpiente marina, necesitas arroz hervido y porciones de serpiente marina",
       "advancements.power_of_three_dragons_adv.descr": "Obtiene el efecto \"Fuerza Draconica\"",
       "advancements.rip_dragon_adv.descr": "Cocina un Omelette de Dragón",
       "advancements.too_much_power.descr": "Explota al comer una comida Especial",
+      "item.ice_and_fire_delight.tooltip.eye_chowder.line1": "",
       "effect.ice_and_fire_delight.lightning_strike.description": "Cada ataque golpea a la victima con un rayo",
       "item.ice_and_fire_delight.lightning_minced_meat": "Carne molida de rayo",
       "item.ice_and_fire_delight.fiery_hot_cocktail": "Cocktail Ardiente",
@@ -4680,16 +4904,17 @@
       "block.ice_and_fire_delight.frost_pie": "§bTarta de escarcha",
       "item.ice_and_fire_delight.frost_lily_extract": "Extracto de lirio de escarcha",
       "advancements.you_have_been_spotted.title": "You\u0027ve been spotted",
+      "item.ice_and_fire_delight.dragonbone_knife": "Dragonbone knife",
       "item.ice_and_fire_delight.sea_serpent_fang_knife": "Cuchillo de serpiente marina",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page4.title": "Receta",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc": "La porcion de serpiente marina es una comida mas liviana que la carne de serpiente marina, es perfecta para cuando no tenes tanta hambre o queres algo rapido y liviano",
       "item.ice_and_fire_delight.tooltip.cool_sandwich.line1": "§9Resistencia al fuego (00:35 - 01:00)",
       "item.ice_and_fire_delight.spicy_chips_from_shiny_scales": "Papitas resplandecientes",
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line2": "§9Resistencia al fuego (00:30)",
-      "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line1": "§9Aespecto de fuego (00:10)",
+      "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line1": "§9Aspecto de fuego (00:10)",
       "advancements.delicacy_adv.title": "Delicia!",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Resistencia al fuego (05:00)",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Golpe relampago (10:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Resistencia al fuego (02:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Golpe relampago (04:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Carne de serpiente marina",
       "advancements.dragon_minced_meat_adv.title": "No era una bestia tan majestuosa...",
       "item.ice_and_fire_delight.lightning_heart_with_potatoes_in_mushroom_sauce": "Corazon electrico con salsa de hongos",
@@ -4742,6 +4967,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "El extracto de lirio de rayo es hecho en una olla (cooking pot), necesitamos dos lirios de rayo, los hervimos por 5 segundos y una vez listo vertimos el extracto en una probeta",
       "item.ice_and_fire_delight.tooltip.myrmex_jungle_resin_jelly.line1": "§2Jungle",
       "item.ice_and_fire_delight.frost_pie_slice": "Porcion de tarta de escarcha",
+      "item.ice_and_fire_delight.tooltip.phantom_knife_line1": "",
       "item.ice_and_fire_delight.tooltip.developer_comment": "Apreta shift para ver los comentarios del desarrolador",
       "advancements.feel_spicy.descr": "Come papitas resplandecientes",
       "item.ice_and_fire_delight.fried_dragon_egg": "Omelette de dragon",
@@ -4754,6 +4980,7 @@
       "item.ice_and_fire_delight.fire_dragon_ramen": "Ramen de dragon de fuego",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.page2.title": "Receta",
       "advancements.grant_book_on_first_join_adv.title": "Technical adv",
+      "item.ice_and_fire_delight.tooltip.honey_glazed_cyclops_eye.line1": "",
       "effect.ice_and_fire_delight.warming.description": "Resistencia al efecto \"aspecto de hielo\"",
       "item.ice_and_fire_delight.mini_pizza_blank": "mini prepizza",
       "item.ice_and_fire_delight.silver_knife": "Cuchillo de plata",
@@ -4773,6 +5000,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.name": "Extracto de lirio de rayo",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page3.text": "Necesitamos cocinar la pre pizza en un horno, depende que horno uses puede tomar mas o menos tiempo",
       "item.ice_and_fire_delight.dragonsteel_fire_knife": "Cuchillo de Acero draconico de fuego",
+      "item.ice_and_fire_delight.honey_glazed_cyclops_eye": "Honey glazed Cyclops eye",
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Papitas resplandecientes",
       "book.ice_and_fire_delight.category.foods.name": "Comidas",
       "item.ice_and_fire_delight.tooltip.ice_heart_with_potatoes_in_mushroom_sauce.line1": "§9Dragon\u0027s Flight (05:00)",
@@ -4809,10 +5037,10 @@
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line2": "§9Veneno (01:30) [10%]",
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line1": "§9Resistencia al veneno (15:00) [90%]",
       "item.ice_and_fire_delight.tooltip.technical_item": "§l§cEste item es tecnico, por lo que es necesario para el funcionamiento del mod or esta aun en fase de testeo, quien sabe",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Vuelo Dracónico (20:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Vuelo Dracónico (08:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.title": "Receta",
       "book.ice_and_fire_delight.category.drinks.name": "Bebidas",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Fuerza Dracónica (15:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Fuerza Dracónica (06:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.page2.title": "Receta",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line1": "§9Aspecto de hielo (08:20)",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line2": "§9Resistencia al frio (06:40)",
@@ -4867,16 +5095,16 @@
       "item.ice_and_fire_delight.lightning_sausage": "Salchicha de rayo"
     },
     "zh_cn": {
-      "book.ice_and_fire_delight.landing_text": "在这本书中你可以了解到各种各样的关于冰火传说乐事的内容。",
       "item.ice_and_fire_delight.raw_mini_pizza_blank": "未加工的迷你披萨面团",
+      "book.ice_and_fire_delight.landing_text": "在这本书中你可以了解到各种各样的关于冰火传说乐事的内容。",
       "item.ice_and_fire_delight.dragon_special_sausage": "秘制龙香肠",
-      "attribute.ice_and_fire_delight.number_of_explosions": "爆炸次数",
-      "item.ice_and_fire_delight.cyclops_steak": "独眼巨人熟肉排",
       "item.ice_and_fire_delight.sea_serpent_meat": "海蟒的肉",
+      "item.ice_and_fire_delight.cyclops_steak": "独眼巨人熟肉排",
+      "attribute.ice_and_fire_delight.number_of_explosions": "爆炸次数",
       "book.ice_and_fire_delight.category.items.silver_knife.name": "银色小刀",
-      "book.ice_and_fire_delight.category.foods.cyclops_meat.name": "独眼巨人的生肉",
-      "item.ice_and_fire_delight.fire_minced_meat": "火龙肉末",
       "effect.ice_and_fire_delight.ice_aspect": "冰霜附加",
+      "item.ice_and_fire_delight.fire_minced_meat": "火龙肉末",
+      "book.ice_and_fire_delight.category.foods.cyclops_meat.name": "独眼巨人的生肉",
       "book.ice_and_fire_delight.category.items.silver_knife.desc": "银色小刀是由银制成而来的特殊小刀，在对付亡灵生物有奇效。",
       "item.ice_and_fire_delight.spices": "龙之调味料",
       "item.ice_and_fire_delight.hydra_meat": "九头蛇的肉",
@@ -4889,16 +5117,18 @@
       "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "配方",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.name": "烈焰百合提取液",
       "book.ice_and_fire_delight.category.items.dragonsteel_fire_knife.page2.title": "配方",
-      "item.ice_and_fire_delight.tooltip.special_cocktail.line2": "§9抗火 (07:30)",
       "item.ice_and_fire_delight.eye_chowder": "独眼杂烩羹汤",
+      "item.ice_and_fire_delight.tooltip.special_cocktail.line2": "§9抗火 (07:30)",
       "item.ice_and_fire_delight.tooltip.special_cocktail.line3": "§9抗寒 (07:30)",
       "advancements.you_have_been_spotted.descr": "烹饪独眼巨人的眼睛",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "闪光鳞片薯片",
+      "effect.ice_and_fire_delight.center_of_weakness.description": "",
+      "block.ice_and_fire_delight.black_dragon_cutting_board": "Black dragon cutting board",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line1": "§9龙之翼 (05:00)",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line2": "§9抗火 (15:00)",
-      "advancements.power_of_three_dragons_adv.title": "三龙赐福",
-      "book.ice_and_fire_delight.category.foods.mini_pizza.page2.text": "首先你需要制作一个未经加工过的披萨面团，你可以用两个龙骨粉团制作它。",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "蚁脂曲奇",
+      "book.ice_and_fire_delight.category.foods.mini_pizza.page2.text": "首先你需要制作一个未经加工过的披萨面团，你可以用两个龙骨粉团制作它。",
+      "advancements.power_of_three_dragons_adv.title": "三龙赐福",
       "item.ice_and_fire_delight.dragon_special_pie_slice": "秘制龙派切块",
       "book.ice_and_fire_delight.category.foods.cyclops_meat.desc": "来自可怖的独眼怪物的肉是猎人们长久渴求的战利品，尽管获取这种肉很困难，但它仍然是制作菜肴的热门选择。",
       "effect.ice_and_fire_delight.dragons_might": "龙之力",
@@ -4906,10 +5136,10 @@
       "item.ice_and_fire_delight.raw_ice_sausage": "生的冰龙香肠",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "龙骨粉",
       "block.ice_and_fire_delight.electric_pie": "§b电感派",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9冰霜附加 (04:00)",
       "item.ice_and_fire_delight.cooked_sea_serpent_meat": "熟海蟒肉",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9冰霜附加 (10:00)",
       "item.ice_and_fire_delight.troll_intestines": "食人妖肠",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9抗寒 (05:00)",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9抗寒 (02:00)",
       "item.ice_and_fire_delight.tooltip.fire_heart_with_potatoes_in_mushroom_sauce.line3": "§9烈焰附加 (05:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.name": "龙蛋卷",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text": "闪光鳞片薯片可用各种熔炉烹饪。不同的熔炉决定着烹饪它的时间。一般来说只需8到10秒你就可以享用它！",
@@ -4924,8 +5154,8 @@
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line2": "§9抗火 (00:25)",
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line1": "§9雷霆之力 (00:25)",
       "item.ice_and_fire_delight.fire_lily_extract": "烈焰百合提取液",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9烈焰附加 (10:00)",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9抗火 (05:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9烈焰附加 (04:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9抗火 (02:00)",
       "item.ice_and_fire_delight.spices_from_witherbone": "凋零骨头尘",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "配方",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.name": "沙漠蚁脂果冻",
@@ -4934,6 +5164,7 @@
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "配方",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.desc": "也许你已经看出来了。这把刀由强大的带毒猛兽——九头蛇，的毒牙制作而来。在使用它攻击敌人时会给予敌人10秒的“中毒”效果。",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.desc": "沙漠蚁脂果冻并不是主菜，它常常作为甜点或在没有其他食物的情况下被食用。",
+      "item.ice_and_fire_delight.phantom_knife": "Phantom knife",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.name": "九头蛇尖牙刀",
       "item.ice_and_fire_delight.cooked_troll_meat": "熟食人妖肉",
       "item.ice_and_fire_delight.myrmex_desert_resin_jelly": "蚁脂果冻",
@@ -4950,6 +5181,7 @@
       "advancements.power_of_three_dragons_adv.descr": "获得“龙之力”效果",
       "advancements.rip_dragon_adv.descr": "烹饪出一些龙蛋卷",
       "advancements.too_much_power.descr": "在吃特别的食物时被炸飞",
+      "item.ice_and_fire_delight.tooltip.eye_chowder.line1": "",
       "effect.ice_and_fire_delight.lightning_strike.description": "在攻击时召唤一道闪电劈向敌人",
       "item.ice_and_fire_delight.lightning_minced_meat": "电龙肉末",
       "item.ice_and_fire_delight.fiery_hot_cocktail": "火热鸡尾酒",
@@ -4969,6 +5201,7 @@
       "block.ice_and_fire_delight.frost_pie": "§b冰霜派",
       "item.ice_and_fire_delight.frost_lily_extract": "寒冰百合提取液",
       "advancements.you_have_been_spotted.title": "有什么东西在盯着我？",
+      "item.ice_and_fire_delight.dragonbone_knife": "Dragonbone knife",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page4.title": "配方",
       "item.ice_and_fire_delight.sea_serpent_fang_knife": "海蟒尖牙刀",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc": "作为小吃，海蟒肉片相当于海蟒肉本身来说更加简便。你可以在轻微饥饿或者嘴馋的时候吃上一块。",
@@ -4977,8 +5210,8 @@
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line2": "§9抗火 (00:30)",
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line1": "§9烈焰附加 (00:10)",
       "advancements.delicacy_adv.title": "香喷喷！",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9抗火 (05:00)",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§雷霆之力 (10:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9抗火 (02:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§雷霆之力 (04:00)",
       "advancements.dragon_minced_meat_adv.title": "它们也没那么厉害嘛",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "海蟒的肉",
       "item.ice_and_fire_delight.lightning_heart_with_potatoes_in_mushroom_sauce": "电心土豆蘑菇酱",
@@ -5031,6 +5264,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "闪电百合提取液需要通过厨锅制备。我们需要2个闪电百合，把它们放进厨锅煮沸搅拌5秒，准备就绪后把提取液倒进空试管即可。",
       "item.ice_and_fire_delight.tooltip.myrmex_jungle_resin_jelly.line1": "§2丛林",
       "item.ice_and_fire_delight.frost_pie_slice": "冰霜派切块",
+      "item.ice_and_fire_delight.tooltip.phantom_knife_line1": "",
       "item.ice_and_fire_delight.tooltip.developer_comment": "按下shift键以查看开发者的评论",
       "advancements.feel_spicy.descr": "品尝用闪光鳞片制作的风味薯片！",
       "item.ice_and_fire_delight.fried_dragon_egg": "煎龙蛋",
@@ -5043,6 +5277,7 @@
       "item.ice_and_fire_delight.fire_dragon_ramen": "火龙拉面",
       "book.ice_and_fire_delight.category.foods.myrmex_desert_resin_jelly.page2.title": "配方",
       "advancements.grant_book_on_first_join_adv.title": "Technical adv",
+      "item.ice_and_fire_delight.tooltip.honey_glazed_cyclops_eye.line1": "",
       "effect.ice_and_fire_delight.warming.description": "免疫“冰霜附加”的效果",
       "item.ice_and_fire_delight.mini_pizza_blank": "迷你披萨面团",
       "item.ice_and_fire_delight.silver_knife": "银色小刀",
@@ -5062,6 +5297,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.name": "闪电百合提取液",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page3.text": "之后我们要将面团放进熔炉里加热一会，加热的时间根据熔炉的种类而定。",
       "item.ice_and_fire_delight.dragonsteel_fire_knife": "龙炎钢小刀",
+      "item.ice_and_fire_delight.honey_glazed_cyclops_eye": "Honey glazed Cyclops eye",
       "item.ice_and_fire_delight.chips_from_shiny_scales": "闪光鳞片薯片",
       "book.ice_and_fire_delight.category.foods.name": "食物",
       "item.ice_and_fire_delight.tooltip.ice_heart_with_potatoes_in_mushroom_sauce.line1": "§9龙之翼 (05:00)",
@@ -5098,10 +5334,10 @@
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line2": "§9中毒 (01:30) [10%]",
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line1": "§9毒抗性 (15:00) [90%]",
       "item.ice_and_fire_delight.tooltip.technical_item": "§l§c这个物品尚处于测试阶段或用于修正命令执行。",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9龙之翼 (20:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9龙之翼 (08:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.title": "配方",
       "book.ice_and_fire_delight.category.drinks.name": "饮品",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9龙之力 (15:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9龙之力 (06:00)",
       "book.ice_and_fire_delight.category.foods.fried_dragon_egg.page2.title": "配方",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line1": "§9冰霜附加 (08:20)",
       "item.ice_and_fire_delight.tooltip.frost_cocktail.line2": "§9抗寒 (06:40)",
@@ -5156,28 +5392,30 @@
       "item.ice_and_fire_delight.lightning_sausage": "电龙烤肠"
     },
     "pt_br": {
-      "item.ice_and_fire_delight.raw_mini_pizza_blank": "Base de mini pizza crua",
       "book.ice_and_fire_delight.landing_text": "Neste livro, você pode aprender mais sobre o conteúdo do mod Ice and Fire Delight",
+      "item.ice_and_fire_delight.raw_mini_pizza_blank": "Base de mini pizza crua",
       "item.ice_and_fire_delight.dragon_special_sausage": "Linguiça Especial de Dragão",
       "attribute.ice_and_fire_delight.number_of_explosions": "Número de Explosões",
       "item.ice_and_fire_delight.sea_serpent_meat": "Carne de Serpente Marinha",
       "item.ice_and_fire_delight.cyclops_steak": "Bife de ciclopes",
       "book.ice_and_fire_delight.category.items.silver_knife.name": "Faca de prata",
-      "item.ice_and_fire_delight.fire_minced_meat": "Carne moída de fogo",
       "effect.ice_and_fire_delight.ice_aspect": "Aspecto de gelo",
+      "item.ice_and_fire_delight.fire_minced_meat": "Carne moída de fogo",
       "book.ice_and_fire_delight.category.items.silver_knife.desc": "A Faca de Prata é uma faca especial feita de prata, ótima para matar mortos-vivos, pois causa dano extra a eles.",
       "item.ice_and_fire_delight.spices": "Especiarias",
       "item.ice_and_fire_delight.hydra_meat": "Carne de Hidra",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.desc": "O extrato de lírio de fogo é uma substância concentrada derivada do lírio de fogo. É usado como molho para pratos, mas também pode ser consumido diretamente. Quando consumido, dá o efeito \"Aspecto de fogo\" por 25 segundos.",
       "effect.ice_and_fire_delight.dragon_flight": "Voo do Dragão",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.name": "Chips brilhantes picantes",
-      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text": "A carne de serpente marinha é cozida em um forno. Dependendo do forno onde a carne é cozida, o tempo de cozimento varia. O tempo médio de cozimento é entre 8 e 10 segundos.",
-      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.desc": "Chips brilhantes picantes são uma variação de chips brilhantes com especiarias dos ossos do Wither. Quando consumidos, dão o efeito “Resistência ao fogo” por 30 segundos e “Aspecto de fogo” por 10 segundos.",
-      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Receita",
       "book.ice_and_fire_delight.category.drinks.fire_lily_extract.name": "Extrato de lírio de fogo",
+      "book.ice_and_fire_delight.category.foods.honey_glazed_troll_meat.page2.title": "Receita",
+      "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.desc": "Chips brilhantes picantes são uma variação de chips brilhantes com especiarias dos ossos do Wither. Quando consumidos, dão o efeito “Resistência ao fogo” por 30 segundos e “Aspecto de fogo” por 10 segundos.",
+      "book.ice_and_fire_delight.category.foods.sea_serpent_meat.page2.text": "A carne de serpente marinha é cozida em um forno. Dependendo do forno onde a carne é cozida, o tempo de cozimento varia. O tempo médio de cozimento é entre 8 e 10 segundos.",
       "item.ice_and_fire_delight.eye_chowder": "Ensopado de Olho",
       "advancements.you_have_been_spotted.descr": "Cozinhe um prato de olho de ciclope",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.name": "Chips de escamas brilhantes",
+      "effect.ice_and_fire_delight.center_of_weakness.description": "",
+      "block.ice_and_fire_delight.black_dragon_cutting_board": "Black dragon cutting board",
       "item.ice_and_fire_delight.myrmex_resin_cookie_desert": "Biscoito de resina Myrmex",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page2.text": "Primeiro, você precisa fazer uma Base de mini pizza crua, e para isso, é necessário usar duas massas de osso de dragão.",
       "advancements.power_of_three_dragons_adv.title": "O Poder dos Três Dragões",
@@ -5187,10 +5425,10 @@
       "item.ice_and_fire_delight.raw_ice_sausage": "Salsicha de gelo crua",
       "item.ice_and_fire_delight.flour_from_dragon_bones": "Farinha de ossos de dragão",
       "block.ice_and_fire_delight.electric_pie": "§bTorta elétrica",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Aspecto de Gelo (10:00)",
       "item.ice_and_fire_delight.cooked_sea_serpent_meat": "Carne de serpente marinha cozida",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line1": "§9Aspecto de Gelo (04:00)",
       "item.ice_and_fire_delight.troll_intestines": "Intestinos de troll",
-      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9Resistência ao Frio (05:00)",
+      "item.ice_and_fire_delight.tooltip.frost_pie_slice.line2": "§9Resistência ao Frio (02:00)",
       "book.ice_and_fire_delight.category.foods.chips_from_shiny_scales.page2.text": "Chips de escamas brilhantes são cozidos no forno. Leva de 8 a 10 segundos para você saborear esse lanche!",
       "item.ice_and_fire_delight.tooltip.lightning_dragon_hotdog.line2": "§9Resistência ao Fogo (06:40)",
       "item.ice_and_fire_delight.frost_cocktail": "Coquetel de geada",
@@ -5201,14 +5439,15 @@
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line2": "§9Resistência ao Fogo (00:25)",
       "item.ice_and_fire_delight.tooltip.lightning_lily_extract.line1": "§9Raio (00:25)",
       "item.ice_and_fire_delight.fire_lily_extract": "Extrato de lírio de fogo",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Aspecto de Fogo (10:00)",
-      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Resistência ao Fogo (05:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line1": "§9Aspecto de Fogo (04:00)",
+      "item.ice_and_fire_delight.tooltip.fiery_hot_pie_slice.line2": "§9Resistência ao Fogo (02:00)",
       "item.ice_and_fire_delight.spices_from_witherbone": "Especiarias de ossos do Wither",
       "book.ice_and_fire_delight.category.foods.spicy_chips_from_shiny_scales.page2.title": "Receita",
-      "advancements.grant_book_on_first_join_adv.descr": "Техническое достижение/Костыль",
       "effect.ice_and_fire_delight.dragons_might.description": "Ao atacar, incendeia, desacelera a vítima e a atinge com raios.",
+      "advancements.grant_book_on_first_join_adv.descr": "Техническое достижение/Костыль",
       "book.ice_and_fire_delight.category.foods.fresh_soup_from_sea_serpent.page2.title": "Receita",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.desc": "Esta faca é criada, como você já deve ter entendido, da presade uma grande besta venenosa - a Hidra. Quando atingida, a vítima recebe o efeito \"Venenoso\" por 10 segundos.",
+      "item.ice_and_fire_delight.phantom_knife": "Phantom knife",
       "book.ice_and_fire_delight.category.items.hydra_fang_knife.name": "Faca de presade Hidra",
       "item.ice_and_fire_delight.cooked_troll_meat": "Carne de troll cozida",
       "item.ice_and_fire_delight.myrmex_desert_resin_jelly": "Geleia de resina Myrmex",
@@ -5224,11 +5463,12 @@
       "advancements.power_of_three_dragons_adv.descr": "Obtenha o efeito \"Poder do Dragão\" ",
       "advancements.rip_dragon_adv.descr": "Prepare uma omelete de dragão",
       "advancements.too_much_power.descr": "Fique explodido ao comer comida especial",
+      "item.ice_and_fire_delight.tooltip.eye_chowder.line1": "",
       "effect.ice_and_fire_delight.lightning_strike.description": "O ataque atinge a vítima com um raio",
       "item.ice_and_fire_delight.lightning_minced_meat": "Carne moída de relâmpago",
       "item.ice_and_fire_delight.fiery_hot_cocktail": "Coquetel picante",
-      "item.ice_and_fire_delight.electric_cocktail": "Coquetel elétrico",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.desc": "A carne deste grande monstro marinho é uma iguaria por si só e uma captura rara, mas também é um ingrediente em pratos mais requintados.",
+      "item.ice_and_fire_delight.electric_cocktail": "Coquetel elétrico",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.text": "A fatia de serpente marinha é cozida em um forno. Dependendo do forno onde a carne é cozida, o tempo de cozimento varia. O tempo médio de cozimento é entre 5 e 8 segundos.",
       "advancements.feel_the_power_adv.descr": "Beba um coquetel especial",
       "item.ice_and_fire_delight.dragonsteel_ice_knife": "Faca de aço de dragão de gelo",
@@ -5243,6 +5483,7 @@
       "block.ice_and_fire_delight.frost_pie": "§bTorta de geada",
       "item.ice_and_fire_delight.frost_lily_extract": "Extrato de lírio de geada",
       "advancements.you_have_been_spotted.title": "Você foi visto",
+      "item.ice_and_fire_delight.dragonbone_knife": "Dragonbone knife",
       "item.ice_and_fire_delight.sea_serpent_fang_knife": "Faca de presa de serpente marinha",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page4.title": "Receita",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.desc": "A fatia de serpente marinha é um lanche mais leve do que a carne de serpente marinha em si. É comida quando você não está com muita fome ou quando precisa de um lanche rápido.",
@@ -5251,8 +5492,8 @@
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line2": "§9Resistência ao fogo (00:30)",
       "item.ice_and_fire_delight.tooltip.spicy_chips_from_shiny_scales.line1": "§9Aspecto de fogo (00:10)",
       "advancements.delicacy_adv.title": "Delicadeza!",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Resistência ao Fogo (05:00)",
-      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Raio (10:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line2": "§9Resistência ao Fogo (02:00)",
+      "item.ice_and_fire_delight.tooltip.electric_pie_slice.line1": "§9Raio (04:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_meat.name": "Carne de serpente marinha",
       "advancements.dragon_minced_meat_adv.title": "Não tão grande besta",
       "item.ice_and_fire_delight.lightning_heart_with_potatoes_in_mushroom_sauce": "Coração relâmpago com batatas em molho de cogumelos",
@@ -5290,6 +5531,7 @@
       "effect.ice_and_fire_delight.ice_aspect.description": "Congela a vítima ao atacar",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.text": "Extrato de lírio relâmpago é preparado em uma panela de cozinha. Para os ingredientes, precisamos apenas de 2 lírios relâmpago, colocamos para ferver e mexemos por 5 segundos, quando pronto, despeje o extrato em um cilindro medidor vazio.",
       "item.ice_and_fire_delight.frost_pie_slice": "Fatia de torta de geada",
+      "item.ice_and_fire_delight.tooltip.phantom_knife_line1": "",
       "advancements.feel_spicy.descr": "Comer chips picantes de escamas brilhantes",
       "item.ice_and_fire_delight.fried_dragon_egg": "Omelete de dragão",
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.page2.title": "Receita",
@@ -5299,6 +5541,7 @@
       "item.ice_and_fire_delight.cooked_sea_serpent_slice": "Fatia de serpente marinha cozida",
       "item.ice_and_fire_delight.fire_dragon_ramen": "Ramen de dragão de fogo",
       "advancements.grant_book_on_first_join_adv.title": "Dica técnica",
+      "item.ice_and_fire_delight.tooltip.honey_glazed_cyclops_eye.line1": "",
       "effect.ice_and_fire_delight.warming.description": "Resistência ao efeito de “Aspecto de Gelo”",
       "item.ice_and_fire_delight.mini_pizza_blank": "Mini pizza crua em branco",
       "item.ice_and_fire_delight.silver_knife": "Faca de prata",
@@ -5316,6 +5559,7 @@
       "book.ice_and_fire_delight.category.drinks.lightning_lily_extract.name": "Extrato de lírio relâmpago",
       "book.ice_and_fire_delight.category.foods.mini_pizza.page3.text": "Em seguida, precisamos cozinhar nossa base no forno. Dependendo do forno, o tempo de cozimento pode variar.",
       "item.ice_and_fire_delight.dragonsteel_fire_knife": "Faca de aço de dragão de fogo",
+      "item.ice_and_fire_delight.honey_glazed_cyclops_eye": "Honey glazed Cyclops eye",
       "item.ice_and_fire_delight.chips_from_shiny_scales": "Chips de escamas brilhantes",
       "book.ice_and_fire_delight.category.foods.name": "Alimentos",
       "item.ice_and_fire_delight.hydra_venom_soup": "Sopa de veneno de Hidra",
@@ -5341,10 +5585,10 @@
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line2": "§9Venenoso (01:30) [10%]",
       "item.ice_and_fire_delight.tooltip.hydra_venom_soup.line1": "§9Resistência ao veneno (15:00) [90%]",
       "item.ice_and_fire_delight.tooltip.technical_item": "§l§cEste item é técnico, ou seja, é necessário para o funcionamento correto do mod ou ainda está em teste",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Voo do Dragão (20:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line1": "§9Voo do Dragão (08:00)",
       "book.ice_and_fire_delight.category.foods.sea_serpent_slice.page2.title": "Receita",
       "book.ice_and_fire_delight.category.drinks.name": "Bebidas",
-      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Força do Dragão (15:00)",
+      "item.ice_and_fire_delight.tooltip.dragon_special_pie_slice.line2": "§9Força do Dragão (06:00)",
       "item.ice_and_fire_delight.fire_sausage": "Salsicha de fogo",
       "advancements.feel_spicy.title": "Sinta a picância",
       "advancements.root.title": "Ice and Fire Delight",
@@ -5393,7 +5637,7 @@
   "workspaceSettings": {
     "modid": "ice_and_fire_delight",
     "modName": "Ice and Fire Delight",
-    "version": "0.2.3",
+    "version": "0.2.4",
     "description": "Mod adds the integration of Ice and Fire with Farmer\u0027s Delight",
     "author": "Donne431",
     "websiteURL": "https://modrinth.com/mod/ice-and-fire-delight",
@@ -5413,6 +5657,7 @@
       "ice_and_fire",
       "patchouli",
       "farmers_delight",
+      "citadel",
       "allmods",
       "jei"
     ],

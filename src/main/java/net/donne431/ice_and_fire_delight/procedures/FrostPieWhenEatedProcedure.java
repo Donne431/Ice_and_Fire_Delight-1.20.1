@@ -38,9 +38,9 @@ public class FrostPieWhenEatedProcedure {
 		if ((world.getBlockState(BlockPos.containing(x, y, z))).getBlock() == IceAndFireDelightModBlocks.FROST_PIE.get()) {
 			if (!(entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).is(ItemTags.create(new ResourceLocation("farmersdelight:tools/knives")))) {
 				if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.ICE_ASPECT.get(), 12000, 0));
+					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.ICE_ASPECT.get(), 4800, 0));
 				if (entity instanceof LivingEntity _entity && !_entity.level().isClientSide())
-					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.WARMING.get(), 6000, 0));
+					_entity.addEffect(new MobEffectInstance(IceAndFireDelightModMobEffects.WARMING.get(), 2400, 0));
 			}
 		}
 	}

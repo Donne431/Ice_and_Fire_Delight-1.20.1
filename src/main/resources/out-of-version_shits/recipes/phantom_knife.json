@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "ice_and_fire_delight:dragonbone_knife"
+    },
+    {
+      "item": "iceandfire:ghost_ingot"
+    }
+  ],
+  "result": {
+    "item": "ice_and_fire_delight:phantom_knife"
+  }
+}

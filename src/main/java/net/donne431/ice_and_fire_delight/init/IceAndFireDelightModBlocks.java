@@ -14,6 +14,7 @@ import net.donne431.ice_and_fire_delight.block.FrostPieBlock;
 import net.donne431.ice_and_fire_delight.block.FieryHotPieBlock;
 import net.donne431.ice_and_fire_delight.block.ElectricPieBlock;
 import net.donne431.ice_and_fire_delight.block.DragonSpecialPieBlock;
+import net.donne431.ice_and_fire_delight.block.BlackDragonCuttingBoardBlock;
 import net.donne431.ice_and_fire_delight.IceAndFireDelightMod;
 
 public class IceAndFireDelightModBlocks {
@@ -22,4 +23,5 @@ public class IceAndFireDelightModBlocks {
 	public static final RegistryObject<Block> FROST_PIE = REGISTRY.register("frost_pie", () -> new FrostPieBlock());
 	public static final RegistryObject<Block> ELECTRIC_PIE = REGISTRY.register("electric_pie", () -> new ElectricPieBlock());
 	public static final RegistryObject<Block> DRAGON_SPECIAL_PIE = REGISTRY.register("dragon_special_pie", () -> new DragonSpecialPieBlock());
+	public static final RegistryObject<Block> BLACK_DRAGON_CUTTING_BOARD = REGISTRY.register("black_dragon_cutting_board", () -> new BlackDragonCuttingBoardBlock());
 }
